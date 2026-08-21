@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ROBLOX Avatar Editor (2014)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+/* ROBLOX 2014 Android avatar editor — pixel recreation */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html, body {
+  background: #fff;
+}
+
+body {
+  font-family: "Source Sans Pro", "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.stage {
+  position: relative;
+  width: 680px;
+  height: 510px;
+  /* Android status-bar scrim (light): ~#F8F8F8 band fading to white */
+  background: linear-gradient(180deg,
+    #f7f7f7 0px,
+    #f7f7f7 24px,
+    #fbfbfb 32px,
+    #ffffff 44px);
+  overflow: hidden;
+}
+
+/* ================= NAVBAR ================= */
+.nav { position: absolute; }
+
+.menu-icon rect { fill: #050c38; }
+
+.logo path { fill: #adadad; }
+
+.nav.pill {
+  left: 277px; top: 29px;
+  width: 57px; height: 5px;
+  background: #d3d3d3;
+  border-radius: 2.5px;
+}
+
+.nav.hairline {
+  left: 373px; top: 33px;
+  width: 287px; height: 1px;
+  background: #e0e0e0;
+}
+
+.robux .robux-coin {
+  fill: #c8f0bf;
+  stroke: #6cb96f;
+  stroke-width: 1;
+}
+.robux .robux-glyph {
+  fill: #2e6e3c;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-size: 8.5px;
+  font-weight: 700;
+  text-anchor: middle;
+}
+
+.tickets .ticket-body {
+  fill: #e8d9ae;
+  stroke: #b9a57f;
+  stroke-width: 0.8;
+}
+.tickets .ticket-band { fill: #d98e55; }
+
+.nav.amount {
+  position: absolute;
+  font-size: 13px;
+  font-weight: 600;
+  color: #6e6e6e;
+  line-height: 1;
+}
+
+/* ================= LEFT PANEL ================= */
+.avatar-zone {
+  position: absolute;
+  left: 8px; top: 56px;
+  width: 260px; height: 222px;
+  /* intentionally blank */
+}
+
+.enable3d {
+  position: absolute;
+  left: 227px; top: 262px;
+  width: 37px; height: 13px;
+  border: 1px solid #e9e9e9;
+  border-radius: 7px;
+  background: #ffffff;
+  font-size: 9px;
+  color: #606060;
+  text-align: center;
+  line-height: 12px;
+}
+
+.link1 {
+  position: absolute;
+  left: 23px; top: 279px;
+  font-size: 13px;
+  color: #8a8a8a;
+  white-space: nowrap;
+}
+
+.link2 {
+  position: absolute;
+  left: 23px; top: 293px;
+  font-size: 13px;
+  color: #6d7e90;
+  white-space: nowrap;
+}
+
+.avatar-title {
+  position: absolute;
+  left: 23px; top: 355px;
+  font-size: 17px;
+  font-weight: 700;
+  color: #1f1f1f;
+}
+
+.avatar-hint {
+  position: absolute;
+  left: 69px; top: 387px;
+  font-size: 13px;
+  color: #6c6c6c;
+  white-space: nowrap;
+}
+
+.palette-dot {
+  position: absolute;
+  width: 31px; height: 31px;
+  border-radius: 50%;
+  background: #ffcc99;
+}
+
+/* ================= RIGHT PANEL ================= */
+.create-btn {
+  position: absolute;
+  left: 583px; top: 57px;
+  width: 72px; height: 18px;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  background: #ffffff;
+  font-size: 11px;
+  font-weight: 600;
+  color: #2e2e2e;
+  text-align: center;
+  line-height: 17px;
+  white-space: nowrap;
+}
+
+.outfit-name {
+  position: absolute;
+  font-size: 11px;
+  font-weight: 600;
+  color: #353535;
+  white-space: nowrap;
+}
+
+.outfit-created {
+  position: absolute;
+  font-size: 11px;
+  color: #adadad;
+  white-space: nowrap;
+}
+
+.outfit-date {
+  position: absolute;
+  font-size: 10px;
+  color: #828282;
+  white-space: nowrap;
+}
+
+.page-chip {
+  position: absolute;
+  top: 339px;
+  width: 20px; height: 17px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.page-chip.left {
+  left: 424px;
+  border: 1px solid #e8e8e8;
+  background: #fcfcfc;
+}
+.page-chip.right {
+  left: 500px;
+  border: 1px solid #b0b0b0;
+  background: #ffffff;
+}
+.chev-l {
+  fill: none;
+  stroke: #c4c4c4;
+  stroke-width: 2.2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.chev-r {
+  fill: none;
+  stroke: #adadad;
+  stroke-width: 2.2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.page-text {
+  position: absolute;
+  left: 450px; top: 341px;
+  font-size: 12px;
+  color: #505050;
+  white-space: nowrap;
+}
+
+.divider { position: absolute; }
+.divider.d1 { left: 260px; top: 374px; width: 380px; height: 1px; background: #e5e5e5; }
+.divider.d2 { left: 261px; top: 375px; width: 378px; height: 1px; background: #f1f1f1; }
+
+.wearing-title {
+  position: absolute;
+  left: 272px; top: 391px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #202020;
+}
+
+.remove-btn {
+  position: absolute;
+  top: 425px;
+  width: 35px; height: 17px;
+  border-radius: 4px;
+  background: linear-gradient(180deg,
+    #2c6ec8 0%,
+    #0d6ef1 28%,
+    #9ed4ff 38%,
+    #a7d1ff 48%,
+    #0e57b0 60%,
+    #0e4d94 100%);
+  text-align: center;
+  line-height: 17px;
+}
+.remove-btn::after {
+  content: "Remove";
+  font-size: 9px;
+  font-weight: 700;
+  color: #0b3172;
+}
+
+.item-name {
+  position: absolute;
+  top: 502px;
+  font-size: 9px;
+  color: #758a9e;
+  white-space: nowrap;
+}
+
+.online-chip {
+  position: absolute;
+  left: 627px; top: 492px;
+  width: 48px; height: 18px;
+  border-radius: 8px;
+  background: #d6d6d6;
+  display: flex;
+  align-items: center;
+}
+.online-dot {
+  width: 9px; height: 9px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 38% 35%, #7bca85 0%, #2e9e41 55%, #1c8121 100%);
+  margin: 0 4px 0 4px;
+  flex: none;
+}
+.online-text {
+  font-size: 10px;
+  font-weight: 700;
+  color: #141414;
+  line-height: 1;
+}
+
+</style>
+</head>
+<body>
+<div class="stage">
+
+  <!-- ============ NAVBAR (y 0-36) ============ -->
+  <svg class="nav menu-icon" width="18" height="16" viewBox="0 0 18 16" style="left:12px;top:8px;">
+    <!-- 3x3 grid of squares -->
+    <rect x="1"  y="0" width="4" height="4" rx="1"/>
+    <rect x="6"  y="0" width="4" height="4" rx="1"/>
+    <rect x="11" y="0" width="4" height="4" rx="1"/>
+    <rect x="1"  y="5" width="4" height="4" rx="1"/>
+    <rect x="6"  y="5" width="4" height="4" rx="1"/>
+    <rect x="11" y="5" width="4" height="4" rx="1"/>
+    <rect x="1"  y="9" width="4" height="4" rx="1"/>
+    <rect x="6"  y="9" width="4" height="4" rx="1"/>
+    <rect x="11" y="9" width="4" height="4" rx="1"/>
+  </svg>
+
+  <svg class="nav logo" width="21" height="19" viewBox="0 0 21 19" style="left:31px;top:6px;">
+    <path d="M6,3h1v1h-1z M8,4h3v1h-3z M6,5h6v1h-6z M5,6h6v1h-6z M2,7h9v1h-9z M2,8h9v1h-9z M2,9h9v1h-9z M5,10h6v1h-6z M7,11h5v1h-5z M9,12h2v1h-2z"/>
+  </svg>
+
+  <div class="nav pill"></div>
+  <div class="nav hairline"></div>
+
+  <svg class="nav robux" width="19" height="15" viewBox="0 0 19 15" style="left:528px;top:6px;">
+    <ellipse cx="9.5" cy="7.5" rx="8" ry="5" transform="rotate(-12 9.5 7.5)" class="robux-coin"/>
+    <text x="9.5" y="10.6" class="robux-glyph">R$</text>
+  </svg>
+  <div class="nav amount" style="left:549px;top:7px;">91</div>
+
+  <svg class="nav tickets" width="15" height="14" viewBox="0 0 15 14" style="left:596px;top:7px;">
+    <path class="ticket-body" d="M2.5,0.8 L12.5,0.8 L13.9,1.6 L13.6,2.4 L14.6,3.2 L14.2,4.1 L14.9,4.8 L14.5,5.7 L15,6.5 L14.6,7.4 L15,8.2 L14.5,9.1 L15,9.9 L14.5,10.7 L15,11.5 L14.6,12.4 L14.9,13.1 L14.2,13.9 L13.6,13.5 L13.9,14 L12.5,14.3 L2.5,14.3 L1.1,14 L1.4,13.5 L0.4,13.9 L0.6,13.1 L0.2,12.4 L0.7,11.5 L0.2,10.7 L0.7,9.9 L0.2,9.1 L0.7,8.2 L0.2,7.4 L0.6,6.5 L0.2,5.7 L0.7,4.8 L0.2,4.1 L0.6,3.2 L0.2,2.4 L0.6,1.6 Z"/>
+    <rect x="6.6" y="2.4" width="2.2" height="10" class="ticket-band"/>
+  </svg>
+  <div class="nav amount" style="left:611px;top:7px;">12</div>
+
+  <!-- ============ LEFT PANEL ============ -->
+  <!-- avatar canvas left blank -->
+  <div class="avatar-zone"></div>
+
+  <div class="enable3d">Enable 3D</div>
+
+  <div class="link1">Something wrong with your Avatar?</div>
+  <div class="link2">Click here to re-draw it!</div>
+
+  <div class="avatar-title">Avatar Colors</div>
+  <div class="avatar-hint">Click a body part to change its color:</div>
+
+  <!-- palette: staggered grid of circles -->
+  <div class="palette-dot" style="left:126px;top:410px;"></div>
+  <div class="palette-dot" style="left:78.5px;top:444px;"></div>
+  <div class="palette-dot" style="left:110px;top:444px;"></div>
+  <div class="palette-dot" style="left:141px;top:444px;"></div>
+  <div class="palette-dot" style="left:173px;top:444px;"></div>
+  <div class="palette-dot" style="left:78.5px;top:470px;"></div>
+  <div class="palette-dot" style="left:110px;top:470px;"></div>
+  <div class="palette-dot" style="left:141px;top:470px;"></div>
+  <div class="palette-dot" style="left:173px;top:470px;"></div>
+  <div class="palette-dot" style="left:109px;top:502px;"></div>
+  <div class="palette-dot" style="left:141.5px;top:502px;"></div>
+
+  <!-- ============ RIGHT PANEL ============ -->
+  <div class="create-btn">Create New Outfit</div>
+
+  <!-- row 1 -->
+  <div class="outfit-name" style="left:290px;top:161px;">Hallow</div>
+  <div class="outfit-name" style="left:367px;top:161px;">Racer</div>
+  <div class="outfit-name" style="left:448px;top:161px;">The Dark One</div>
+  <div class="outfit-name" style="left:527px;top:161px;">Deadman</div>
+  <div class="outfit-created" style="left:290px;top:176px;">Created:</div>
+  <div class="outfit-created" style="left:370px;top:176px;">Created:</div>
+  <div class="outfit-created" style="left:449px;top:176px;">Created:</div>
+  <div class="outfit-created" style="left:529px;top:176px;">Created:</div>
+  <div class="outfit-date" style="left:290px;top:190px;">10/13/2014</div>
+  <div class="outfit-date" style="left:370px;top:190px;">10/5/2014</div>
+  <div class="outfit-date" style="left:449px;top:190px;">10/4/2014</div>
+  <div class="outfit-date" style="left:528px;top:190px;">9/16/2014</div>
+
+  <!-- row 2 -->
+  <div class="outfit-name" style="left:287px;top:288px;">RobloxUnver...</div>
+  <div class="outfit-name" style="left:368px;top:288px;">SliverMan</div>
+  <div class="outfit-name" style="left:448px;top:288px;">oldmAn</div>
+  <div class="outfit-name" style="left:528px;top:288px;">MrZombie</div>
+  <div class="outfit-created" style="left:287px;top:303px;">Created:</div>
+  <div class="outfit-created" style="left:368px;top:303px;">Created:</div>
+  <div class="outfit-created" style="left:448px;top:303px;">Created:</div>
+  <div class="outfit-created" style="left:528px;top:303px;">Created:</div>
+  <div class="outfit-date" style="left:287px;top:315px;">9/10/2014</div>
+  <div class="outfit-date" style="left:368px;top:315px;">9/5/2014</div>
+  <div class="outfit-date" style="left:448px;top:315px;">9/5/2014</div>
+  <div class="outfit-date" style="left:528px;top:315px;">8/20/2014</div>
+
+  <!-- pagination -->
+  <div class="page-chip left">
+    <svg width="8" height="10" viewBox="0 0 8 10"><path class="chev-l" d="M5.5,1 L2,5 L5.5,9"/></svg>
+  </div>
+  <div class="page-text">Page 1 of 2</div>
+  <div class="page-chip right">
+    <svg width="8" height="10" viewBox="0 0 8 10"><path class="chev-r" d="M2.5,1 L6,5 L2.5,9"/></svg>
+  </div>
+
+  <div class="divider d1"></div>
+  <div class="divider d2"></div>
+
+  <div class="wearing-title">Currently Wearing</div>
+
+  <div class="remove-btn" style="left:322px;"></div>
+  <div class="remove-btn" style="left:413px;"></div>
+  <div class="remove-btn" style="left:504px;"></div>
+  <div class="remove-btn" style="left:595px;"></div>
+
+  <!-- worn item thumbnails left blank -->
+
+  <div class="item-name" style="left:274px;">ZombieFad</div>
+  <div class="item-name" style="left:365px;">Ghost Factor</div>
+  <div class="item-name" style="left:455px;">Halloween Adidas</div>
+  <div class="item-name" style="left:545px;">JackOLantern</div>
+
+  <div class="online-chip">
+    <span class="online-dot"></span>
+    <span class="online-text">Online</span>
+  </div>
+
+</div>
+</body>
+</html>
