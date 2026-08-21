@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-98af7cf6-4a4d-4ff2-a7bd-406a5ed5f3bd@mhtml.blink" />
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3">
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv">
+<!-- End Wayback Rewrite JS Include -->
+<title>
+	ROBLOX Login
+</title>
+<link rel="stylesheet" href="https://web.archive.org/web/20131216064009cs_/https://www.roblox.com/CSS/Base/CSS/FetchCSS?path=reset___90041b2af2fb6b9b7864ee66001ba812_m.css">
+
+<link rel="stylesheet" href="https://web.archive.org/web/20131216064009cs_/https://www.roblox.com/CSS/Base/CSS/FetchCSS?path=main___93d7b975be9106ab72cfa4deac3a5583_m.css">
+
+
+
+
+
+
+
+    
+</head>
+<body style="background: #E1E1E1;" data-parent-url="http://www.roblox.com/User.aspx?ID=998594" data-captchaon="false" data-clientipaddress="207.241.226.219" data-redirecttohttp="true">
+ <div id="NotLoggedInPanel">
+	<form name="FacebookLoginForm" method="post" action="https://web.archive.org/web/20131216064009/https://www.roblox.com/Login/iFrameLogin.aspx?loginRedirect=True&amp;parentUrl=http%3a%2f%2fwww.roblox.com%2fUser.aspx%3fID%3d998594" id="FacebookLoginForm">
+<div>
+
+
+
+</div>
+
+
+
+
+
+
+
+<div>
+
+	
+</div>
+        
+
+        <div id="LoginForm">
+            <div class="newLogin" id="newLoginContainer">                
+                <div class="UserNameDiv">
+                    <label class="form-label" for="UserName">Username</label>
+                    <br><input name="UserName" type="text" id="UserName" class="text-box text-box-medium LoginFormInput" style="width: 144px;" tabindex="1">
+                </div>
+                <div class="PasswordDiv">
+                    <label class="form-label" for="Password">Password</label>
+                    <br><input name="Password" type="password" id="Password" class="text-box text-box-medium LoginFormInput" style="width:152px;" tabindex="2">
+                </div>
+				<div style="clear:both"></div>
+                <div id="iFrameCaptchaControl">
+                    
+                </div>
+				<div id="ErrorMessage" style="color:Red"></div>
+                <div class="LoginFormFieldSet">
+					<span id="NotAMemberLink" class="footnote" style="position: absolute;top: 50%;margin-top: -8px;">
+						Not a member?
+						<a href="https://web.archive.org/web/20131216064009/https://www.roblox.com/Login/Signup.aspx" target="_top">Sign up!</a>
+					</span>
+                    <span id="ForgotPasswordLink" class="footnote" style="display: none;position: absolute;top: 50%;margin-top: -8px;">
+					    <a href="https://web.archive.org/web/20131216064009if_/https://www.roblox.com/Login/ResetPasswordRequest.aspx" target="_top">Forgot your password?</a>
+                    </span>
+                    <a class="btn-small btn-neutral" id="LoginButton" tabindex="4" style="float:right; margin-top:8px;">Login</a>
+					
+					<span id="LoggingInStatus" style="display: none; position: absolute; right: 8px;margin-top: -11px;top: 50%;">
+						<img src="https://web.archive.org/web/20131216064009im_/https://s3.amazonaws.com/images.roblox.com/6ec6fa292c1dcdb130dcf316ac050719.gif" style="margin-right: 5px;width: 20px;height: 20px;" alt="">
+						<span style="top: -5px;position: absolute;position: relative;">Logging in...</span>
+					</span>
+                </div>
+				<div id="SocialNetworkSignIn">
+					<div id="fb-root"></div>
+					 
+					<div id="facebookSignIn">
+						<a class="facebook-login" href="https://web.archive.org/web/20131216064009/https://www.roblox.com/Facebook/SignIn?returnTo=http%3a%2f%2fwww.roblox.com%2fUser.aspx%3fID%3d998594" target="_top" ref="form-facebook">
+  	                        <span class="left"></span>
+                            <span class="middle">Login with Facebook<span>Login with Facebook</span></span>
+                            <span class="right"></span>
+	                    </a>
+					</div>
+					
+				</div>
+            </div>
+        </div>
+    </form>
+  </div>
+	
+
+
+
+</body></html><!--
+     FILE ARCHIVED ON 06:40:09 Dec 16, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:03:22 Aug 21, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+--><!--
+playback timings (ms):
+  capture_cache.get: 0.471
+  load_resource: 2822.288
+  PetaboxLoader3.resolve: 2774.595
+  PetaboxLoader3.datanode: 27.115
+-->

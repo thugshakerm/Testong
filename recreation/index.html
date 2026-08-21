@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ROBLOX Avatar Editor (2014)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="stage">
+
+  <!-- ============ NAVBAR (y 0-36) ============ -->
+  <svg class="nav menu-icon" width="18" height="16" viewBox="0 0 18 16" style="left:12px;top:8px;">
+    <!-- 3x3 grid of squares -->
+    <rect x="1"  y="0" width="4" height="4" rx="1"/>
+    <rect x="6"  y="0" width="4" height="4" rx="1"/>
+    <rect x="11" y="0" width="4" height="4" rx="1"/>
+    <rect x="1"  y="5" width="4" height="4" rx="1"/>
+    <rect x="6"  y="5" width="4" height="4" rx="1"/>
+    <rect x="11" y="5" width="4" height="4" rx="1"/>
+    <rect x="1"  y="9" width="4" height="4" rx="1"/>
+    <rect x="6"  y="9" width="4" height="4" rx="1"/>
+    <rect x="11" y="9" width="4" height="4" rx="1"/>
+  </svg>
+
+  <svg class="nav logo" width="21" height="19" viewBox="0 0 21 19" style="left:31px;top:6px;">
+    <path d="M6,3h1v1h-1z M8,4h3v1h-3z M6,5h6v1h-6z M5,6h6v1h-6z M2,7h9v1h-9z M2,8h9v1h-9z M2,9h9v1h-9z M5,10h6v1h-6z M7,11h5v1h-5z M9,12h2v1h-2z"/>
+  </svg>
+
+  <div class="nav pill"></div>
+  <div class="nav hairline"></div>
+
+  <svg class="nav robux" width="19" height="15" viewBox="0 0 19 15" style="left:528px;top:6px;">
+    <ellipse cx="9.5" cy="7.5" rx="8" ry="5" transform="rotate(-12 9.5 7.5)" class="robux-coin"/>
+    <text x="9.5" y="10.6" class="robux-glyph">R$</text>
+  </svg>
+  <div class="nav amount" style="left:549px;top:7px;">91</div>
+
+  <svg class="nav tickets" width="15" height="14" viewBox="0 0 15 14" style="left:596px;top:7px;">
+    <path class="ticket-body" d="M2.5,0.8 L12.5,0.8 L13.9,1.6 L13.6,2.4 L14.6,3.2 L14.2,4.1 L14.9,4.8 L14.5,5.7 L15,6.5 L14.6,7.4 L15,8.2 L14.5,9.1 L15,9.9 L14.5,10.7 L15,11.5 L14.6,12.4 L14.9,13.1 L14.2,13.9 L13.6,13.5 L13.9,14 L12.5,14.3 L2.5,14.3 L1.1,14 L1.4,13.5 L0.4,13.9 L0.6,13.1 L0.2,12.4 L0.7,11.5 L0.2,10.7 L0.7,9.9 L0.2,9.1 L0.7,8.2 L0.2,7.4 L0.6,6.5 L0.2,5.7 L0.7,4.8 L0.2,4.1 L0.6,3.2 L0.2,2.4 L0.6,1.6 Z"/>
+    <rect x="6.6" y="2.4" width="2.2" height="10" class="ticket-band"/>
+  </svg>
+  <div class="nav amount" style="left:611px;top:7px;">12</div>
+
+  <!-- ============ LEFT PANEL ============ -->
+  <!-- avatar canvas left blank -->
+  <div class="avatar-zone"></div>
+
+  <div class="enable3d">Enable 3D</div>
+
+  <div class="link1">Something wrong with your Avatar?</div>
+  <div class="link2">Click here to re-draw it!</div>
+
+  <div class="avatar-title">Avatar Colors</div>
+  <div class="avatar-hint">Click a body part to change its color:</div>
+
+  <!-- palette: staggered grid of circles -->
+  <div class="palette-dot" style="left:126px;top:410px;"></div>
+  <div class="palette-dot" style="left:78.5px;top:444px;"></div>
+  <div class="palette-dot" style="left:110px;top:444px;"></div>
+  <div class="palette-dot" style="left:141px;top:444px;"></div>
+  <div class="palette-dot" style="left:173px;top:444px;"></div>
+  <div class="palette-dot" style="left:78.5px;top:470px;"></div>
+  <div class="palette-dot" style="left:110px;top:470px;"></div>
+  <div class="palette-dot" style="left:141px;top:470px;"></div>
+  <div class="palette-dot" style="left:173px;top:470px;"></div>
+  <div class="palette-dot" style="left:109px;top:502px;"></div>
+  <div class="palette-dot" style="left:140px;top:502px;"></div>
+
+  <!-- ============ RIGHT PANEL ============ -->
+  <div class="create-btn">Create New Outfit</div>
+
+  <!-- row 1 -->
+  <div class="outfit-name" style="left:290px;top:161px;">Hallow</div>
+  <div class="outfit-name" style="left:367px;top:161px;">Racer</div>
+  <div class="outfit-name" style="left:448px;top:161px;">The Dark One</div>
+  <div class="outfit-name" style="left:527px;top:161px;">Deadman</div>
+  <div class="outfit-created" style="left:290px;top:176px;">Created:</div>
+  <div class="outfit-created" style="left:370px;top:176px;">Created:</div>
+  <div class="outfit-created" style="left:449px;top:176px;">Created:</div>
+  <div class="outfit-created" style="left:529px;top:176px;">Created:</div>
+  <div class="outfit-date" style="left:290px;top:190px;">10/13/2014</div>
+  <div class="outfit-date" style="left:370px;top:190px;">10/5/2014</div>
+  <div class="outfit-date" style="left:449px;top:190px;">10/4/2014</div>
+  <div class="outfit-date" style="left:528px;top:190px;">9/16/2014</div>
+
+  <!-- row 2 -->
+  <div class="outfit-name" style="left:287px;top:288px;">RobloxUnver...</div>
+  <div class="outfit-name" style="left:368px;top:288px;">SliverMan</div>
+  <div class="outfit-name" style="left:448px;top:288px;">oldmAn</div>
+  <div class="outfit-name" style="left:528px;top:288px;">MrZombie</div>
+  <div class="outfit-created" style="left:287px;top:303px;">Created:</div>
+  <div class="outfit-created" style="left:368px;top:303px;">Created:</div>
+  <div class="outfit-created" style="left:448px;top:303px;">Created:</div>
+  <div class="outfit-created" style="left:528px;top:303px;">Created:</div>
+  <div class="outfit-date" style="left:287px;top:315px;">9/10/2014</div>
+  <div class="outfit-date" style="left:368px;top:315px;">9/5/2014</div>
+  <div class="outfit-date" style="left:448px;top:315px;">9/5/2014</div>
+  <div class="outfit-date" style="left:528px;top:315px;">8/20/2014</div>
+
+  <!-- pagination -->
+  <div class="page-chip left">
+    <svg width="8" height="10" viewBox="0 0 8 10"><path class="chev-l" d="M5.5,1 L2,5 L5.5,9"/></svg>
+  </div>
+  <div class="page-text">Page 1 of 2</div>
+  <div class="page-chip right">
+    <svg width="8" height="10" viewBox="0 0 8 10"><path class="chev-r" d="M2.5,1 L6,5 L2.5,9"/></svg>
+  </div>
+
+  <div class="divider d1"></div>
+  <div class="divider d2"></div>
+
+  <div class="wearing-title">Currently Wearing</div>
+
+  <div class="remove-btn" style="left:322px;"></div>
+  <div class="remove-btn" style="left:413px;"></div>
+  <div class="remove-btn" style="left:504px;"></div>
+  <div class="remove-btn" style="left:595px;"></div>
+
+  <!-- worn item thumbnails left blank -->
+
+  <div class="item-name" style="left:274px;">ZombieFad</div>
+  <div class="item-name" style="left:365px;">Ghost Factor</div>
+  <div class="item-name" style="left:455px;">Halloween Adidas</div>
+  <div class="item-name" style="left:545px;">JackOLantern</div>
+
+  <div class="online-chip">
+    <span class="online-dot"></span>
+    <span class="online-text">Online</span>
+  </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+.statsLabel { font-weight: bold; width: 200px; text-align: right; padding-right: 10px; }
+
+.statsValue { font-weight: normal; width: 200px; text-align: left; }
+
+.statsTable { width: 400px; }

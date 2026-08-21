@@ -1,0 +1,276 @@
+/* ROBLOX 2014 Android avatar editor — pixel recreation */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html, body {
+  background: #fff;
+}
+
+body {
+  font-family: "Source Sans Pro", "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.stage {
+  position: relative;
+  width: 680px;
+  height: 510px;
+  /* Android status-bar scrim (light): ~#F8F8F8 band fading to white */
+  background: linear-gradient(180deg,
+    #f7f7f7 0px,
+    #f7f7f7 24px,
+    #fbfbfb 32px,
+    #ffffff 44px);
+  overflow: hidden;
+}
+
+/* ================= NAVBAR ================= */
+.nav { position: absolute; }
+
+.menu-icon rect { fill: #050c38; }
+
+.logo path { fill: #adadad; }
+
+.nav.pill {
+  left: 277px; top: 29px;
+  width: 57px; height: 5px;
+  background: #d3d3d3;
+  border-radius: 2.5px;
+}
+
+.nav.hairline {
+  left: 373px; top: 33px;
+  width: 287px; height: 1px;
+  background: #e0e0e0;
+}
+
+.robux .robux-coin {
+  fill: #c8f0bf;
+  stroke: #6cb96f;
+  stroke-width: 1;
+}
+.robux .robux-glyph {
+  fill: #2e6e3c;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-size: 8.5px;
+  font-weight: 700;
+  text-anchor: middle;
+}
+
+.tickets .ticket-body {
+  fill: #e8d9ae;
+  stroke: #b9a57f;
+  stroke-width: 0.8;
+}
+.tickets .ticket-band { fill: #d98e55; }
+
+.nav.amount {
+  position: absolute;
+  font-size: 13px;
+  font-weight: 600;
+  color: #6e6e6e;
+  line-height: 1;
+}
+
+/* ================= LEFT PANEL ================= */
+.avatar-zone {
+  position: absolute;
+  left: 8px; top: 56px;
+  width: 260px; height: 222px;
+  /* intentionally blank */
+}
+
+.enable3d {
+  position: absolute;
+  left: 227px; top: 262px;
+  width: 37px; height: 13px;
+  border: 1px solid #e9e9e9;
+  border-radius: 7px;
+  background: #ffffff;
+  font-size: 9px;
+  color: #606060;
+  text-align: center;
+  line-height: 12px;
+}
+
+.link1 {
+  position: absolute;
+  left: 23px; top: 279px;
+  font-size: 13px;
+  color: #8a8a8a;
+  white-space: nowrap;
+}
+
+.link2 {
+  position: absolute;
+  left: 23px; top: 293px;
+  font-size: 13px;
+  color: #6d7e90;
+  white-space: nowrap;
+}
+
+.avatar-title {
+  position: absolute;
+  left: 23px; top: 355px;
+  font-size: 17px;
+  font-weight: 700;
+  color: #1f1f1f;
+}
+
+.avatar-hint {
+  position: absolute;
+  left: 69px; top: 387px;
+  font-size: 13px;
+  color: #6c6c6c;
+  white-space: nowrap;
+}
+
+.palette-dot {
+  position: absolute;
+  width: 31px; height: 31px;
+  border-radius: 50%;
+  background: #ffcc99;
+}
+
+/* ================= RIGHT PANEL ================= */
+.create-btn {
+  position: absolute;
+  left: 583px; top: 57px;
+  width: 72px; height: 18px;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  background: #ffffff;
+  font-size: 11px;
+  font-weight: 600;
+  color: #2e2e2e;
+  text-align: center;
+  line-height: 17px;
+  white-space: nowrap;
+}
+
+.outfit-name {
+  position: absolute;
+  font-size: 11px;
+  font-weight: 600;
+  color: #353535;
+  white-space: nowrap;
+}
+
+.outfit-created {
+  position: absolute;
+  font-size: 11px;
+  color: #adadad;
+  white-space: nowrap;
+}
+
+.outfit-date {
+  position: absolute;
+  font-size: 10px;
+  color: #828282;
+  white-space: nowrap;
+}
+
+.page-chip {
+  position: absolute;
+  top: 339px;
+  width: 20px; height: 17px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.page-chip.left {
+  left: 424px;
+  border: 1px solid #e8e8e8;
+  background: #fcfcfc;
+}
+.page-chip.right {
+  left: 500px;
+  border: 1px solid #b0b0b0;
+  background: #ffffff;
+}
+.chev-l {
+  fill: none;
+  stroke: #c4c4c4;
+  stroke-width: 2.2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.chev-r {
+  fill: none;
+  stroke: #adadad;
+  stroke-width: 2.2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.page-text {
+  position: absolute;
+  left: 450px; top: 341px;
+  font-size: 12px;
+  color: #505050;
+  white-space: nowrap;
+}
+
+.divider { position: absolute; }
+.divider.d1 { left: 260px; top: 374px; width: 380px; height: 1px; background: #e5e5e5; }
+.divider.d2 { left: 261px; top: 375px; width: 378px; height: 1px; background: #f1f1f1; }
+
+.wearing-title {
+  position: absolute;
+  left: 272px; top: 391px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #202020;
+}
+
+.remove-btn {
+  position: absolute;
+  top: 425px;
+  width: 35px; height: 17px;
+  border-radius: 4px;
+  background: linear-gradient(180deg,
+    #2c6ec8 0%,
+    #0d6ef1 28%,
+    #9ed4ff 38%,
+    #a7d1ff 48%,
+    #0e57b0 60%,
+    #0e4d94 100%);
+  text-align: center;
+  line-height: 17px;
+}
+.remove-btn::after {
+  content: "Remove";
+  font-size: 9px;
+  font-weight: 700;
+  color: #0b3172;
+}
+
+.item-name {
+  position: absolute;
+  top: 502px;
+  font-size: 9px;
+  color: #758a9e;
+  white-space: nowrap;
+}
+
+.online-chip {
+  position: absolute;
+  left: 627px; top: 492px;
+  width: 48px; height: 18px;
+  border-radius: 8px;
+  background: #d6d6d6;
+  display: flex;
+  align-items: center;
+}
+.online-dot {
+  width: 9px; height: 9px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 38% 35%, #7bca85 0%, #2e9e41 55%, #1c8121 100%);
+  margin: 0 4px 0 4px;
+  flex: none;
+}
+.online-text {
+  font-size: 10px;
+  font-weight: 700;
+  color: #141414;
+  line-height: 1;
+}

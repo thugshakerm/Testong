@@ -1,0 +1,2211 @@
+<!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" style="--wm-toolbar-height: 67px;"><!-- MachineID: WEB306 --><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-593ca95f-d65b-4433-b2c7-bcf43dc46538@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-8177ffe1-9e2a-479b-b984-3c61dc9ce0a2@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-9c186985-bef7-4b39-bbf4-b7f1cd795a07@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-76405882-e46a-4767-92a4-66365b0609bd@mhtml.blink" />
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3">
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv">
+<!-- End Wayback Rewrite JS Include -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,requiresActiveX=true"><title>
+	TheKentuckian - ROBLOX
+</title>
+<link rel="stylesheet" href="https://web.archive.org/web/20141201201623cs_/http://www.roblox.com/CSS/Base/CSS/FetchCSS?path=main___ccb0870e5c356f13245dc096ba3df9ae_m.css">
+
+<link rel="stylesheet" href="https://web.archive.org/web/20141201201623cs_/http://www.roblox.com/CSS/Base/CSS/FetchCSS?path=page___6c1cdae9f378ac053b781fbca3a17753_m.css">
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://web.archive.org/web/20141201201623im_/http://www.roblox.com/favicon.ico"><meta http-equiv="Content-Language" content="en-us"><meta name="author" content="ROBLOX Corporation"><meta id="ctl00_metadescription" name="description" content="View TheKentuckian's profile on ROBLOX.  ROBLOX is the place for free games online, where people like TheKentuckian imagine, build, and share their creations with their friends in a kid-safe environment.  There are millions of free games on ROBLOX.  15 of them are TheKentuckian's pics on ROBLOX for best free games.  TheKentuckian is the creator of 67 free games.  Visit ROBLOX now to play TheKentuckian's free games and discover thousands of others!"><meta id="ctl00_metakeywords" name="keywords" content="free games, online games, building games, virtual worlds, free mmo, gaming cloud, physics engine">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+	    	
+
+
+
+
+
+
+
+
+
+      
+</head>
+<body class=""><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+
+<div id="wm-ipp-base" lang="en" style="display: block; direction: ltr; height: 67px;" toolbar-mode="auto"><template shadowmode="closed"><div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;height:0;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="cid:frame-7E42E189BF0A9F373B8CD26F525C381B@mhtml.blink" scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;" nav="async">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="https://web.archive.org/web/" title="Wayback Machine home page"><img src="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png" alt="Wayback Machine" style="width:100px" border="0"></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="https://web.archive.org/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.roblox.com/User.aspx?ID=998594" style="flex:1;" autocomplete="off"><input type="submit" value="Go">
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;"><a class="t" href="https://web.archive.org/web/*/http://www.roblox.com/User.aspx?ID=998594" title="See a list of every capture for this URL">12 captures</a><div class="r" title="Timespan for captures of this URL">14 Sep 2008 - 25 Aug 2025</div></div>
+        <div class="k">
+          <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="775" height="27" border="0"></canvas>
+            <div class="yt" style="display: none; width: 25px; height: 27px;"></div><div class="mt" style="display: none; width: 2px; height: 27px;"></div></div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20140122213846/http://www.roblox.com/User.aspx?ID=998594" title="21:38:46 Jan 22, 2014">Jan</a></td>
+            <td class="c" id="displayMonthEl" title="You are here: 20:16:23 Dec 01, 2014">DEC</td>
+            <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20150521014642/http://www.roblox.com/User.aspx?ID=998594" title="01:46:42 May 21, 2015">May</a></td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20140122213846/http://www.roblox.com/User.aspx?ID=998594" title="21:38:46 Jan 22, 2014"><span class="ta"></span></a></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 20:16:23 Dec 01, 2014">01</td>
+            <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20150521014642/http://www.roblox.com/User.aspx?ID=998594" title="01:46:42 May 21, 2015"><span class="ta"></span></a></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20120903105147/http://www.roblox.com/User.aspx?ID=998594" title="10:51:47 Sep 3, 2012">2012</a></td>
+            <td class="c" id="displayYearEl" title="You are here: 20:16:23 Dec 01, 2014">2014</td>
+            <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20160210122805/http://www.roblox.com/User.aspx?ID=998594" title="12:28:05 Feb 10, 2016">2016</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594#" title="Share via My Web Archive" style="display: none;">
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in" style="display: inline-block;">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web" style="display: none;"></span>
+        </span>
+                <a class="xxs" href="https://help.archive.org/help/category/the-wayback-machine/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="https://web.archive.org/web/20141201201623/http://web.archive.org/screenshot/http://www.roblox.com/User.aspx?ID=998594" id="wm-screenshot" title="screenshot" style="visibility: hidden;">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594#" data-url="https://web.archive.org/web/20141201201623/http://www.roblox.com:80/User.aspx?ID=998594" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594#" data-url="https://web.archive.org/web/20141201201623/http://www.roblox.com:80/User.aspx?ID=998594" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/alexacrawls);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/alexacrawls" target="_new"><span class="wm-title">Alexa Crawls</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Starting in 1996, <a href="http://www.alexa.com/">Alexa Internet</a> has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the <a href="http://web.archive.org/">Wayback Machine</a> after an embargo period.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/alexacrawls)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/alexacrawls" target="_new"><span class="wm-title">Alexa Crawls</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Starting in 1996, <a href="http://www.alexa.com/">Alexa Internet</a> has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the <a href="http://web.archive.org/">Wayback Machine</a> after an embargo period.
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="https://web-static.archive.org/_static/images/loading.gif" alt="loading"></div>
+    </div>
+    </div>
+  </div></div></div><link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3"><link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv"><div class="wb-autocomplete-suggestions " style="left: 15px; top: 2569px; width: 707px;"></div></template>
+</div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20141201201623/http://www.roblox.com:80/User.aspx?ID=998594</div>
+
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+
+    
+ 
+    
+  
+
+<form name="aspnetForm" method="post" action="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594" id="aspnetForm" class="nav-container no-gutter-ads">
+<div>
+
+</div>
+
+
+
+<div>
+
+	
+	
+	
+</div>
+    <div id="fb-root">
+    </div>
+    
+    
+         
+    
+    
+    
+
+<div class="nav-icon" style="display: none;">
+</div>
+
+<!-- MENU -->
+<div class="header-2014 clearfix">
+    <div class="header-container">
+        <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/"><span class="logo" style="margin: 3px 0px 0px 45px;"></span></a>
+            <div id="header-login-container" class="right">
+                <div id="header-login-wrapper" class="iframe-login-signup" data-display-opened="False">
+                    <a id="header-signup" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/">Sign Up</a>
+                    <span id="header-or">or</span>
+                    <span id="login-span">
+                        <a id="header-login" class="btn-control btn-control-large">Login <span class="grey-arrow">▼</span></a>
+                    </span>
+                    <div id="iFrameLogin" style="display:none">
+                        <iframe class="login-frame" src="cid:frame-769526273951F3F2E1E93BA070DF0B83@mhtml.blink" scrolling="no" frameborder="0" data-ruffle-polyfilled=""></iframe>
+                    </div>
+                </div>
+            </div>
+        <div class="header-links">
+            <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/games">
+                <div class="games">
+                    Games
+                </div>
+            </a>
+            <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/catalog">
+                <div class="catalog">
+                    Catalog
+                </div>
+            </a>
+            <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/develop">
+                <div class="develop">
+                    Develop
+                </div>
+            </a>
+            <a class="buy-robux" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/upgrades/robux">
+                <div class="buy-robux">
+                    ROBUX
+                </div>
+            </a>
+        </div>
+        <div class="search">
+            <div class="search-input-container">
+
+                <input type="text" placeholder="Search">
+            </div>
+            <div class="search-icon"></div>
+            <div class="universal-search-dropdown">
+                <div class="universal-search-option selected" data-searchurl="/users/search?keyword=">
+                    <div class="universal-search-text">Search <span class="universal-search-string"></span> in People</div>
+                </div>
+                        <div class="universal-search-option" data-searchurl="/games/?Keyword=">
+                            <div class="universal-search-text">Search <span class="universal-search-string"></span> in Games</div>
+                        </div>
+                        <div class="universal-search-option" data-searchurl="/catalog/browse.aspx?CatalogContext=1&amp;Keyword=">
+                            <div class="universal-search-text">Search <span class="universal-search-string"></span> in Catalog</div>
+                        </div>
+                        <div class="universal-search-option" data-searchurl="/groups/search.aspx?val=">
+                            <div class="universal-search-text">Search <span class="universal-search-string"></span> in Groups</div>
+                        </div>
+                        <div class="universal-search-option" data-searchurl="/develop/library?CatalogContext=2&amp;Category=6&amp;Keyword=">
+                            <div class="universal-search-text">Search <span class="universal-search-string"></span> in Library</div>
+                        </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        <div id="navContent" class="nav-content nav-no-left" style="margin-left: 0px; width: 100%;"><div class="nav-content-inner">
+    <div id="MasterContainer">
+           
+        
+
+
+
+
+
+        
+        
+
+        <div id="Container">
+            
+            
+        </div>
+
+		
+    <div id="AdvertisingLeaderboard">
+        
+<div style="width: 728px">
+    <span id="3439303333373732" class="GPTAd banner" data-js-adtype="gptAd">
+        
+    </span>
+    <div class="ad-annotations " style="width: 728px">
+        <span class="ad-identification">Advertisement
+            <span> - </span>
+            <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594" class="UpsellAdButton" title="Click to learn how to remove ads!">Why am I seeing ads?</a>
+        </span>
+            <a class="BadAdButton" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Ads/ReportAd.aspx" title="click to report an offensive ad">Report</a>
+    </div>
+</div>
+    </div>
+
+
+        
+        
+        <div id="BodyWrapper">
+            <div id="RepositionBody">
+                <div id="Body" style="width:970px;">
+                    
+    
+    <div>
+        
+<div style="width:900px;height:30px;clear:both; display:none;">
+    <span id="ctl00_cphRoblox_rbxHeaderPane_nameRegion" style="font-size:20px; font-weight:bold;">TheKentuckian</span>
+</div>
+
+
+
+
+        
+        <div style="clear: both; margin: 0; padding: 0;"></div>
+        <div class="divider-right" style="width: 484px; float: left">
+            
+
+<h2 class="title">
+    <span id="ctl00_cphRoblox_rbxUserPane_lUserRobloxURL">TheKentuckian's Profile</span></h2>
+<div class="divider-bottom" style="position: relative;z-index:3;padding-bottom: 20px">
+    <div style="width: 100%">
+        <div id="ctl00_cphRoblox_rbxUserPane_onlineStatusRow">
+            <div style="text-align: center;">
+                
+                <span id="ctl00_cphRoblox_rbxUserPane_lUserOnlineStatus" class="UserOfflineMessage">[ Offline ]</span>
+                
+            </div>
+        </div>
+        <div>
+            <div>
+                <div class="UserPaneContainer">
+                    <div style="margin-bottom: 10px;">
+                        
+                    </div>
+                        
+
+<div id="UserAvatar" class="thumbnail-holder" data-3d-thumbs-enabled="" data-url="/web/20141201201623oe_/http://www.roblox.com/thumbnail/user-avatar?userId=998594&amp;thumbnailFormatId=124&amp;width=352&amp;height=352" style="width:352px; height:352px;">
+    <span class="thumbnail-span" data-3d-url="/avatar-thumbnail-3d/json?userId=998594" data-js-files="http://js.rbxcdn.com/2cdabe2b5b7eb87399a8e9f18dd7ea05.js"><img alt="TheKentuckian" class="" src="https://web.archive.org/web/20141201201623im_/http://t2.rbxcdn.com/a9b993db8381f4d7e0761ffe0b0b2f63"></span>
+    <span class="enable-three-dee btn-control btn-control-small" style="visibility: visible;">Enable 3D</span>
+</div>
+
+
+                    <br>
+                    
+                    
+
+<div class="UserBlurb" style="margin-top: 10px; overflow-y: auto; max-height: 450px; ">
+    David Lancaster
+<br>Secretary of State of the Union of Columbia
+<br>
+<br>If you have any questions, comments, or concerns related to the foreign relations of the Union of Columbia, please do not hesitate to private message me.
+<br>
+<br>My platform for Chief Executive: http://www.roblox.com/Forum/ShowPost.aspx?PostID=148876420
+</div>
+<div id="ProfileButtons" style="margin: 10px auto; width: 256px;">
+    
+            <a id="FriendButton" class="btn-control btn-control-large disabled">Send Friend Request</a>
+        
+    <div class="SendMessageProfileBtnDiv">
+        <a id="MessageButton" style="margin:0 5px" class="btn-control btn-control-large " href="https://web.archive.org/web/20141201201623/http://www.roblox.com/My/NewMessage.aspx?RecipientID=998594">Send Message</a>
+    </div>
+    
+    <div class="clear"></div>
+    <div style="display:none" class="status-error"></div>
+    
+</div>
+
+                    <div class="ProfileAlertPanel" style="display: none; margin: 15px auto 0px auto; width: 205px;">
+                        
+                        <br>
+                    </div>
+                    <div style="margin-right: 20px">
+                        
+                    </div>
+                    <div id="ctl00_cphRoblox_rbxUserPane_PreviousUserNames" style="text-align:center;">This user has changed usernames. <img class="tooltip-bottom" style="cursor:pointer;" src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/d3246f1ece35d773099f876a31a38e5a.png" original-title="Previous usernames: thepit44"></div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            
+
+
+<h2 class="title">
+<span>ROBLOX Badges</span>
+</h2>
+
+<div class="divider-bottom" style="padding-bottom: 20px">
+    <div style="display: inline-block; position: relative; left: -8px;">
+	    <table id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges" cellspacing="0" align="Left" border="0" style="border-collapse:collapse;">
+	<tbody><tr>
+		<td valign="top">
+			    <div class="Badge">
+				    <div class="BadgeImage"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl00_hlHeader" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge3"><img id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl00_iBadge" src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/8d77254fc1e6d904fd3ded29dfca28cb.png" alt="This badge is given to any player who has proven his or her combat abilities by accumulating 10 victories in battle. Players who have this badge are not complete newbies and probably know how to handle their weapons." style="height:75px;width:75px;border-width:0px;"></a></div>
+				    <div class="BadgeLabel"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl00_HyperLink1" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge3">Combat Initiation</a></div>
+			    </div>
+		    </td><td valign="top">
+			    <div class="Badge">
+				    <div class="BadgeImage"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl01_hlHeader" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge4"><img id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl01_iBadge" src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/0a010c31a8b482731114810590553be3.png" alt="This badge is given to the warriors of Robloxia, who have time and time again overwhelmed their foes in battle. To earn this badge, you must rack up 100 knockouts. Anyone with this badge knows what to do in a fight!" style="height:75px;width:75px;border-width:0px;"></a></div>
+				    <div class="BadgeLabel"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl01_HyperLink1" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge4">Warrior</a></div>
+			    </div>
+		    </td><td valign="top">
+			    <div class="Badge">
+				    <div class="BadgeImage"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl02_hlHeader" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge5"><img id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl02_iBadge" src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/139a7b3acfeb0b881b93a40134766048.png" alt="Anyone who has earned this badge is a very dangerous player indeed. Those Robloxians who excel at combat can one day hope to achieve this honor, the Bloxxer Badge. It is given to the warrior who has bloxxed at least 250 enemies and who has tasted victory more times than he or she has suffered defeat. Salute!" style="height:75px;width:75px;border-width:0px;"></a></div>
+				    <div class="BadgeLabel"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl02_HyperLink1" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge5">Bloxxer</a></div>
+			    </div>
+		    </td><td valign="top">
+			    <div class="Badge">
+				    <div class="BadgeImage"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl03_hlHeader" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge2"><img id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl03_iBadge" src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/5eb20917cf530583e2641c0e1f7ba95e.png" alt="This badge is given to players who have embraced the Roblox community and have made at least 20 friends. People who have this badge are good people to know and can probably help you out if you are having trouble." style="height:75px;width:75px;border-width:0px;"></a></div>
+				    <div class="BadgeLabel"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl03_HyperLink1" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge2">Friendship</a></div>
+			    </div>
+		    </td><td valign="top">
+			    <div class="Badge">
+				    <div class="BadgeImage"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl04_hlHeader" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge6"><img id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl04_iBadge" src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/b66bc601e2256546c5dd6188fce7a8d1.png" alt="The homestead badge is earned by having your personal place visited 100 times. Players who achieve this have demonstrated their ability to build cool things that other Robloxians were interested enough in to check out. Get a jump-start on earning this reward by inviting people to come visit your place." style="height:75px;width:75px;border-width:0px;"></a></div>
+				    <div class="BadgeLabel"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl04_HyperLink1" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge6">Homestead</a></div>
+			    </div>
+		    </td>
+	</tr><tr>
+		<td valign="top">
+			    <div class="Badge">
+				    <div class="BadgeImage"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl05_hlHeader" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge12"><img id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl05_iBadge" src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/b7e6cabb5a1600d813f5843f37181fa3.png" alt="This decoration is awarded to all citizens who have played ROBLOX for at least a year. It recognizes stalwart community members who have stuck with us over countless releases and have helped shape ROBLOX into the game that it is today. These medalists are the true steel, the core of the Robloxian history ... and its future." style="height:75px;width:75px;border-width:0px;"></a></div>
+				    <div class="BadgeLabel"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl05_HyperLink1" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge12">Veteran</a></div>
+			    </div>
+		    </td><td valign="top">
+			    <div class="Badge">
+				    <div class="BadgeImage"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl06_hlHeader" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge7"><img id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl06_iBadge" src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/49f3d30f5c16a1c25ea0f97ea8ef150e.png" alt="The Bricksmith badge is earned by having a popular personal place. Once your place has been visited 1000 times, you will receive this award. Robloxians with Bricksmith badges are accomplished builders who were able to create a place that people wanted to explore a thousand times. They no doubt know a thing or two about putting bricks together." style="height:75px;width:75px;border-width:0px;"></a></div>
+				    <div class="BadgeLabel"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl06_HyperLink1" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge7">Bricksmith</a></div>
+			    </div>
+		    </td><td valign="top">
+			    <div class="Badge">
+				    <div class="BadgeImage"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl07_hlHeader" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge8"><img id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl07_iBadge" src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/01044aca1d917eb20bfbdc5e25af1294.png" alt="Robloxia is a vast uncharted realm, as large as the imagination. Individuals who invite others to join in the effort of mapping this mysterious region are honored in Robloxian society. Citizens who successfully recruit three or more fellow explorers via the Share Roblox with a Friend mechanism are awarded with this badge." style="height:75px;width:75px;border-width:0px;"></a></div>
+				    <div class="BadgeLabel"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl07_HyperLink1" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge8">Inviter</a></div>
+			    </div>
+		    </td><td valign="top">
+			    <div class="Badge">
+				    <div class="BadgeImage"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl08_hlHeader" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge18"><img id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl08_iBadge" src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/6c2a598114231066a386fa716ac099c4.png" alt="This badge is awarded to players who have ever belonged to the illustrious Builders Club. These players are part of a long tradition of ROBLOX greatness." style="height:75px;width:75px;border-width:0px;"></a></div>
+				    <div class="BadgeLabel"><a id="ctl00_cphRoblox_rbxUserBadgesPane_dlBadges_ctl08_HyperLink1" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Badges.aspx#Badge18">Welcome To The Club</a></div>
+			    </div>
+		    </td><td></td>
+	</tr>
+</tbody></table>
+	    
+    </div>
+</div>
+
+            <div id="BadgesDisplayPane" class="divider-bottom" style="clear: both; padding-bottom: 20px">
+                
+
+
+
+<h2 class="title"><span>Player Badges</span></h2>
+<div class="badge-container">
+	    
+    <div id="ctl00_cphRoblox_rbxBadgesDisplay_BadgesUpdatePanel" class="badge-update-panel">
+	
+            <div id="roblox-badge-loading" class="BadgesLoading_Container badge-loading-indicator">
+                <img src="https://web.archive.org/web/20141201201623im_/http://www.roblox.com/images/ProgressIndicator4.gif" alt="Loading...">
+            </div>
+            <div class="BadgesListView_Container badge-list-view-container" style="height:300px;">
+                
+                         
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl0_AssetThumbnailHyperLink" title="1k+ Days Old -- Ancient Relic  (Creator: CrowClaws)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/1k-Days-Old-Ancient-Relic-item?id=171179398" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t5.rbxcdn.com/1227538e0d6e807ae3558f8f30d91ab4" height="75" width="75" border="0" alt="1k+ Days Old -- Ancient Relic  (Creator: CrowClaws)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo2128132615">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl0_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/1k-Days-Old-Ancient-Relic-item?id=171179398">1k+ Days Old -- Ancient Relic </a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl0_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=8896959">CrowClaws</a></span></div>
+                            </div>
+                        </div>
+                    
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl1_AssetThumbnailHyperLink" title="You Visited! (Creator: lolbunnyface)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/You-Visited-item?id=175024124" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t0.rbxcdn.com/c64131057a6eca7bee5306340aec5c48" height="75" width="75" border="0" alt="You Visited! (Creator: lolbunnyface)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo2017228873">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl1_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/You-Visited-item?id=175024124">You Visited!</a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl1_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=47148295">lolbunnyface</a></span></div>
+                            </div>
+                        </div>
+                    
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl2_AssetThumbnailHyperLink" title="1000+ VISITS! (Creator: iiLewiementz)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/1000-VISITS-item?id=159512542" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t5.rbxcdn.com/6ec8831352883aebccc08aec0d2beb24" height="75" width="75" border="0" alt="1000+ VISITS! (Creator: iiLewiementz)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo2012211826">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl2_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/1000-VISITS-item?id=159512542">1000+ VISITS!</a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl2_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=15862988">iiLewiementz</a></span></div>
+                            </div>
+                        </div>
+                    
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl3_AssetThumbnailHyperLink" title="You came to Costa Coffee Homestore V3! (Creator: iiLewiementz)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/You-came-to-Costa-Coffee-Homestore-V3-item?id=157591533" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t7.rbxcdn.com/239a71ee26aaf6f3f7692cc60338ed72" height="75" width="75" border="0" alt="You came to Costa Coffee Homestore V3! (Creator: iiLewiementz)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo2012211823">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl3_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/You-came-to-Costa-Coffee-Homestore-V3-item?id=157591533">You came to Costa Coffee Homestore V3!</a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl3_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=15862988">iiLewiementz</a></span></div>
+                            </div>
+                        </div>
+                    
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl4_AssetThumbnailHyperLink" title="Just like Dr Freeman (Creator: madattak)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Just-like-Dr-Freeman-item?id=132224115" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t0.rbxcdn.com/4bdfa7f8b7151a29a51104ab8e820702" height="75" width="75" border="0" alt="Just like Dr Freeman (Creator: madattak)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo1627793248">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl4_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Just-like-Dr-Freeman-item?id=132224115">Just like Dr Freeman</a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl4_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=799258">madattak</a></span></div>
+                            </div>
+                        </div>
+                    
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl5_AssetThumbnailHyperLink" title="Beta Tester (Creator: SONICTHEHEDGEHOGXX)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Beta-Tester-item?id=132651008" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t2.rbxcdn.com/59afd5321d8a0f28a0ab31bede9f4803" height="75" width="75" border="0" alt="Beta Tester (Creator: SONICTHEHEDGEHOGXX)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo1586038628">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl5_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Beta-Tester-item?id=132651008">Beta Tester</a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl5_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1134994">SONICTHEHEDGEHOGXX</a></span></div>
+                            </div>
+                        </div>
+                    
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl6_AssetThumbnailHyperLink" title="You Met E'l Cyberman969 The Ruler! (Creator: Cyberman969)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/You-Met-El-Cyberman969-The-Ruler-item?id=80370317" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t6.rbxcdn.com/0d646e995d477ae5e567246b68f3eb9f" height="75" width="75" border="0" alt="You Met E'l Cyberman969 The Ruler! (Creator: Cyberman969)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo1499214783">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl6_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/You-Met-El-Cyberman969-The-Ruler-item?id=80370317">You Met E'l Cyberman969 The Ruler!</a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl6_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1758585">Cyberman969</a></span></div>
+                            </div>
+                        </div>
+                    
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl7_AssetThumbnailHyperLink" title="Bungalow.  (Creator: TheGamer101)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Bungalow-item?id=119850578" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t1.rbxcdn.com/a29e6ffe7b78b09b26d8207179037c7c" height="75" width="75" border="0" alt="Bungalow.  (Creator: TheGamer101)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo1405410377">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl7_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Bungalow-item?id=119850578">Bungalow. </a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl7_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=2231221">TheGamer101</a></span></div>
+                            </div>
+                        </div>
+                    
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl8_AssetThumbnailHyperLink" title="Bronze minigames medal (Creator: Asleum)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Bronze-minigames-medal-item?id=91323278" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t7.rbxcdn.com/53e2c86a9121c423585c5b55fee0bb13" height="75" width="75" border="0" alt="Bronze minigames medal (Creator: Asleum)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo1198212478">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl8_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Bronze-minigames-medal-item?id=91323278">Bronze minigames medal</a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl8_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1423544">Asleum</a></span></div>
+                            </div>
+                        </div>
+                    
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl9_AssetThumbnailHyperLink" title="Thanks For Playing (Creator: WolfShark)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Thanks-For-Playing-item?id=98917236" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t7.rbxcdn.com/e81b4b2c852d8d934f42c70d1c9d736e" height="75" width="75" border="0" alt="Thanks For Playing (Creator: WolfShark)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo1141097931">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl9_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Thanks-For-Playing-item?id=98917236">Thanks For Playing</a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl9_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=2133106">WolfShark</a></span></div>
+                            </div>
+                        </div>
+                    
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl10_AssetThumbnailHyperLink" title="Welcome to Fort Fang (Creator: pspjohn1)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Welcome-to-Fort-Fang-item?id=63859433" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t0.rbxcdn.com/332f9fbe641348bb957baf726d2a6d78" height="75" width="75" border="0" alt="Welcome to Fort Fang (Creator: pspjohn1)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo1141077313">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl10_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Welcome-to-Fort-Fang-item?id=63859433">Welcome to Fort Fang</a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl10_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1430017">pspjohn1</a></span></div>
+                            </div>
+                        </div>
+                    
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl11_AssetThumbnailHyperLink" title="Cry Me a Puddle (Creator: Nlighten)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Cry-Me-a-Puddle-item?id=38777442" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t2.rbxcdn.com/becc9f5154faa4e2d9606857b1074570" height="75" width="75" border="0" alt="Cry Me a Puddle (Creator: Nlighten)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo1132310497">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl11_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Cry-Me-a-Puddle-item?id=38777442">Cry Me a Puddle</a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl11_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=80254">Nlighten</a></span></div>
+                            </div>
+                        </div>
+                    
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl12_AssetThumbnailHyperLink" title="Remember the war! (Creator: Cyberman969)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Remember-the-war-item?id=80370200" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t6.rbxcdn.com/3e5aac2ab108ed6dcd86e3051f2fbde8" height="75" width="75" border="0" alt="Remember the war! (Creator: Cyberman969)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo1098961498">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl12_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Remember-the-war-item?id=80370200">Remember the war!</a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl12_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1758585">Cyberman969</a></span></div>
+                            </div>
+                        </div>
+                    
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl13_AssetThumbnailHyperLink" title="You came to my places heres a free badge! (Creator: Cyberman969)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/You-came-to-my-places-heres-a-free-badge-item?id=80370220" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t6.rbxcdn.com/61e6ec64b4fd6509025bf42044976323" height="75" width="75" border="0" alt="You came to my places heres a free badge! (Creator: Cyberman969)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo1098960051">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl13_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/You-came-to-my-places-heres-a-free-badge-item?id=80370220">You came to my places heres a free badge!</a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl13_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1758585">Cyberman969</a></span></div>
+                            </div>
+                        </div>
+                    
+                        <div class="TileBadges">
+                                <a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl14_AssetThumbnailHyperLink" title="You Choose Evil! (Creator: Pieperson50)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/You-Choose-Evil-item?id=43288885" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t0.rbxcdn.com/acf8144efbf3e0f267ab0db420b42a08" height="75" width="75" border="0" alt="You Choose Evil! (Creator: Pieperson50)"></a>
+                        
+                    
+                            <div class="AssetDetails" style="display:none;" id="badgeInfo1080825683">
+                                <div class="AssetName notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl14_AssetNameHyperLink" title="click to view" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/You-Choose-Evil-item?id=43288885">You Choose Evil!</a></div>
+                                <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail notranslate"><a id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeListView_ctrl14_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=4448473">Pieperson50</a></span></div>
+                            </div>
+                        </div>
+                    
+                    
+
+            </div>
+            
+            <div class="BadgesPager_Container badge-pager-container">
+                <span id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeDataPagerFooter"><input type="submit" name="ctl00$cphRoblox$rbxBadgesDisplay$BadgeDataPagerFooter$ctl00$ctl00" value="" disabled="disabled" class="pager previous">&nbsp;
+                        <span style="display: inline-block; padding: 5px; vertical-align: top">
+                        Page
+                        <span id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeDataPagerFooter_ctl01_CurrentPageLabel">1</span>
+                        of
+                        <span id="ctl00_cphRoblox_rbxBadgesDisplay_BadgeDataPagerFooter_ctl01_TotalPagesLabel">2</span>
+                        </span>
+                        <input type="submit" name="ctl00$cphRoblox$rbxBadgesDisplay$BadgeDataPagerFooter$ctl02$ctl00" value="" class="pager next">&nbsp;</span>
+            </div>
+        
+</div>
+	<div style="clear:both;"></div>
+</div>
+
+
+            </div>
+            <div id="UserGroupsPane" style="clear:both;">
+                <h2 class="title">
+                    <span>Groups</span></h2>
+                
+
+<div class="divider-bottom" style="clear:both; padding-bottom: 20px;">
+    
+    <div id="ctl00_cphRoblox_rbxUserGroupsPane_ctl00">
+	
+            
+                        
+                    <div id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl0_GroupTemplateItem" style="float: left">
+		
+                        <div class="groupEmblemThumbnail" style="width:85px; overflow:hidden;margin:15px">
+                            <div class="groupEmblemImage notranslate" style="width: 85px; height:87px; margin: 0px; padding-top: 0px; background-repeat:no-repeat; background-image:none ">
+                                <a id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl0_AssetImage1" title="[U.C] Union of Columbia" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Groups/group.aspx?gid=796114" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t4.rbxcdn.com/a29f0161c24ec72aeca9f571baef82fa" height="75" width="75" border="0" alt="[U.C] Union of Columbia"></a>
+                            </div>
+                        </div>
+                    
+	</div>
+                
+                    <div id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl1_GroupTemplateItem" style="float: left">
+		
+                        <div class="groupEmblemThumbnail" style="width:85px; overflow:hidden;margin:15px">
+                            <div class="groupEmblemImage notranslate" style="width: 85px; height:87px; margin: 0px; padding-top: 0px; background-repeat:no-repeat; background-image:none ">
+                                <a id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl1_AssetImage1" title="Anti Forum Merge" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Groups/group.aspx?gid=1208577" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t0.rbxcdn.com/f4bad49656e309895ad0c35c1a72fb9b" height="75" width="75" border="0" alt="Anti Forum Merge"></a>
+                            </div>
+                        </div>
+                    
+	</div>
+                
+                    <div id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl2_GroupTemplateItem" style="float: left">
+		
+                        <div class="groupEmblemThumbnail" style="width:85px; overflow:hidden;margin:15px">
+                            <div class="groupEmblemImage notranslate" style="width: 85px; height:87px; margin: 0px; padding-top: 0px; background-repeat:no-repeat; background-image:none ">
+                                <a id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl2_AssetImage1" title="Brotherhood of Libertas" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Groups/group.aspx?gid=1185029" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t1.rbxcdn.com/4dd590a1a889cfadb69620eec8bc1fb0" height="75" width="75" border="0" alt="Brotherhood of Libertas"></a>
+                            </div>
+                        </div>
+                    
+	</div>
+                
+                    <div id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl3_GroupTemplateItem" style="float: left">
+		
+                        <div class="groupEmblemThumbnail" style="width:85px; overflow:hidden;margin:15px">
+                            <div class="groupEmblemImage notranslate" style="width: 85px; height:87px; margin: 0px; padding-top: 0px; background-repeat:no-repeat; background-image:none ">
+                                <a id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl3_AssetImage1" title="Central Trade Organization" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Groups/group.aspx?gid=416816" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t3.rbxcdn.com/867d4ba186beea6475a681ba2c577aac" height="75" width="75" border="0" alt="Central Trade Organization"></a>
+                            </div>
+                        </div>
+                    
+	</div>
+                
+                    <div id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl4_GroupTemplateItem" style="float: left">
+		
+                        <div class="groupEmblemThumbnail" style="width:85px; overflow:hidden;margin:15px">
+                            <div class="groupEmblemImage notranslate" style="width: 85px; height:87px; margin: 0px; padding-top: 0px; background-repeat:no-repeat; background-image:none ">
+                                <a id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl4_AssetImage1" title="DECA -- Roblox Chapter" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Groups/group.aspx?gid=1192774" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t2.rbxcdn.com/d442081c322b71304801ae8cdfb1f0cc" height="75" width="75" border="0" alt="DECA -- Roblox Chapter"></a>
+                            </div>
+                        </div>
+                    
+	</div>
+                
+                    <div id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl5_GroupTemplateItem" style="float: left">
+		
+                        <div class="groupEmblemThumbnail" style="width:85px; overflow:hidden;margin:15px">
+                            <div class="groupEmblemImage notranslate" style="width: 85px; height:87px; margin: 0px; padding-top: 0px; background-repeat:no-repeat; background-image:none ">
+                                <a id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl5_AssetImage1" title="Enlightened Ones" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Groups/group.aspx?gid=1040200" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t7.rbxcdn.com/34c62679c2d77d4b9d42eb12419f4c1d" height="75" width="75" border="0" alt="Enlightened Ones"></a>
+                            </div>
+                        </div>
+                    
+	</div>
+                
+                    <div id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl6_GroupTemplateItem" style="float: left">
+		
+                        <div class="groupEmblemThumbnail" style="width:85px; overflow:hidden;margin:15px">
+                            <div class="groupEmblemImage notranslate" style="width: 85px; height:87px; margin: 0px; padding-top: 0px; background-repeat:no-repeat; background-image:none ">
+                                <a id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl6_AssetImage1" title="Free State of Columbia" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Groups/group.aspx?gid=1086229" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t5.rbxcdn.com/1e63745bfc560ca1dca1107f3cc58c80" height="75" width="75" border="0" alt="Free State of Columbia"></a>
+                            </div>
+                        </div>
+                    
+	</div>
+                
+                    <div id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl7_GroupTemplateItem" style="float: left">
+		
+                        <div class="groupEmblemThumbnail" style="width:85px; overflow:hidden;margin:15px">
+                            <div class="groupEmblemImage notranslate" style="width: 85px; height:87px; margin: 0px; padding-top: 0px; background-repeat:no-repeat; background-image:none ">
+                                <a id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl7_AssetImage1" title="Global Chat Forumers" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Groups/group.aspx?gid=1169683" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t3.rbxcdn.com/bdf1b90c144db77d7b9b4d0b68a92143" height="75" width="75" border="0" alt="Global Chat Forumers"></a>
+                            </div>
+                        </div>
+                    
+	</div>
+                
+                    <div id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl8_GroupTemplateItem" style="float: left">
+		
+                        <div class="groupEmblemThumbnail" style="width:85px; overflow:hidden;margin:15px">
+                            <div class="groupEmblemImage notranslate" style="width: 85px; height:87px; margin: 0px; padding-top: 0px; background-repeat:no-repeat; background-image:none ">
+                                <a id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl8_AssetImage1" title="Libertarian" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Groups/group.aspx?gid=49354" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t4.rbxcdn.com/5ac8cc4eaa4b68d8845f46486817b40f" height="75" width="75" border="0" alt="Libertarian"></a>
+                            </div>
+                        </div>
+                    
+	</div>
+                
+                    <div id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl9_GroupTemplateItem" style="float: left">
+		
+                        <div class="groupEmblemThumbnail" style="width:85px; overflow:hidden;margin:15px">
+                            <div class="groupEmblemImage notranslate" style="width: 85px; height:87px; margin: 0px; padding-top: 0px; background-repeat:no-repeat; background-image:none ">
+                                <a id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl9_AssetImage1" title="ROBFOR" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Groups/group.aspx?gid=1059843" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t4.rbxcdn.com/dbcd1aa049f4245517bc0c5056961a2e" height="75" width="75" border="0" alt="ROBFOR"></a>
+                            </div>
+                        </div>
+                    
+	</div>
+                
+                    <div id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl10_GroupTemplateItem" style="float: left">
+		
+                        <div class="groupEmblemThumbnail" style="width:85px; overflow:hidden;margin:15px">
+                            <div class="groupEmblemImage notranslate" style="width: 85px; height:87px; margin: 0px; padding-top: 0px; background-repeat:no-repeat; background-image:none ">
+                                <a id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl10_AssetImage1" title="ROEBLOCKS POLESE FORSE" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Groups/group.aspx?gid=263649" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t5.rbxcdn.com/1c7249a9ce02b41bb3cab6d6eeba9439" height="75" width="75" border="0" alt="ROEBLOCKS POLESE FORSE"></a>
+                            </div>
+                        </div>
+                    
+	</div>
+                
+                    <div id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl11_GroupTemplateItem" style="float: left">
+		
+                        <div class="groupEmblemThumbnail" style="width:85px; overflow:hidden;margin:15px">
+                            <div class="groupEmblemImage notranslate" style="width: 85px; height:87px; margin: 0px; padding-top: 0px; background-repeat:no-repeat; background-image:none ">
+                                <a id="ctl00_cphRoblox_rbxUserGroupsPane_GroupListView_ctrl11_AssetImage1" title="RoXzon" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Groups/group.aspx?gid=34" style="display:inline-block;height:75px;width:75px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t0.rbxcdn.com/7ca26eb6006452b094037b20a759f371" height="75" width="75" border="0" alt="RoXzon"></a>
+                            </div>
+                        </div>
+                    
+	</div>
+                
+                
+            <span id="ctl00_cphRoblox_rbxUserGroupsPane_GroupDataPagerFooter" style="margin-left: 125px; display: inline-block"><a disabled="disabled" class="pager previous"></a>&nbsp;
+                    <span style="display: inline-block; padding: 5px; vertical-align: top">
+                    Page
+                    <span id="ctl00_cphRoblox_rbxUserGroupsPane_GroupDataPagerFooter_ctl01_CurrentPageLabel">1</span>
+                    of
+                    <span id="ctl00_cphRoblox_rbxUserGroupsPane_GroupDataPagerFooter_ctl01_TotalPagesLabel">2</span>
+                    </span>
+                    <a class="pager next"></a>&nbsp;</span>
+        
+</div>
+    <div style="clear:both"></div>
+</div>
+
+            </div>
+            
+
+
+<h2 class="title"><span>Statistics</span></h2>
+
+<div class="divider-bottom" style="padding-bottom: 20px">
+<table class="statsTable">
+    <tbody><tr>
+        <td class="statsLabel">
+        <acronym title="The number of this user's friends.">Friends</acronym>:
+        </td>
+        <td class="statsValue">
+        <span id="ctl00_cphRoblox_rbxUserStatisticsPane_lFriendsStatistics">193</span>
+        </td>
+    </tr>
+    
+    <tr>
+        <td class="statsLabel"><acronym title="The number of posts this user has made to the ROBLOX forum.">Forum Posts</acronym>:</td>
+        <td class="statsValue"><span id="ctl00_cphRoblox_rbxUserStatisticsPane_lForumPostsStatistics" class="notranslate">23,535</span></td>
+    </tr>
+    <tr>
+        <td class="statsLabel"><acronym title="The number of times this user's place has been visited.">Place Visits</acronym>:</td>
+        <td class="statsValue"><span id="ctl00_cphRoblox_rbxUserStatisticsPane_lPlaceVisitsStatistics" class="notranslate">23</span></td>
+    </tr>
+    <tr>
+        <td class="statsLabel"><acronym title="The number of times this user's character has destroyed another user's character in-game.">Knockouts</acronym>:</td>
+        <td class="statsValue"><span id="ctl00_cphRoblox_rbxUserStatisticsPane_lKillsStatistics" class="notranslate">11,134</span></td>
+    </tr>
+    
+     <tr>
+        <td class="statsLabel"><acronym title="The all-time highest voting accuracy this user has achieved when voting in contests.">Highest Ever Voting Accuracy</acronym>:</td>
+        <td class="statsValue"><span id="ctl00_cphRoblox_rbxUserStatisticsPane_lHighestEverVotingAccuracyStatistics">86</span>%</td>
+    </tr>
+     
+</tbody></table>    
+</div>
+            
+
+<div style="padding-bottom: 20px">
+    <div>
+        <h2 class="title" style="display:block;float: left;">
+            <span class="notranslate">TheKentuckian</span>'s Sets
+        </h2>
+        <a data-js-my-button="" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594" class="btn-small btn-neutral" id="ToggleBetweenOwnedSubscribedSets" style="float: right; margin-right: 20px; margin-top: 25px">View Subscribed<span class="btn-text" id="SetsToggleSpan">View Subscribed</span></a>
+        <div class="clear"></div>
+    </div>
+    <div id="OwnedSetsContainerDiv" style="padding-bottom:0;">
+        <div id="SetsItemContainer" style="margin-bottom: 30px; margin-left: 15px"></div>
+        <div style="clear:both;"></div>
+        <div class="SetsPager_Container" style="position: relative">
+            <div id="SetsPagerContainer"></div>
+        </div>
+    </div>
+    <div id="SubscribedSetsContainerDiv" style="display:none; padding-bottom: 0px">
+        <div id="SubscribedSetsItemContainer" style="margin-bottom: 30px; margin-left: 15px"></div>
+        <div style="clear:both;"></div>
+        <div class="SetsPager_Container" style="position: relative">
+            <div id="SubscribedSetsPagerContainer"></div>
+        </div>
+    </div>
+    
+    <div id="SetsPaneItemTemplate" style="display:none;">
+        <div class="AssetThumbnail">
+            <img class="$ImageAssetID">
+        </div>
+        <div class="AssetDetails">
+            <div class="AssetName notranslate">
+                <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/My/Sets.aspx?id=$ID">$Name</a>
+            </div>
+            <div class="AssetCreator">
+                <span class="Label">Creator:&nbsp;</span>
+                <span class="Detail">
+                    <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?id=$CreatorUserID" class="notranslate">$CreatorName</a>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+            
+        </div>
+        <div class="divider-left" style="width: 484px; float: left; position: relative; left: -1px">
+            <div class="divider-bottom" style="padding-bottom: 20px; padding-left: 20px">
+                <h2 class="title" style="float: left">
+                    <span>Active Places</span>
+                </h2>
+                
+                <div id="UserPlacesPane">
+                    <div id="ctl00_cphRoblox_rbxUserPlacesPane_pnlUserPlaces">
+	
+<div id="UserPlaces" style="overflow: hidden">
+
+    <div id="accordion" class="accordion">
+    
+        <div class="accord-section accord-section-open">
+            <div class="accord-header notranslate">
+                <div class="accord-arrow">▶</div>
+			    Columbian Senate
+            </div>
+            <div class="accord-content notranslate">
+			    
+
+<div class="Place">
+    
+    <div class="PlayStatus">
+        
+<span class="PlaceAccessIndicator">
+	<span id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl00_rbxPlatform_rbxPlaceAccessIndicator_FriendsOnlyLocked" style="display: none">
+        <a class="iLocked tooltip" original-title="Friends Only"></a><span class="invisible">&nbsp;Friends-only</span>
+	</span>
+    <span id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl00_rbxPlatform_rbxPlaceAccessIndicator_FriendsOnlyUnlocked" style="display: none">
+        <a class="iUnlocked tooltip" original-title="Friends Only - You are friends"></a><span class="invisible">&nbsp;Friends-only: You are friends</span>
+	</span>
+	<span id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl00_rbxPlatform_rbxPlaceAccessIndicator_ExpiredSelf" style="display: none">
+        <a class="iLocked tooltip" original-title="Locked"></a>
+        <span class="invisible">&nbsp;Your Outrageous Builders Club, Turbo Builders Club, or Builders Club membership has expired, so you can
+        only have one open place. Your places will not be deleted, and you can <a id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl00_rbxPlatform_rbxPlaceAccessIndicator_RBXLDownloadLink">download the RBXL here.</a> To unlock all of your places,
+        please <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/upgrades/BuildersClubMemberships.aspx">re-order Outrageous Builders Club, Turbo Builders Club, or Builders
+            Club </a>.<br></span>
+    </span>
+    <span id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl00_rbxPlatform_rbxPlaceAccessIndicator_ExpiredOther" style="display: none">
+        <a class="iLocked tooltip" original-title="Locked"></a>
+        <span class="invisible">This place is locked because the creator's <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/upgrades/BuildersClubMemberships.aspx">Builders
+            Club / Turbo Builders Club / Outrageous Builders Club </a>has expired.
+		</span>
+	</span>	
+</span>
+	
+    </div>
+    <br>
+    <div class="Statistics" style="color: #999; font-size: 14px; letter-spacing: normal">
+        <span id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl00_rbxPlatform_lStatistics">Visited 19 times (0 last week)</span></div>
+    <div class="Thumbnail" style="width:414px;overflow:hidden;position: relative;">
+        <a id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl00_rbxPlatform_rbxPlaceThumbnail" title="Columbian Senate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Columbian-Senate-place?id=175623099" style="display:inline-block;height:230px;width:420px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t1.rbxcdn.com/a55250a24823f3b79fa8e4f8a8843458" height="230" width="420" border="0" alt="Columbian Senate"></a>
+        
+    </div>
+    <div id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl00_rbxPlatform_pDescription">
+		
+        <div class="Description" style="overflow-y: auto; max-height: 160px; font-family: arial; color: #666; font-size: 12px;">
+            <span id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl00_rbxPlatform_lDescription">coming soon</span>
+        </div>
+    
+	</div>
+    <div class="PlayOptions" style="display:block">
+        
+        <div class="VisitButtonContainer" data-item-id="175623099">
+            
+        <div class="VisitButtonsLeft Centered">
+            
+            
+            <div id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl00_rbxPlatform_rbxVisitButtons_MultiplayerVisitButton" class="VisitButton VisitButtonPlay" placeid="175623099">
+                <a class="btn-medium btn-primary">Play</a>
+            </div>  
+            
+            
+        </div>
+    
+
+    
+    
+
+<div id="BCOnlyModal" class="modalPopup unifiedModal smallModal" style="display:none;">
+ 	<div style="margin:4px 0px;">
+        <span>Builders Club Only</span>
+    </div>
+    <div class="simplemodal-close">
+        <a class="ImageButton closeBtnCircle_20h" style="margin-left:400px;"></a>
+    </div>
+    <div class="unifiedModalContent" style="padding-top:5px; margin-bottom: 3px; margin-left: 3px; margin-right: 3px">
+        <div class="ImageContainer">
+            <img class="GenericModalImage BCModalImage" alt="Builder's Club" src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/ae345c0d59b00329758518edc104d573.png">
+            <div id="BCMessageDiv" class="BCMessage Message">
+                Builders Club membership is required to play in this place.
+            </div>
+        </div>
+        <div style="clear:both;"></div>
+        <div style="clear:both;"></div>
+        <div class="GenericModalButtonContainer" style="padding-bottom: 13px">
+            <div style="text-align:center">
+                <a id="BClink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Upgrades/BuildersClubMemberships.aspx" class="btn-primary btn-large">Upgrade Now</a>
+            </div>
+            <div style="clear:both;"></div>
+        </div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+
+
+ 
+
+<div class="GenericModal modalPopup unifiedModal smallModal" style="display:none;">
+    <div class="Title"></div>
+    <div class="GenericModalBody">
+        <div>
+            <div class="ImageContainer roblox-item-image" data-image-size="small" data-no-overlays="" data-no-click="">
+                <img class="GenericModalImage" alt="generic image">
+            </div>
+            <div class="Message"></div>  
+            <div style="clear:both"></div>
+        </div>
+        <div class="GenericModalButtonContainer">
+            <a class="ImageButton btn-neutral btn-large roblox-ok">OK<span class="btn-text">OK</span></a> 
+        </div>  
+    </div>
+</div>
+
+
+
+        </div>
+    </div>
+</div>
+
+			    
+            </div>
+        </div>
+		
+        <div class="accord-section ">
+            <div class="accord-header notranslate">
+                <div class="accord-arrow">▶</div>
+			    Carthage, Capital of the Neo-Carthagian Empire
+            </div>
+            <div class="accord-content notranslate">
+			    
+
+<div class="Place">
+    
+    <div class="PlayStatus">
+        
+<span class="PlaceAccessIndicator">
+	<span id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl01_rbxPlatform_rbxPlaceAccessIndicator_FriendsOnlyLocked" style="display:inline;">
+        <a class="iLocked tooltip" original-title="Friends Only"></a><span class="invisible">&nbsp;Friends-only</span>
+	</span>
+    <span id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl01_rbxPlatform_rbxPlaceAccessIndicator_FriendsOnlyUnlocked" style="display:none;">
+        <a class="iUnlocked tooltip" original-title="Friends Only - You are friends"></a><span class="invisible">&nbsp;Friends-only: You are friends</span>
+	</span>
+	<span id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl01_rbxPlatform_rbxPlaceAccessIndicator_ExpiredSelf" style="display: none">
+        <a class="iLocked tooltip" original-title="Locked"></a>
+        <span class="invisible">&nbsp;Your Outrageous Builders Club, Turbo Builders Club, or Builders Club membership has expired, so you can
+        only have one open place. Your places will not be deleted, and you can <a id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl01_rbxPlatform_rbxPlaceAccessIndicator_RBXLDownloadLink">download the RBXL here.</a> To unlock all of your places,
+        please <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/upgrades/BuildersClubMemberships.aspx">re-order Outrageous Builders Club, Turbo Builders Club, or Builders
+            Club </a>.<br></span>
+    </span>
+    <span id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl01_rbxPlatform_rbxPlaceAccessIndicator_ExpiredOther" style="display: none">
+        <a class="iLocked tooltip" original-title="Locked"></a>
+        <span class="invisible">This place is locked because the creator's <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/upgrades/BuildersClubMemberships.aspx">Builders
+            Club / Turbo Builders Club / Outrageous Builders Club </a>has expired.
+		</span>
+	</span>	
+</span>
+	
+    </div>
+    <br>
+    <div class="Statistics" style="color: #999; font-size: 14px; letter-spacing: normal">
+        <span id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl01_rbxPlatform_lStatistics">Visited 4 times (0 last week)</span></div>
+    <div class="Thumbnail" style="width:414px;overflow:hidden;position: relative;">
+        <a id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcasePlaces_ctl01_rbxPlatform_rbxPlaceThumbnail" title="Carthage, Capital of the Neo-Carthagian Empire" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Carthage-Capital-of-the-Neo-Carthagian-Empire-place?id=140768516" style="display:inline-block;height:230px;width:420px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t0.rbxcdn.com/11574923af07a9ea7b296b9d1bc5291e" height="230" width="420" border="0" alt="Carthage, Capital of the Neo-Carthagian Empire"></a>
+        
+    </div>
+    
+    <div class="PlayOptions" style="display:block">
+        
+        <div class="VisitButtonContainer" data-item-id="140768516">
+            
+        <div class="VisitButtonsLeft Centered">
+            
+            
+              
+            
+            
+        </div>
+    
+
+    
+    
+
+<div id="BCOnlyModal" class="modalPopup unifiedModal smallModal" style="display:none;">
+ 	<div style="margin:4px 0px;">
+        <span>Builders Club Only</span>
+    </div>
+    <div class="simplemodal-close">
+        <a class="ImageButton closeBtnCircle_20h" style="margin-left:400px;"></a>
+    </div>
+    <div class="unifiedModalContent" style="padding-top:5px; margin-bottom: 3px; margin-left: 3px; margin-right: 3px">
+        <div class="ImageContainer">
+            <img class="GenericModalImage BCModalImage" alt="Builder's Club" src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/ae345c0d59b00329758518edc104d573.png">
+            <div id="BCMessageDiv" class="BCMessage Message">
+                Builders Club membership is required to play in this place.
+            </div>
+        </div>
+        <div style="clear:both;"></div>
+        <div style="clear:both;"></div>
+        <div class="GenericModalButtonContainer" style="padding-bottom: 13px">
+            <div style="text-align:center">
+                <a id="BClink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Upgrades/BuildersClubMemberships.aspx" class="btn-primary btn-large">Upgrade Now</a>
+            </div>
+            <div style="clear:both;"></div>
+        </div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+
+
+ 
+
+<div class="GenericModal modalPopup unifiedModal smallModal" style="display:none;">
+    <div class="Title"></div>
+    <div class="GenericModalBody">
+        <div>
+            <div class="ImageContainer roblox-item-image" data-image-size="small" data-no-overlays="" data-no-click="">
+                <img class="GenericModalImage" alt="generic image">
+            </div>
+            <div class="Message"></div>  
+            <div style="clear:both"></div>
+        </div>
+        <div class="GenericModalButtonContainer">
+            <a class="ImageButton btn-neutral btn-large roblox-ok">OK<span class="btn-text">OK</span></a> 
+        </div>  
+    </div>
+</div>
+
+
+
+        </div>
+    </div>
+</div>
+
+			    
+            </div>
+        </div>
+		
+    </div>
+    
+
+
+
+	<div id="ctl00_cphRoblox_rbxUserPlacesPane_ShowcaseFooter" class="PanelFooter" style="margin-top:5px;margin-left:20px;padding:3px;">
+		
+	    
+	    
+	
+	</div>
+ </div>
+ 
+</div>
+ 
+ <div class="ItemPurchaseAjaxContainer">
+    
+
+<div id="ItemPurchaseAjaxData" data-authenticateduser-isnull="True" data-user-balance-robux="0" data-user-balance-tickets="0" data-user-bc="0" data-continueshopping-url="" data-imageurl="" data-alerturl="http://images.rbxcdn.com/cbb24e0c0f1fb97381a065bd1e056fcb.png" data-builderscluburl="http://images.rbxcdn.com/ae345c0d59b00329758518edc104d573.png"></div>
+
+    <div id="ProcessingView" style="display:none">
+        <div class="ProcessingModalBody">
+            <p style="margin:0px"><img src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/ec4e85b0c4396cf753a06fade0a8d8af.gif" alt="Processing..."></p>
+            <p style="margin:7px 0px">Processing Transaction</p>
+        </div>
+    </div>
+    
+    
+
+</div>
+ 
+
+                </div>
+            </div>
+            <div style="padding-left: 20px" class="divider-bottom">
+                
+
+<div style="margin: 12px 0 20px; overflow:visible">
+    <h2 style="float: left">TheKentuckian's Friends</h2>
+    
+    <a data-js-my-button="" style="float: right" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Friends.aspx?UserID=998594" class="btn-small btn-neutral" id="HeaderButton">See All 193<span class="btn-text">See All 193</span></a>
+    
+</div>
+<div style="padding-top: 50px">
+    
+	<table id="ctl00_cphRoblox_rbxFriendsPane_dlFriends" cellspacing="0" align="Center" border="0" style="border-collapse:collapse;">
+	<tbody><tr>
+		<td>
+			<div class="Friend notranslate">
+				<div class="Avatar"><a id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl00_hlAvatar" class=" notranslate" title="LibyanFreedomFighter" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=16123198" style="display:inline-block;height:100px;width:100px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t2.rbxcdn.com/8ef783f2b77f1e9de4c8d7a1803b9e5b" height="100" width="100" border="0" alt="LibyanFreedomFighter" class=" notranslate"></a></div>
+				<div class="Summary">
+					<span class="OnlineStatus"><img id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl00_iOnlineStatus" src="https://web.archive.org/web/20141201201623im_/http://www.roblox.com/images/offline.png" alt="LibyanFreedomFighter is offline (last seen at 4/17/2011 8:36:11 AM." style="border-width:0px;"></span>
+					<span class="Name"><a id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl00_hlFriend" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=16123198">LibyanFreedomFighter</a></span>
+				</div>
+			</div>
+		</td><td>
+			<div class="Friend notranslate">
+				<div class="Avatar"><a id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl01_hlAvatar" class=" notranslate" title="roony777" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=431387" style="display:inline-block;height:100px;width:100px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t5.rbxcdn.com/27a95a698db50a36605f63a05b80dee9" height="100" width="100" border="0" alt="roony777" class=" notranslate"></a></div>
+				<div class="Summary">
+					<span class="OnlineStatus"><img id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl01_iOnlineStatus" src="https://web.archive.org/web/20141201201623im_/http://www.roblox.com/images/offline.png" alt="roony777 is offline (last seen at 12/1/2014 1:47:23 PM." style="border-width:0px;"></span>
+					<span class="Name"><a id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl01_hlFriend" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=431387">roony777</a></span>
+				</div>
+			</div>
+		</td><td>
+			<div class="Friend notranslate">
+				<div class="Avatar"><a id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl02_hlAvatar" class=" notranslate" title="martini23" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1108201" style="display:inline-block;height:100px;width:100px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t0.rbxcdn.com/bd8a85e363106f0ee97224a93ecc65ff" height="100" width="100" border="0" alt="martini23" class=" notranslate"></a></div>
+				<div class="Summary">
+					<span class="OnlineStatus"><img id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl02_iOnlineStatus" src="https://web.archive.org/web/20141201201623im_/http://www.roblox.com/images/offline.png" alt="martini23 is offline (last seen at 11/15/2014 12:40:15 PM." style="border-width:0px;"></span>
+					<span class="Name"><a id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl02_hlFriend" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1108201">martini23</a></span>
+				</div>
+			</div>
+		</td>
+	</tr><tr>
+		<td>
+			<div class="Friend notranslate">
+				<div class="Avatar"><a id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl03_hlAvatar" class=" notranslate" title="goodnamesalltaken" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=7142286" style="display:inline-block;height:100px;width:100px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t2.rbxcdn.com/60e96a96cda2604ca5acb621f9df9b05" height="100" width="100" border="0" alt="goodnamesalltaken" class=" notranslate"><img src="https://web.archive.org/web/20141201201623im_/http://www.roblox.com/images/icons/overlay_obcOnly.png" class="bcOverlay" align="left" style="position:relative;top:-19px;"></a></div>
+				<div class="Summary">
+					<span class="OnlineStatus"><img id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl03_iOnlineStatus" src="https://web.archive.org/web/20141201201623im_/http://www.roblox.com/images/offline.png" alt="goodnamesalltaken is offline (last seen at 11/23/2014 1:46:08 AM." style="border-width:0px;"></span>
+					<span class="Name"><a id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl03_hlFriend" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=7142286">goodnamesalltaken</a></span>
+				</div>
+			</div>
+		</td><td>
+			<div class="Friend notranslate">
+				<div class="Avatar"><a id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl04_hlAvatar" class=" notranslate" title="yuting123" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=19598473" style="display:inline-block;height:100px;width:100px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t7.rbxcdn.com/c521fe97a573f955e488ecced0bfe649" height="100" width="100" border="0" alt="yuting123" class=" notranslate"></a></div>
+				<div class="Summary">
+					<span class="OnlineStatus"><img id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl04_iOnlineStatus" src="https://web.archive.org/web/20141201201623im_/http://www.roblox.com/images/offline.png" alt="yuting123 is offline (last seen at 11/17/2014 7:54:50 PM." style="border-width:0px;"></span>
+					<span class="Name"><a id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl04_hlFriend" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=19598473">yuting123</a></span>
+				</div>
+			</div>
+		</td><td>
+			<div class="Friend notranslate">
+				<div class="Avatar"><a id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl05_hlAvatar" class=" notranslate" title="YeIIoJaket" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=9985412" style="display:inline-block;height:100px;width:100px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t4.rbxcdn.com/d4dced0045b38b3cc0ef192d4aa4508d" height="100" width="100" border="0" alt="YeIIoJaket" class=" notranslate"></a></div>
+				<div class="Summary">
+					<span class="OnlineStatus"><img id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl05_iOnlineStatus" src="https://web.archive.org/web/20141201201623im_/http://www.roblox.com/images/offline.png" alt="YeIIoJaket is offline (last seen at 11/30/2014 7:33:14 PM." style="border-width:0px;"></span>
+					<span class="Name"><a id="ctl00_cphRoblox_rbxFriendsPane_dlFriends_ctl05_hlFriend" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=9985412">YeIIoJaket</a></span>
+				</div>
+			</div>
+		</td>
+	</tr>
+</tbody></table>
+	
+</div>
+
+            </div>
+            
+
+<div class="divider-bottom" style="padding-left: 20px; padding-bottom: 20px">
+    <div id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesPane">
+	
+	        <div style="overflow: auto">
+                <h2 class="title" style="float: left">Favorites</h2>
+                <div class="PanelFooter" style="float: right;">
+			        Category:&nbsp;
+			        <select name="ctl00$cphRoblox$rbxFavoritesPane$AssetCategoryDropDownList" id="ctl00_cphRoblox_rbxFavoritesPane_AssetCategoryDropDownList">
+		<option value="17">Heads</option>
+		<option value="18">Faces</option>
+		<option value="19">Gear</option>
+		<option value="8">Hats</option>
+		<option value="2">T-Shirts</option>
+		<option value="11">Shirts</option>
+		<option value="12">Pants</option>
+		<option value="13">Decals</option>
+		<option value="10">Models</option>
+		<option selected="selected" value="9">Places</option>
+
+	</select>
+		        </div>
+            </div>
+		    <div>
+			
+			    <div id="FavoritesContent">
+				    <table id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList" cellspacing="0" border="0" style="border-collapse:collapse;">
+		<tbody><tr>
+			<td class="Asset" valign="top">
+					        <div style="padding:5px; margin-right: 30px; margin-left: 10px">
+						        <div class="AssetThumbnail notranslate">
+							        <a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl00_AssetThumbnailHyperLink" class=" notranslate" title="LET'S SEE HOW MANY PEOPLE CAN FAVORITE A BASEPLATE" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/LETS-SEE-HOW-MANY-PEOPLE-CAN-FAVORITE-A-BASEPLATE-place?id=118374168" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t4.rbxcdn.com/87f2108ae0f67730d17103bcc70343c4" height="110" width="110" border="0" alt="LET'S SEE HOW MANY PEOPLE CAN FAVORITE A BASEPLATE" class=" notranslate"></a>
+							    
+						        </div>
+						        <div class="AssetDetails notranslate" style="clear:both;">
+							        <div class="AssetName"><a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl00_AssetNameHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/LETS-SEE-HOW-MANY-PEOPLE-CAN-FAVORITE-A-BASEPLATE-place?id=118374168">LET'S SEE HOW MANY PEOPLE CAN FAVORITE A BASEPLATE</a></div>
+							        <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl00_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=23641053">SimpleStar</a></span></div>
+						            
+						        </div>
+						    </div>
+					    </td><td class="Asset" valign="top">
+					        <div style="padding:5px; margin-right: 30px; margin-left: 10px">
+						        <div class="AssetThumbnail notranslate">
+							        <a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl01_AssetThumbnailHyperLink" class=" notranslate" title="Me." href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Me-place?id=147126141" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t6.rbxcdn.com/7d2b921c144f9c30b2a1f31a709ce01a" height="110" width="110" border="0" alt="Me." class=" notranslate"></a>
+							    
+						        </div>
+						        <div class="AssetDetails notranslate" style="clear:both;">
+							        <div class="AssetName"><a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl01_AssetNameHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Me-place?id=147126141">Me.</a></div>
+							        <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl01_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=9157003">mikeyw8</a></span></div>
+						            
+						        </div>
+						    </div>
+					    </td><td class="Asset" valign="top">
+					        <div style="padding:5px; margin-right: 30px; margin-left: 10px">
+						        <div class="AssetThumbnail notranslate">
+							        <a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl02_AssetThumbnailHyperLink" class=" notranslate" title="Urban Patrol (Shutdown)" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Urban-Patrol-Shutdown-place?id=4148343" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t6.rbxcdn.com/ed0f5e361025b64d9e7731c29c2a1a6a" height="110" width="110" border="0" alt="Urban Patrol (Shutdown)" class=" notranslate"></a>
+							    
+						        </div>
+						        <div class="AssetDetails notranslate" style="clear:both;">
+							        <div class="AssetName"><a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl02_AssetNameHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Urban-Patrol-Shutdown-place?id=4148343">Urban Patrol (Shutdown)</a></div>
+							        <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl02_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=290237">Wingman8</a></span></div>
+						            
+						        </div>
+						    </div>
+					    </td>
+		</tr><tr>
+			<td class="Asset" valign="top">
+					        <div style="padding:5px; margin-right: 30px; margin-left: 10px">
+						        <div class="AssetThumbnail notranslate">
+							        <a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl03_AssetThumbnailHyperLink" class=" notranslate" title="Build a Mini Country Earth Edition " href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Build-a-Mini-Country-Earth-Edition-place?id=21363989" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t5.rbxcdn.com/c434fbd3cf91cb6e3c5f6e0fbdf7f41d" height="110" width="110" border="0" alt="Build a Mini Country Earth Edition " class=" notranslate"></a>
+							    
+						        </div>
+						        <div class="AssetDetails notranslate" style="clear:both;">
+							        <div class="AssetName"><a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl03_AssetNameHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Build-a-Mini-Country-Earth-Edition-place?id=21363989">Build a Mini Country Earth Edition </a></div>
+							        <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl03_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=362379">cowkiller</a></span></div>
+						            
+						        </div>
+						    </div>
+					    </td><td class="Asset" valign="top">
+					        <div style="padding:5px; margin-right: 30px; margin-left: 10px">
+						        <div class="AssetThumbnail notranslate">
+							        <a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl04_AssetThumbnailHyperLink" class=" notranslate" title="justgoaway1suckdik's Place" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/justgoaway1suckdiks-Place-place?id=50563615" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t0.rbxcdn.com/ee4d928066652a4550ec3eb176ce896c" height="110" width="110" border="0" alt="justgoaway1suckdik's Place" class=" notranslate"></a>
+							    
+						        </div>
+						        <div class="AssetDetails notranslate" style="clear:both;">
+							        <div class="AssetName"><a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl04_AssetNameHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/justgoaway1suckdiks-Place-place?id=50563615">justgoaway1suckdik's Place</a></div>
+							        <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl04_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=16298024">[ Content Deleted 16475718 ]</a></span></div>
+						            
+						        </div>
+						    </div>
+					    </td><td class="Asset" valign="top">
+					        <div style="padding:5px; margin-right: 30px; margin-left: 10px">
+						        <div class="AssetThumbnail notranslate">
+							        <a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl05_AssetThumbnailHyperLink" class=" notranslate" title="Build-A-Mini City: ORIGINAL" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Build-A-Mini-City-ORIGINAL-place?id=3427353" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t6.rbxcdn.com/c797659622500ff202482aadbdd695a1" height="110" width="110" border="0" alt="Build-A-Mini City: ORIGINAL" class=" notranslate"></a>
+							    
+						        </div>
+						        <div class="AssetDetails notranslate" style="clear:both;">
+							        <div class="AssetName"><a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl05_AssetNameHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Build-A-Mini-City-ORIGINAL-place?id=3427353">Build-A-Mini City: ORIGINAL</a></div>
+							        <div class="AssetCreator"><span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_rbxFavoritesPane_FavoritesDataList_ctl05_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=736209">Uncoudsoi2</a></span></div>
+						            
+						        </div>
+						    </div>
+					    </td>
+		</tr>
+	</tbody></table>
+				    
+				    <div id="ctl00_cphRoblox_rbxFavoritesPane_FooterPagerPanel" style="text-align: center" class="FooterPager">
+				        <span class="pager previous disabled"></span>
+					    
+					    <span id="ctl00_cphRoblox_rbxFavoritesPane_FooterPagerLabel" style="vertical-align: top; display: inline-block; padding: 5px; padding-top: 6px">Page 1 of 3</span>
+					    <a id="ctl00_cphRoblox_rbxFavoritesPane_FooterPageSelector_Next"><span class="pager next"></span></a>
+                        
+				    </div>
+			    </div>
+		    </div>
+	    
+</div>
+</div>
+
+            <div style="clear: both; margin: 20px;width:300px;">
+                
+<div style="width: 300px">
+    <span id="37373537353531" class="GPTAd rectangle" data-js-adtype="gptAd">
+        
+    </span>
+    <div class="ad-annotations " style="width: 300px">
+        <span class="ad-identification">Advertisement
+            <span> - </span>
+            <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594" class="UpsellAdButton" title="Click to learn how to remove ads!">Why am I seeing ads?</a>
+        </span>
+            <a class="BadAdButton" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Ads/ReportAd.aspx" title="click to report an offensive ad">Report</a>
+    </div>
+</div>
+            </div>
+        </div>
+        <br clear="all">
+    </div>
+    <div id="UserContainer">
+        <div id="UserAssetsPane" style="border-top: 1px solid #ccc;">
+            <div id="ctl00_cphRoblox_rbxUserAssetsPane_upUserAssetsPane">
+	
+        <h2 class="title" display="block" style="width:970px">
+            <span>
+                Inventory
+                
+        </span>
+        </h2>
+        <div id="UserAssets">
+            <div id="AssetsMenu" class="divider-right">
+                
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl00_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl00_AssetCategorySelector">Heads</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl01_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl01_AssetCategorySelector">Faces</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl02_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl02_AssetCategorySelector">Gear</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl03_AssetCategorySelectorPanel" class="verticaltab selected">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl03_AssetCategorySelector">Hats</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl04_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl04_AssetCategorySelector">T-Shirts</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl05_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl05_AssetCategorySelector">Shirts</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl06_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl06_AssetCategorySelector">Pants</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl07_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl07_AssetCategorySelector">Decals</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl08_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl08_AssetCategorySelector">Models</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl09_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl09_AssetCategorySelector">Plugins</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl10_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl10_AssetCategorySelector">Animations</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl11_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl11_AssetCategorySelector">Places</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl12_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl12_AssetCategorySelector">Game Passes</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl13_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl13_AssetCategorySelector">Audio</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl14_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl14_AssetCategorySelector">Badges</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl15_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl15_AssetCategorySelector">Left Arms</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl16_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl16_AssetCategorySelector">Right Arms</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl17_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl17_AssetCategorySelector">Left Legs</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl18_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl18_AssetCategorySelector">Right Legs</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl19_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl19_AssetCategorySelector">Torsos</a>
+	</div>
+                    
+                        <div id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl20_AssetCategorySelectorPanel" class="verticaltab">
+		
+                            <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetCategoryRepeater_ctl20_AssetCategorySelector">Packages</a>
+	</div>
+                    
+            </div>
+            <div id="AssetsContent">
+                
+                
+                <div id="RepeatingUserAssetData">
+                
+                <table id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList" cellspacing="0" border="0" style="border-collapse:collapse;">
+		<tbody><tr>
+			<td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl00_AssetThumbnailHyperLink" class=" notranslate" title="Knight of the Blood Moon" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Knight-of-the-Blood-Moon-item?id=93078560" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t4.rbxcdn.com/d5527d55c652d6027b585b68395fe03b" height="110" width="110" border="0" alt="Knight of the Blood Moon" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl00_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Knight-of-the-Blood-Moon-item?id=93078560">Knight of the Blood Moon</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl00_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                
+                                
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl01_AssetThumbnailHyperLink" class=" notranslate" title="Blond Dreamy Hair" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Blond-Dreamy-Hair-item?id=185812332" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t7.rbxcdn.com/dd63aa4a13d5e60f366f2c77b5c9ebee" height="110" width="110" border="0" alt="Blond Dreamy Hair" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl01_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Blond-Dreamy-Hair-item?id=185812332">Blond Dreamy Hair</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl01_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                <div id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl01_Div1" class="AssetPrice">
+                                    <span class="PriceInRobux notranslate">
+                                        R$: 100</span></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl02_AssetThumbnailHyperLink" class=" notranslate" title="Hipster Scarf" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Hipster-Scarf-item?id=57781259" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t0.rbxcdn.com/06f826212a18514e72756a2142fe2d34" height="110" width="110" border="0" alt="Hipster Scarf" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl02_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Hipster-Scarf-item?id=57781259">Hipster Scarf</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl02_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                <div id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl02_Div1" class="AssetPrice">
+                                    <span class="PriceInRobux notranslate">
+                                        R$: 95</span></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl03_AssetThumbnailHyperLink" class=" notranslate" title="'Merica Yeah! " href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Merica-Yeah-item?id=161211213" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t6.rbxcdn.com/d18c853e569ea4c7ea0281364e4c9fc2" height="110" width="110" border="0" alt="'Merica Yeah! " class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl03_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Merica-Yeah-item?id=161211213">'Merica Yeah! </a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl03_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                
+                                <div id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl03_Div2" class="AssetPrice">
+                                    <span class="PriceInTickets notranslate">
+                                        Tx: 10</span></div>
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl04_AssetThumbnailHyperLink" class=" notranslate" title="SkAmericatr" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/SkAmericatr-item?id=163491934" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t7.rbxcdn.com/cb3abc3ac447c9f1d9b4b8b06281e2b2" height="110" width="110" border="0" alt="SkAmericatr" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl04_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/SkAmericatr-item?id=163491934">SkAmericatr</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl04_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                <div id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl04_Div1" class="AssetPrice">
+                                    <span class="PriceInRobux notranslate">
+                                        R$: 50</span></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl05_AssetThumbnailHyperLink" class=" notranslate" title="The Kingdom of Wrenly Royal Crown" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/The-Kingdom-of-Wrenly-Royal-Crown-item?id=160709891" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t6.rbxcdn.com/43e48d0ee53feb458aefaf980de90a6f" height="110" width="110" border="0" alt="The Kingdom of Wrenly Royal Crown" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl05_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/The-Kingdom-of-Wrenly-Royal-Crown-item?id=160709891">The Kingdom of Wrenly Royal Crown</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl05_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                
+                                
+                                
+                            </div>
+                        </div>
+                    </td>
+		</tr><tr>
+			<td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl06_AssetThumbnailHyperLink" class=" notranslate" title="Neon Green Beautiful Hair" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Neon-Green-Beautiful-Hair-item?id=151786902" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t1.rbxcdn.com/6f47bd73b0631da31bc388e6aee55bc7" height="110" width="110" border="0" alt="Neon Green Beautiful Hair" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl06_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Neon-Green-Beautiful-Hair-item?id=151786902">Neon Green Beautiful Hair</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl06_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                
+                                
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl07_AssetThumbnailHyperLink" class=" notranslate" title="Doge" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Doge-item?id=151784320" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t4.rbxcdn.com/0934f019db298c4ba89b9d4df0dabeee" height="110" width="110" border="0" alt="Doge" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl07_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Doge-item?id=151784320">Doge</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl07_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                <div id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl07_Div1" class="AssetPrice">
+                                    <span class="PriceInRobux notranslate">
+                                        R$: 250</span></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl08_AssetThumbnailHyperLink" class=" notranslate" title="Springtime 2014 R&amp;R&amp;R " href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Springtime-2014-R-R-R-item?id=150462709" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t6.rbxcdn.com/702c53df70a637956f0ebb34d4c7bf18" height="110" width="110" border="0" alt="Springtime 2014 R&amp;R&amp;R " class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl08_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Springtime-2014-R-R-R-item?id=150462709">Springtime 2014 R&amp;R&amp;R </a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl08_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                
+                                <div id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl08_Div2" class="AssetPrice">
+                                    <span class="PriceInTickets notranslate">
+                                        Tx: 10</span></div>
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl09_AssetThumbnailHyperLink" class=" notranslate" title="Classic Cowboy" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Classic-Cowboy-item?id=125861813" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t1.rbxcdn.com/c51ff6979e33ff72d863eef8e843a747" height="110" width="110" border="0" alt="Classic Cowboy" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl09_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Classic-Cowboy-item?id=125861813">Classic Cowboy</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl09_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                <div id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl09_Div1" class="AssetPrice">
+                                    <span class="PriceInRobux notranslate">
+                                        R$: 50</span></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl10_AssetThumbnailHyperLink" class=" notranslate" title="The Wisest Wizard" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/The-Wisest-Wizard-item?id=128218044" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t0.rbxcdn.com/2d135391ed5dc42ccba70c1bd30c0c5f" height="110" width="110" border="0" alt="The Wisest Wizard" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl10_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/The-Wisest-Wizard-item?id=128218044">The Wisest Wizard</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl10_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                
+                                
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl11_AssetThumbnailHyperLink" class=" notranslate" title="Stylish ROBLOX Scarf" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Stylish-ROBLOX-Scarf-item?id=138054773" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t0.rbxcdn.com/a3de4e852f62924e7e1973098a3ca184" height="110" width="110" border="0" alt="Stylish ROBLOX Scarf" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl11_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Stylish-ROBLOX-Scarf-item?id=138054773">Stylish ROBLOX Scarf</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl11_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                
+                                
+                                
+                            </div>
+                        </div>
+                    </td>
+		</tr><tr>
+			<td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl12_AssetThumbnailHyperLink" class=" notranslate" title="Opened Well Outfitted Gift of Style" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Opened-Well-Outfitted-Gift-of-Style-item?id=136804833" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t6.rbxcdn.com/ad555b28784e4d68c5f82993ae73d18e" height="110" width="110" border="0" alt="Opened Well Outfitted Gift of Style" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl12_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Opened-Well-Outfitted-Gift-of-Style-item?id=136804833">Opened Well Outfitted Gift of Style</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl12_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                
+                                
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl13_AssetThumbnailHyperLink" class=" notranslate" title="Opened Gift of Passage" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Opened-Gift-of-Passage-item?id=137384831" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t5.rbxcdn.com/e8b7e1abb92cc8c519155761ecae587c" height="110" width="110" border="0" alt="Opened Gift of Passage" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl13_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Opened-Gift-of-Passage-item?id=137384831">Opened Gift of Passage</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl13_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                
+                                
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl14_AssetThumbnailHyperLink" class=" notranslate" title="Bewitching Amphibian" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Bewitching-Amphibian-item?id=131310899" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t6.rbxcdn.com/6c1c96a2e4317be62acbe6568e452946" height="110" width="110" border="0" alt="Bewitching Amphibian" class=" notranslate"></a>
+                                <div style="position:relative;left:-21px;top:-19px;"><img src="https://web.archive.org/web/20141201201623im_/http://www.roblox.com/images/assetIcons/limited.png"></div>
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl14_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Bewitching-Amphibian-item?id=131310899">Bewitching Amphibian</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl14_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                
+                                
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl15_AssetThumbnailHyperLink" class=" notranslate" title="Beautiful Hair for Beautiful People" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Beautiful-Hair-for-Beautiful-People-item?id=16630147" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t5.rbxcdn.com/8c8e23a7ff9f69854550fc873c50cc85" height="110" width="110" border="0" alt="Beautiful Hair for Beautiful People" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl15_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Beautiful-Hair-for-Beautiful-People-item?id=16630147">Beautiful Hair for Beautiful People</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl15_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                <div id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl15_Div1" class="AssetPrice">
+                                    <span class="PriceInRobux notranslate">
+                                        R$: 95</span></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl16_AssetThumbnailHyperLink" class=" notranslate" title="8-Ball Headphones" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/8-Ball-Headphones-item?id=60674565" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t3.rbxcdn.com/b169b4055c627889e59c52ca3157f934" height="110" width="110" border="0" alt="8-Ball Headphones" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl16_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/8-Ball-Headphones-item?id=60674565">8-Ball Headphones</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl16_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                <div id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl16_Div1" class="AssetPrice">
+                                    <span class="PriceInRobux notranslate">
+                                        R$: 888</span></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </td><td class="Asset" valign="top">
+                        <div style="padding: 5px">
+                            <div class="AssetThumbnail">
+                                <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl17_AssetThumbnailHyperLink" class=" notranslate" title="Royal Blue Turban" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Royal-Blue-Turban-item?id=21802246" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t2.rbxcdn.com/8d0ba350db3e757598c9c3403043f414" height="110" width="110" border="0" alt="Royal Blue Turban" class=" notranslate"></a>
+                                
+                            </div>
+                            <div class="AssetDetails">
+                                <div class="AssetName">
+                                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl17_AssetNameHyperLink" class="noranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Royal-Blue-Turban-item?id=21802246">Royal Blue Turban</a></div>
+                                <div class="AssetCreator">
+                                    <span class="Label">Creator: </span><span class="Detail notranslate">
+                                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl17_AssetCreatorHyperLink" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span></div>
+                                <div id="ctl00_cphRoblox_rbxUserAssetsPane_UserAssetsDataList_ctl17_Div1" class="AssetPrice">
+                                    <span class="PriceInRobux notranslate">
+                                        R$: 52</span></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </td>
+		</tr>
+	</tbody></table>
+                <div id="ctl00_cphRoblox_rbxUserAssetsPane_FooterPagerPanel" class="FooterPager" style="width: 780px">
+                    <span class="pager previous disabled"></span>
+                    
+                    <span id="ctl00_cphRoblox_rbxUserAssetsPane_FooterPagerLabel" style="vertical-align: top; display: inline-block; padding: 5px; padding-top: 6px">Page 1 of 4</span>
+                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_FooterPageSelector_Next"><span class="pager next"></span></a>
+                    
+                </div>
+                </div>
+                <div style="width:784px;">
+                    
+    <h3 class="RecommendationHeader">
+        Recommended Hats
+        <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Catalog/">See All <span>»</span></a>
+    </h3>
+
+
+    <div class="AssetRecommenderContainer">
+    <table id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets" cellspacing="0" align="Center" border="0" style="height:175px;width:784px;border-collapse:collapse;">
+		<tbody><tr>
+			<td>
+            <div class="PortraitDiv" style="width: 140px;overflow: hidden;margin:auto;" visible="True" data-se="recommended-items-0">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl00_AssetThumbnailHyperLink" class=" notranslate" title="The Viridium Skull" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/The-Viridium-Skull-item?id=10860580" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t4.rbxcdn.com/087877ce0a0a327322c835dc5a7dc4fc" height="110" width="110" border="0" alt="The Viridium Skull" class=" notranslate"></a>
+                </div>
+                <div class="AssetDetails">
+                    <div class="AssetName noTranslate">
+                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl00_AssetNameHyperLinkPortrait" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/The-Viridium-Skull-item?id=10860580">The Viridium Skull</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="stat-label">Creator:</span> <span class="Detail stat"><a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl00_CreatorHyperLinkPortrait" class="notranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span>
+                    </div>
+                </div>
+            </div>
+        </td><td>
+            <div class="PortraitDiv" style="width: 140px;overflow: hidden;margin:auto;" visible="True" data-se="recommended-items-1">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl01_AssetThumbnailHyperLink" class=" notranslate" title="Dr. Atomic's Mesmerizing Quantodrome" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Dr-Atomics-Mesmerizing-Quantodrome-item?id=10914012" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t7.rbxcdn.com/2f291f41d90a2bdaf06f8bd88c450c27" height="110" width="110" border="0" alt="Dr. Atomic's Mesmerizing Quantodrome" class=" notranslate"></a>
+                </div>
+                <div class="AssetDetails">
+                    <div class="AssetName noTranslate">
+                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl01_AssetNameHyperLinkPortrait" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Dr-Atomics-Mesmerizing-Quantodrome-item?id=10914012">Dr. Atomic's Mesmerizing Q…</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="stat-label">Creator:</span> <span class="Detail stat"><a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl01_CreatorHyperLinkPortrait" class="notranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span>
+                    </div>
+                </div>
+            </div>
+        </td><td>
+            <div class="PortraitDiv" style="width: 140px;overflow: hidden;margin:auto;" visible="True" data-se="recommended-items-2">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl02_AssetThumbnailHyperLink" class=" notranslate" title="Midnight Shades" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Midnight-Shades-item?id=30331986" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t3.rbxcdn.com/f711bdc5a47d2784ee067b5dd2cf4395" height="110" width="110" border="0" alt="Midnight Shades" class=" notranslate"></a>
+                </div>
+                <div class="AssetDetails">
+                    <div class="AssetName noTranslate">
+                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl02_AssetNameHyperLinkPortrait" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Midnight-Shades-item?id=30331986">Midnight Shades</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="stat-label">Creator:</span> <span class="Detail stat"><a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl02_CreatorHyperLinkPortrait" class="notranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span>
+                    </div>
+                </div>
+            </div>
+        </td><td>
+            <div class="PortraitDiv" style="width: 140px;overflow: hidden;margin:auto;" visible="True" data-se="recommended-items-3">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl03_AssetThumbnailHyperLink" class=" notranslate" title="Kuddle E. Koala" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Kuddle-E-Koala-item?id=44113968" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t0.rbxcdn.com/e6ea8988fcc7c0e1a7c2a48021537373" height="110" width="110" border="0" alt="Kuddle E. Koala" class=" notranslate"></a>
+                </div>
+                <div class="AssetDetails">
+                    <div class="AssetName noTranslate">
+                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl03_AssetNameHyperLinkPortrait" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Kuddle-E-Koala-item?id=44113968">Kuddle E. Koala</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="stat-label">Creator:</span> <span class="Detail stat"><a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl03_CreatorHyperLinkPortrait" class="notranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span>
+                    </div>
+                </div>
+            </div>
+        </td><td>
+            <div class="PortraitDiv" style="width: 140px;overflow: hidden;margin:auto;" visible="True" data-se="recommended-items-4">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl04_AssetThumbnailHyperLink" class=" notranslate" title="Brrr..." href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Brrr-item?id=43656416" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t3.rbxcdn.com/d43076a0571f63928b4a6610eb17d539" height="110" width="110" border="0" alt="Brrr..." class=" notranslate"></a>
+                </div>
+                <div class="AssetDetails">
+                    <div class="AssetName noTranslate">
+                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl04_AssetNameHyperLinkPortrait" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Brrr-item?id=43656416">Brrr...</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="stat-label">Creator:</span> <span class="Detail stat"><a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl04_CreatorHyperLinkPortrait" class="notranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span>
+                    </div>
+                </div>
+            </div>
+        </td>
+		</tr><tr>
+			<td>
+            <div class="PortraitDiv" style="width: 140px;overflow: hidden;margin:auto;" visible="True" data-se="recommended-items-5">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl05_AssetThumbnailHyperLink" class=" notranslate" title="Guardia in Exile" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Guardia-in-Exile-item?id=18174901" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t6.rbxcdn.com/4fa4047828035e3b871f437d2fcff835" height="110" width="110" border="0" alt="Guardia in Exile" class=" notranslate"></a>
+                </div>
+                <div class="AssetDetails">
+                    <div class="AssetName noTranslate">
+                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl05_AssetNameHyperLinkPortrait" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Guardia-in-Exile-item?id=18174901">Guardia in Exile</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="stat-label">Creator:</span> <span class="Detail stat"><a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl05_CreatorHyperLinkPortrait" class="notranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span>
+                    </div>
+                </div>
+            </div>
+        </td><td>
+            <div class="PortraitDiv" style="width: 140px;overflow: hidden;margin:auto;" visible="True" data-se="recommended-items-6">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl06_AssetThumbnailHyperLink" class=" notranslate" title="Propeller Beanie" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Propeller-Beanie-item?id=10911990" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t4.rbxcdn.com/09ffcca3c3fd541fc9cc38663bf48cda" height="110" width="110" border="0" alt="Propeller Beanie" class=" notranslate"></a>
+                </div>
+                <div class="AssetDetails">
+                    <div class="AssetName noTranslate">
+                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl06_AssetNameHyperLinkPortrait" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Propeller-Beanie-item?id=10911990">Propeller Beanie</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="stat-label">Creator:</span> <span class="Detail stat"><a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl06_CreatorHyperLinkPortrait" class="notranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span>
+                    </div>
+                </div>
+            </div>
+        </td><td>
+            <div class="PortraitDiv" style="width: 140px;overflow: hidden;margin:auto;" visible="True" data-se="recommended-items-7">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl07_AssetThumbnailHyperLink" class=" notranslate" title="2013 New Year's Top Hat" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/2013-New-Years-Top-Hat-item?id=101971531" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t2.rbxcdn.com/a6e27a6220f8dec9ff238b14ecdab12d" height="110" width="110" border="0" alt="2013 New Year's Top Hat" class=" notranslate"></a>
+                </div>
+                <div class="AssetDetails">
+                    <div class="AssetName noTranslate">
+                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl07_AssetNameHyperLinkPortrait" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/2013-New-Years-Top-Hat-item?id=101971531">2013 New Year's Top Hat</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="stat-label">Creator:</span> <span class="Detail stat"><a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl07_CreatorHyperLinkPortrait" class="notranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span>
+                    </div>
+                </div>
+            </div>
+        </td><td>
+            <div class="PortraitDiv" style="width: 140px;overflow: hidden;margin:auto;" visible="True" data-se="recommended-items-8">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl08_AssetThumbnailHyperLink" class=" notranslate" title="2010 ROBLOX Visor" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/2010-ROBLOX-Visor-item?id=20264649" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t4.rbxcdn.com/27ce926b0762d0b1f9a2d8c43ee036ca" height="110" width="110" border="0" alt="2010 ROBLOX Visor" class=" notranslate"></a>
+                </div>
+                <div class="AssetDetails">
+                    <div class="AssetName noTranslate">
+                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl08_AssetNameHyperLinkPortrait" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/2010-ROBLOX-Visor-item?id=20264649">2010 ROBLOX Visor</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="stat-label">Creator:</span> <span class="Detail stat"><a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl08_CreatorHyperLinkPortrait" class="notranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span>
+                    </div>
+                </div>
+            </div>
+        </td><td>
+            <div class="PortraitDiv" style="width: 140px;overflow: hidden;margin:auto;" visible="True" data-se="recommended-items-9">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl09_AssetThumbnailHyperLink" class=" notranslate" title="Knit Hat" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Knit-Hat-item?id=20298816" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="https://web.archive.org/web/20141201201623im_/http://t6.rbxcdn.com/5b6e0f02fe571716fb938332e4e90066" height="110" width="110" border="0" alt="Knit Hat" class=" notranslate"></a>
+                </div>
+                <div class="AssetDetails">
+                    <div class="AssetName noTranslate">
+                        <a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl09_AssetNameHyperLinkPortrait" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Knit-Hat-item?id=20298816">Knit Hat</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="stat-label">Creator:</span> <span class="Detail stat"><a id="ctl00_cphRoblox_rbxUserAssetsPane_AssetRec_dlAssets_ctl09_CreatorHyperLinkPortrait" class="notranslate" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=1">ROBLOX</a></span>
+                    </div>
+                </div>
+            </div>
+        </td>
+		</tr>
+	</tbody></table>
+    
+</div>
+
+
+
+                </div>
+            </div>
+            <div style="clear: both;">
+            </div>
+        </div>
+        <div id="ctl00_cphRoblox_rbxUserAssetsPane_CreateSetPanelDiv" class="createSetPanelPopup" style="width: 400px; height: 100%; padding: 0; float: left; display: none">
+		
+            
+        
+	</div>
+
+    
+</div>
+
+<div class="PlaceSelectorModal modalPopup unifiedModal" style="display:none;">
+    <div class="Title">Select Place</div>
+    <div class="GenericModalBody text">
+        <div class="place-selector-modal" data-place-loader-url="/universes/get-places-by-context?creationContext=NonGameCreation&amp;universeId=0">
+            <div class="place-selector-container">
+                <div id="PlaceSelectorItemContainer" class="place-selector-item-container"></div>
+                <div id="PlaceSelectorPagerContainer" class="place-selector-pager-container"></div>
+            </div>
+            <div class="place-selector template" title="Place" style="display: none">
+                <div class="place-image" data-retry-url-template="/asset-thumbnail/json?height=100&amp;width=160&amp;format=jpeg">
+                    <img alt="^_^" class="item-image" src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/ec5c01d220bf1b73403fa51519267742.gif">
+                </div>
+                <div class="InfoContainer">
+                    <div class="place-name"></div>
+                    <div class="game-name"><span class="form-label">Game: </span><span class="game-name-text"></span></div>
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        </div>
+    </div>
+    
+
+                    <div style="clear:both"></div>
+                </div>
+            </div>
+        </div> 
+        </div>
+        
+            <div id="Footer" class="footer-container">
+    <div class="FooterNav">
+        <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/info/Privacy.aspx">Privacy Policy</a>
+        &nbsp;|&nbsp;
+        <a href="https://web.archive.org/web/20141201201623/http://corp.roblox.com/advertise-on-roblox" class="roblox-interstitial">Advertise with Us</a>
+        &nbsp;|&nbsp;
+        <a href="https://web.archive.org/web/20141201201623/http://corp.roblox.com/press" class="roblox-interstitial">Press</a>
+        &nbsp;|&nbsp;
+        <a href="https://web.archive.org/web/20141201201623/http://corp.roblox.com/contact-us" class="roblox-interstitial">Contact Us</a>
+        &nbsp;|&nbsp;
+        <a href="https://web.archive.org/web/20141201201623/http://corp.roblox.com/about" class="roblox-interstitial">About Us</a>
+        &nbsp;|&nbsp;
+        <a href="https://web.archive.org/web/20141201201623/http://blog.roblox.com/" class="roblox-interstitial">Blog</a>
+        &nbsp;|&nbsp;
+        <a href="https://web.archive.org/web/20141201201623/http://corp.roblox.com/careers" class="roblox-interstitial">Jobs</a>
+        &nbsp;|&nbsp;
+        <a href="https://web.archive.org/web/20141201201623/http://corp.roblox.com/parents" class="roblox-interstitial">Parents</a>
+            <span class="LanguageOptionElement">&nbsp;|&nbsp;</span>
+            <span ref="footer-parents" class="LanguageOptionElement LanguageTrigger roblox-interstitial" drop-down-nav-button="LanguageTrigger">
+                English&nbsp;<span class="FooterArrow">▼</span>
+            <div class="dropuplanguagecontainer" style="display:none;" data-drop-down-nav-container="LanguageTrigger">
+                <div class="dropdownmainnav" style="z-index:1023">
+                        <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/UserLanguage/LanguageRedirect?languageCode=de&amp;relativePath=%2fUser.aspx%3fID%3d998594" class="LanguageOption js-lang" data-js-langcode="de"><span class="notranslate">Deutsch</span>&nbsp;(German) </a>
+                </div>
+            </div>
+        </span>
+    </div>
+    <div class="legal">
+        <div class="left">
+            <div id="a15b1695-1a5a-49a9-94f0-9cd25ae6c3b2">
+    <a href="https://web.archive.org/web/20141201201623/http://privacy.truste.com/privacy-seal/Roblox-Corporation/validation?rid=2428aa2a-f278-4b6d-9095-98c4a2954215" title="TRUSTe Children privacy certification" target="_blank">
+        <img style="border: none" src="https://web.archive.org/web/20141201201623im_/http://privacy-policy.truste.com/privacy-seal/Roblox-Corporation/seal?rid=2428aa2a-f278-4b6d-9095-98c4a2954215" width="133" height="45" alt="TRUSTe Children privacy certification">
+    </a>
+</div>
+        </div>
+        <div class="right">
+            <p class="Legalese">
+    ROBLOX, "Online Building Toy", characters, logos, names, and all related indicia are trademarks of <a href="https://web.archive.org/web/20141201201623/http://corp.roblox.com/" ref="footer-smallabout" class="roblox-interstitial">ROBLOX Corporation</a>, ©2014. Patents pending.
+    ROBLOX is not sponsored, authorized or endorsed by any producer of plastic building bricks, including The LEGO Group, MEGA Brands, and K'Nex, and no resemblance to the products of these companies is intended. Use of this site signifies your acceptance of the <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/info/terms-of-service" ref="footer-terms">Terms and Conditions</a>.
+</p>
+        </div>
+        <div class="clear"></div>
+    </div>
+
+</div>
+        
+        </div></div>
+    
+    <div id="ChatContainer" style="position: fixed; bottom: 0; right: 0; z-index: 10020">
+        
+
+    </div>
+
+        
+        
+    
+
+    
+
+
+</form>
+    
+    
+    
+
+
+<div id="InstallationInstructions" class="modalPopup blueAndWhite" style="display:none;overflow:hidden">
+    <a id="CancelButton2" class="ImageButton closeBtnCircle_35h ABCloseCircle"></a>
+    <div style="padding-bottom:10px;text-align:center">
+        <br><br>
+    </div>
+</div>
+
+
+
+<div id="pluginObjDiv" style="height:1px;width:1px;visibility:hidden;position: absolute;top: 0;"></div>
+<iframe id="downloadInstallerIFrame" style="visibility:hidden;height:0;width:1px;position:absolute" data-ruffle-polyfilled=""></iframe>
+
+
+
+
+
+
+<div id="PlaceLauncherStatusPanel" style="display:none;width:300px">
+    <div class="modalPopup blueAndWhite PlaceLauncherModal" style="min-height: 160px">
+        <div id="Spinner" class="Spinner" style="margin:0 1em 1em 0; padding:20px 0;">
+            <img src="https://web.archive.org/web/20141201201623im_/http://images.rbxcdn.com/e998fb4c03e8c2e30792f2f3436e9416.gif" height="32" width="32" alt="Progress">
+        </div>
+        <div id="status" style="min-height:40px;text-align:center;margin:5px 20px">
+            <div id="Starting" class="PlaceLauncherStatus MadStatusStarting" style="display:block">
+                Starting Roblox...
+            </div>
+            <div id="Waiting" class="PlaceLauncherStatus MadStatusField">Connecting to Players...</div>
+            <div id="StatusBackBuffer" class="PlaceLauncherStatus PlaceLauncherStatusBackBuffer MadStatusBackBuffer"></div>
+        </div>
+        <div style="text-align:center;margin-top:1em">
+            <input type="button" class="Button CancelPlaceLauncherButton translate" value="Cancel">
+        </div>
+    </div>
+</div>
+
+
+
+
+    <div id="videoPrerollPanel" style="display:none">
+        <div id="videoPrerollTitleDiv">
+            Gameplay sponsored by:
+        </div>
+        <div id="videoPrerollMainDiv"></div>
+        <div id="videoPrerollCompanionAd"></div>
+        <div id="videoPrerollLoadingDiv">
+            Loading <span id="videoPrerollLoadingPercent">0%</span> - <span id="videoPrerollMadStatus" class="MadStatusField">Starting game...</span><span id="videoPrerollMadStatusBackBuffer" class="MadStatusBackBuffer"></span>
+            <div id="videoPrerollLoadingBar">
+                <div id="videoPrerollLoadingBarCompleted">
+                </div>
+            </div>
+        </div>
+        <div id="videoPrerollJoinBC">
+            <span>Get more with Builders Club!</span>
+            <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/Upgrades/BuildersClubMemberships.aspx?ref=vpr" target="_blank" id="videoPrerollJoinBCButton"></a>
+        </div>
+    </div>
+    
+
+
+<div id="GuestModePrompt_BoyGirl" class="Revised GuestModePromptModal" style="display:none;">
+    <div class="simplemodal-close">
+        <a class="ImageButton closeBtnCircle_20h" style="cursor: pointer; margin-left:455px;top:7px; position:absolute;"></a>
+    </div>
+    <div class="Title">
+        Choose Your Character
+    </div>
+    <div style="min-height: 275px; background-color: white;">
+        <div style="clear:both; height:25px;"></div>
+
+        <div style="text-align: center;">
+            <div class="VisitButtonsGuestCharacter VisitButtonBoyGuest" style="float:left; margin-left:45px;"></div>
+            <div class="VisitButtonsGuestCharacter VisitButtonGirlGuest" style="float:right; margin-right:45px;"></div>
+        </div>
+        <div style="clear:both; height:25px;"></div>
+        <div class="RevisedFooter">
+            <div style="width:200px;margin:10px auto 0 auto;">
+                <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594#"><div class="RevisedCharacterSelectSignup"></div></a>
+                <a class="HaveAccount" href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594#">I have an account</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+  
+
+<div class="ConfirmationModal modalPopup unifiedModal smallModal" data-modal-handle="confirmation" style="display:none;">
+    <a class="genericmodal-close ImageButton closeBtnCircle_20h"></a>
+    <div class="Title"></div>
+    <div class="GenericModalBody">
+        <div class="TopBody">
+            <div class="ImageContainer roblox-item-image" data-image-size="small" data-no-overlays="" data-no-click="">
+                <img class="GenericModalImage" alt="generic image">
+            </div>
+            <div class="Message"></div>
+        </div>
+        <div class="ConfirmationModalButtonContainer">
+            <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594" id="roblox-confirm-btn"><span></span></a>
+            <a href="https://web.archive.org/web/20141201201623/http://www.roblox.com/User.aspx?ID=998594" id="roblox-decline-btn"><span></span></a>
+        </div>
+        <div class="ConfirmationModalFooter">
+        
+        </div>  
+    </div>   
+    
+</div>
+
+
+        <img src="https://web.archive.org/web/20141201201623im_/https://secure.adnxs.com/seg?add=550800&amp;t=2" width="1" height="1" style="display:none;">
+
+                
+
+
+<span style="display: inline-block; visibility: hidden; height: 0px; padding: 0px;">ROBLOX</span></body></html><!--
+     FILE ARCHIVED ON 20:16:23 Dec 01, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:03:44 Aug 21, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+--><!--
+playback timings (ms):
+  captures_list: 0.395
+  exclusion.robots: 0.061
+  exclusion.robots.policy: 0.055
+  esindex: 0.006
+  cdx.remote: 16.284
+  LoadShardBlock: 40.74 (3)
+  PetaboxLoader3.datanode: 50.661 (4)
+  load_resource: 1129.588
+  PetaboxLoader3.resolve: 1065.201
+  nav: 0.141 (6)
+-->

@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+#win_firefox_install_img .activation { }
+
+#win_firefox_install_img .installation { width: 869px; height: 331px; }
+
+#mac_firefox_install_img .activation { }
+
+#mac_firefox_install_img .installation { width: 250px; }
+
+#win_chrome_install_img .activation { }
+
+#win_chrome_install_img .installation { }
+
+#mac_chrome_install_img .activation { width: 250px; }
+
+#mac_chrome_install_img .installation { }
