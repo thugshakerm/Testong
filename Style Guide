@@ -1,0 +1,1576 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide
+Subject: Style Guide
+Date: Fri, 21 Aug 2026 00:54:51 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----"
+
+
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: text/html
+Content-ID: <frame-FB670432DA115CEB6AB061D4BC7EEA2E@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide
+
+<!DOCTYPE html><html style="--wm-toolbar-height: 67px;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-932d31c4-28dc-474c-9420-d4454a974536@mhtml.blink" />
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3">
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv">
+<!-- End Wayback Rewrite JS Include -->
+
+    <title>Style Guide</title>
+     
+    <link rel="stylesheet" href="https://web.archive.org/web/20140516222548cs_/https://roblox.com/CSS/Base/CSS/StyleGuide.css"> 
+    
+    
+    
+    
+</head>
+    <body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+
+<div id="wm-ipp-base" lang="en" style="display: block; direction: ltr; height: 67px;" toolbar-mode="auto"><template shadowmode="closed"><div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;height:0;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="cid:frame-7F5590151DF1D53616286F4FB288C012@mhtml.blink" scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;" nav="async">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="https://web.archive.org/web/" title="Wayback Machine home page"><img src="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png" alt="Wayback Machine" style="width:100px" border="0"></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="https://web.archive.org/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://roblox.com/reference/styleguide" style="flex:1;" autocomplete="off"><input type="submit" value="Go">
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;"><a class="t" href="https://web.archive.org/web/*/https://roblox.com/reference/styleguide" title="See a list of every capture for this URL">140 captures</a><div class="r" title="Timespan for captures of this URL">16 May 2014 - 30 Jan 2026</div></div>
+        <div class="k">
+          <a href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="775" height="27" border="0"></canvas>
+            <div class="yt" style="display: none; width: 25px; height: 27px;"></div><div class="mt" style="display: none; width: 2px; height: 27px;"></div></div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap">Apr</td>
+            <td class="c" id="displayMonthEl" title="You are here: 22:25:48 May 16, 2014">MAY</td>
+            <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20160526060027/https://roblox.com/reference/styleguide" title="06:00:27 May 26, 2016">May</a></td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><span class="ta"></span></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 22:25:48 May 16, 2014">16</td>
+            <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20160526060027/https://roblox.com/reference/styleguide" title="06:00:27 May 26, 2016"><span class="ta"></span></a></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap">2013</td>
+            <td class="c" id="displayYearEl" title="You are here: 22:25:48 May 16, 2014">2014</td>
+            <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20160526060027/https://roblox.com/reference/styleguide" title="06:00:27 May 26, 2016">2016</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide#" title="Share via My Web Archive" style="display: none;">
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in" style="display: inline-block;">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web" style="display: none;"></span>
+        </span>
+                <a class="xxs" href="https://help.archive.org/help/category/the-wayback-machine/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="https://web.archive.org/web/20140516222548/http://web.archive.org/screenshot/https://roblox.com/reference/styleguide" id="wm-screenshot" title="screenshot" style="visibility: hidden;">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide#" data-url="https://web.archive.org/web/20140516222548/http://www.roblox.com/Reference/StyleGuide" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide#" data-url="https://web.archive.org/web/20140516222548/http://www.roblox.com/Reference/StyleGuide" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/webwidecrawl);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/webwidecrawl" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the <a href="http://archive.org/web/web.php">Wayback Machine</a>.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/liveweb)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/liveweb" target="_new"><span class="wm-title">Live Web Proxy Crawls</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Content crawled via the <a href="http://archive.org/web/web.php">Wayback Machine</a> Live Proxy mostly by the Save Page Now feature on web.archive.org.
+<br><br>
+Liveweb proxy is a component of Internet Archiveâ€™s wayback machine project. The liveweb proxy captures the content of a web page in real time, archives it into a ARC or WARC file and returns the ARC/WARC record back to the wayback machine to process. The recorded ARC/WARC file becomes part of the wayback machine in due course of time.
+<br>
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="https://web-static.archive.org/_static/images/loading.gif" alt="loading"></div>
+    </div>
+    </div>
+  </div></div></div><link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3"><link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv"><div class="wb-autocomplete-suggestions " style="left: 15px; top: 7825px; width: 769px;"></div></template>
+</div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20140516222548/http://www.roblox.com/Reference/StyleGuide</div>
+
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+        <h1>Roblox Styleguide Reference</h1><br>
+        <div id="table-of-contents-container">
+            <ul id="table-of-contents"></ul>
+        </div>
+        <div id="undocumented-rules-container">
+            <h3>Undocumented Rules:</h3>
+            <div id="undocumented-rules"></div>
+        </div>        
+
+        <!-- Text Styles -->
+        <h2 class="doc-heading">Typography</h2><br>
+        <h3 class="doc-heading">Headings</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <h1>Roblox Heading h1</h1><br>  
+                <h2>Roblox Heading h2</h2><br>   
+                <h2 class="light">Roblox Heading h2 Light</h2><br>
+                <h3>Standard Roblox Heading h3</h3><br>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;h1</span><span class="tag">&gt;</span>Roblox Heading h1<span class="tag">&lt;/h1&gt;</span><br class=""><span class="tag">&lt;br</span><span class="tag"> /&gt;</span><br class=""><span class="tag">&lt;h2</span><span class="tag">&gt;</span>Roblox Heading h2<span class="tag">&lt;/h2&gt;</span><br class=""><span class="tag">&lt;br</span><span class="tag"> /&gt;</span><br class=""><span class="tag">&lt;h2</span><span class="attr-key"> class=</span><span class="attr-value">"light"</span><span class="tag">&gt;</span>Roblox Heading h2 Light<span class="tag">&lt;/h2&gt;</span><br class=""><span class="tag">&lt;br</span><span class="tag"> /&gt;</span><br class=""><span class="tag">&lt;h3</span><span class="tag">&gt;</span>Standard Roblox Heading h3<span class="tag">&lt;/h3&gt;</span><br class=""><span class="tag">&lt;br</span><span class="tag"> /&gt;</span><br class=""></code></pre></div>
+        </div>
+    
+        <h3 class="doc-heading">Body Copy</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <div class="text">
+                    <p>Standard  Text Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut eros vel mi posuere laoreet vitae et lectus.</p>
+                    <p>Quisque in mauris vulputate dolor adipiscing viverra vel at tellus. Sed massa nulla, tristique vel tristique in, bibendum eu erat. </p>
+                    <p>Cras id tellus ac purus pharetra malesuada. Integer non nunc nec magna aliquam sagittis at id diam. Mauris est leo, dapibus sed ultricies iaculis, facilisis ac tellus. Maecenas ultricies tempor orci, ac pretium ipsum pharetra sed. Nullam nulla ipsum, commodo eu lobortis sed, lobortis vitae urna. Donec libero nisl, placerat eget fermentum in, molestie id elit. Donec scelerisque tempor nunc id feugiat. Sed ultrices, est nec tristique laoreet, velit urna fringilla nibh, sed bibendum enim nulla nec tortor.</p>            
+                    <p><a class="text-link">Text Link</a></p>
+                    <p><a disabled="">Disabled link</a></p>
+                </div>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"text"</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;p</span><span class="tag">&gt;</span>Standard Text Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut ...<span class="tag">&lt;/p&gt;</span><br class="">  <span class="tag">&lt;p</span><span class="tag">&gt;</span>Quisque in mauris vulputate dolor adipiscing viverra vel at tellus. Sed massa nu...<span class="tag">&lt;/p&gt;</span><br class="">  <span class="tag">&lt;p</span><span class="tag">&gt;</span>Cras id tellus ac purus pharetra malesuada. Integer non nunc nec magna aliquam s...<span class="tag">&lt;/p&gt;</span><br class="">  <span class="tag">&lt;p</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"text-link"</span><span class="tag">&gt;</span>Text Link<span class="tag">&lt;/a&gt;</span><br class="">  <span class="tag">&lt;/p&gt;</span><br class="">  <span class="tag">&lt;p</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;a</span><span class="attr-key"> disabled=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Disabled link<span class="tag">&lt;/a&gt;</span><br class="">  <span class="tag">&lt;/p&gt;</span><br class=""><span class="tag">&lt;/div&gt;</span><br class=""></code></pre></div>
+        </div>       
+        
+        <h3 class="doc-heading">Specialized Text</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <div class="footnote">Footnote text</div>
+                <div>Search <span class="search-match">match</span></div>
+                <div class="hint-text">Hint text, such as is used in search bars and the comments text area</div>
+                <span class="robux">9,999</span><br>
+                <span class="tickets">9,999</span><br>
+                <div class="robux-text">Robux text</div>
+                <div class="online-player">Players Online Text</div>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"footnote"</span><span class="tag">&gt;</span>Footnote text<span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;div</span><span class="tag">&gt;</span>Search <br class="">  <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"search-match"</span><span class="tag">&gt;</span>match<span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"hint-text"</span><span class="tag">&gt;</span>Hint text, such as is used in search bars and the comments text area<span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"robux"</span><span class="tag">&gt;</span>9,999<span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;br</span><span class="tag"> /&gt;</span><br class=""><span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"tickets"</span><span class="tag">&gt;</span>9,999<span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;br</span><span class="tag"> /&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"robux-text"</span><span class="tag">&gt;</span>Robux text<span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"online-player"</span><span class="tag">&gt;</span>Players Online Text<span class="tag">&lt;/div&gt;</span><br class=""></code></pre></div>
+        </div>
+
+        <h3 class="doc-heading">Messaging Text</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <div class="tool-tip"><img src="https://web.archive.org/web/20140516222548im_/https://roblox.com/images/UI/img-tail-left.png" class="right">tool-tip left.<div>Multiline!</div><div>Amazing!</div></div><br>
+                <div class="tool-tip"><img src="https://web.archive.org/web/20140516222548im_/https://roblox.com/images/UI/img-tail-left.png" class="left">tool-tip left.<div>Multiline!</div><div>Amazing!</div></div> 
+                <p>Tooltip with Info Icon<span class="info-tool-tip tooltip" title="This is an informational tooltip using tipsy."></span></p>
+                <p><span class="status-confirm">Confirmation message span.</span></p>
+                <p><span class="status-error">Error message span.</span></p>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"tool-tip"</span><span class="tag">&gt;</span>tool-tip left.<br class="">  <span class="tag">&lt;img</span><span class="attr-key"> src=</span><span class="attr-value">"https://roblox.com/images/UI/img-tail-left.png"</span><span class="attr-key"> class=</span><span class="attr-value">"right"</span><span class="tag"> /&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="tag">&gt;</span>Multiline!<span class="tag">&lt;/div&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="tag">&gt;</span>Amazing!<span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;br</span><span class="tag"> /&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"tool-tip"</span><span class="tag">&gt;</span>tool-tip left.<br class="">  <span class="tag">&lt;img</span><span class="attr-key"> src=</span><span class="attr-value">"https://roblox.com/images/UI/img-tail-left.png"</span><span class="attr-key"> class=</span><span class="attr-value">"left"</span><span class="tag"> /&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="tag">&gt;</span>Multiline!<span class="tag">&lt;/div&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="tag">&gt;</span>Amazing!<span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;p</span><span class="tag">&gt;</span>Tooltip with Info Icon<br class="">  <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"info-tool-tip tooltip"</span><span class="attr-key"> title=</span><span class="attr-value">"This is an informational tooltip using tipsy."</span><span class="tag">&gt;</span><span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;/p&gt;</span><br class=""><span class="tag">&lt;p</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"status-confirm"</span><span class="tag">&gt;</span>Confirmation message span.<span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;/p&gt;</span><br class=""><span class="tag">&lt;p</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"status-error"</span><span class="tag">&gt;</span>Error message span.<span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;/p&gt;</span><br class=""></code></pre></div>
+        </div>
+            
+        <h2 class="doc-heading">Forms</h2><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <div style="min-height: 30px;">
+                    <span class="form-label" style="float:left;padding-top:2px;margin-right:5px;">Form Label</span>   
+                    <div style="float: left; width: 183px; text-align:left;">
+                        <select class="form-select">
+                            <option value="Anixamenes">Anixamenes</option>
+                            <option value="Pythagoras">Pythagoras</option>
+                            <option value="Thales">Thales</option>
+                            <option value="Anaximander">Anaximander</option>
+                        </select> 
+                    </div>
+                </div>
+                
+                <div style="min-height: 30px;">
+                    <span class="form-label" style="float:left;padding-top:5px;margin-right:5px;">Form Label</span>   
+                    <div style="float: left; width: 183px; text-align:left;">
+                        <input type="text" class="text-box text-box-small" value="Small Text Box" style="width:183px;">
+                    </div>
+                </div>
+                <div style="min-height: 45px;">
+                    <span class="form-label" style="float:left;padding-top:5px;margin-right:5px;">Form Label</span>   
+                    <div style="float: left; width: 183px; text-align:left;">
+                        <input type="text" class="text-box text-box-medium" value="Medium Text Box" style="width:183px;">
+                        <span class="tip-text">(Form) Tip Text</span>
+                    </div>
+                </div>
+                <div style="min-height: 30px;">
+                    <span class="form-label" style="float:left;padding-top:5px;margin-right:5px;">Form Label</span>   
+                    <div style="float: left; width: 183px; text-align:left;">
+                        <input type="text" class="text-box text-box-large" value="Large Text Box" style="width:183px;">
+                    </div>
+                    <div style="float:left;margin-left:5px;">
+                        <div class="validator-checkmark" style="display:block;position:relative;top:5px;"></div>
+                    </div>
+                </div> 
+                <label for="textbox">Text Box:</label>
+                <textarea class="text-box text-area-medium" cols="80" id="textbox" name="textbox" rows="6"></textarea>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;div</span><span class="attr-key"> style=</span><span class="attr-value">"min-height: 30px;"</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"form-label"</span><span class="attr-key"> style=</span><span class="attr-value">"float:left;padding-top:2px;margin-right:5px;"</span><span class="tag">&gt;</span>Form Label<span class="tag">&lt;/span&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="attr-key"> style=</span><span class="attr-value">"float: left; width: 183px; text-align:left;"</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;select</span><span class="attr-key"> class=</span><span class="attr-value">"form-select"</span><span class="tag">&gt;</span><br class="">      <span class="tag">&lt;option</span><span class="attr-key"> value=</span><span class="attr-value">"Anixamenes"</span><span class="tag">&gt;</span>Anixamenes<span class="tag">&lt;/option&gt;</span><br class="">      <span class="tag">&lt;option</span><span class="attr-key"> value=</span><span class="attr-value">"Pythagoras"</span><span class="tag">&gt;</span>Pythagoras<span class="tag">&lt;/option&gt;</span><br class="">      <span class="tag">&lt;option</span><span class="attr-key"> value=</span><span class="attr-value">"Thales"</span><span class="tag">&gt;</span>Thales<span class="tag">&lt;/option&gt;</span><br class="">      <span class="tag">&lt;option</span><span class="attr-key"> value=</span><span class="attr-value">"Anaximander"</span><span class="tag">&gt;</span>Anaximander<span class="tag">&lt;/option&gt;</span><br class="">    <span class="tag">&lt;/select&gt;</span><br class="">  <span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> style=</span><span class="attr-value">"min-height: 30px;"</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"form-label"</span><span class="attr-key"> style=</span><span class="attr-value">"float:left;padding-top:5px;margin-right:5px;"</span><span class="tag">&gt;</span>Form Label<span class="tag">&lt;/span&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="attr-key"> style=</span><span class="attr-value">"float: left; width: 183px; text-align:left;"</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;input</span><span class="attr-key"> type=</span><span class="attr-value">"text"</span><span class="attr-key"> class=</span><span class="attr-value">"text-box text-box-small"</span><span class="attr-key"> value=</span><span class="attr-value">"Small Text Box"</span><span class="attr-key"> style=</span><span class="attr-value">"width:183px;"</span><span class="tag"> /&gt;</span><br class="">  <span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> style=</span><span class="attr-value">"min-height: 45px;"</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"form-label"</span><span class="attr-key"> style=</span><span class="attr-value">"float:left;padding-top:5px;margin-right:5px;"</span><span class="tag">&gt;</span>Form Label<span class="tag">&lt;/span&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="attr-key"> style=</span><span class="attr-value">"float: left; width: 183px; text-align:left;"</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;input</span><span class="attr-key"> type=</span><span class="attr-value">"text"</span><span class="attr-key"> class=</span><span class="attr-value">"text-box text-box-medium"</span><span class="attr-key"> value=</span><span class="attr-value">"Medium Text Box"</span><span class="attr-key"> style=</span><span class="attr-value">"width:183px;"</span><span class="tag"> /&gt;</span><br class="">    <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"tip-text"</span><span class="tag">&gt;</span>(Form) Tip Text<span class="tag">&lt;/span&gt;</span><br class="">  <span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> style=</span><span class="attr-value">"min-height: 30px;"</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"form-label"</span><span class="attr-key"> style=</span><span class="attr-value">"float:left;padding-top:5px;margin-right:5px;"</span><span class="tag">&gt;</span>Form Label<span class="tag">&lt;/span&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="attr-key"> style=</span><span class="attr-value">"float: left; width: 183px; text-align:left;"</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;input</span><span class="attr-key"> type=</span><span class="attr-value">"text"</span><span class="attr-key"> class=</span><span class="attr-value">"text-box text-box-large"</span><span class="attr-key"> value=</span><span class="attr-value">"Large Text Box"</span><span class="attr-key"> style=</span><span class="attr-value">"width:183px;"</span><span class="tag"> /&gt;</span><br class="">  <span class="tag">&lt;/div&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="attr-key"> style=</span><span class="attr-value">"float:left;margin-left:5px;"</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"validator-checkmark"</span><span class="attr-key"> style=</span><span class="attr-value">"display:block;position:relative;top:5px;"</span><span class="tag">&gt;</span><span class="tag">&lt;/div&gt;</span><br class="">  <span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;label</span><span class="attr-key"> for=</span><span class="attr-value">"textbox"</span><span class="tag">&gt;</span>Text Box:<span class="tag">&lt;/label&gt;</span><br class=""><span class="tag">&lt;textarea</span><span class="attr-key"> class=</span><span class="attr-value">"text-box text-area-medium"</span><span class="attr-key"> cols=</span><span class="attr-value">"80"</span><span class="attr-key"> id=</span><span class="attr-value">"textbox"</span><span class="attr-key"> name=</span><span class="attr-value">"textbox"</span><span class="attr-key"> rows=</span><span class="attr-value">"6"</span><span class="tag">&gt;</span><span class="tag">&lt;/textarea&gt;</span><br class=""></code></pre></div>
+        </div>     
+                    
+        <h2 class="doc-heading">Layout</h2><br>
+        <h3 class="doc-heading">Tables</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <table class="table" cellpadding="0" cellspacing="0" border="0">
+                    <tbody><tr class="table-header">
+                        <th class="first">first header</th>
+                        <th>header</th>
+                        <th>header</th>
+                        <th>header</th>
+                    </tr>
+                    <tr>
+                        <td>Builders Club Stipend</td>
+                        <td>Standard Table Row</td>
+                        <td>Standard Table Row</td>
+                        <td>Standard Table Row</td>
+                    </tr>
+                    <tr>
+                        <td>Builders Club Stipend Bonus</td>
+                        <td>Standard Table Row</td>
+                        <td>Standard Table Row</td>
+                        <td>Standard Table Row</td>
+                    </tr>
+                    <tr>
+                        <td>Sale of Goods</td>
+                        <td>Standard Table Row</td>
+                        <td>Standard Table Row</td>
+                        <td>Standard Table Row</td>
+                    </tr>
+                    <tr>
+                        <td>Currency Purchase</td>
+                        <td>Standard Table Row</td>
+                        <td>Standard Table Row</td>
+                        <td>Standard Table Row</td>
+                    </tr>               
+                </tbody></table>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;table</span><span class="attr-key"> class=</span><span class="attr-value">"table"</span><span class="attr-key"> cellpadding=</span><span class="attr-value">"0"</span><span class="attr-key"> cellspacing=</span><span class="attr-value">"0"</span><span class="attr-key"> border=</span><span class="attr-value">"0"</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;tbody</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;tr</span><span class="attr-key"> class=</span><span class="attr-value">"table-header"</span><span class="tag">&gt;</span><br class="">      <span class="tag">&lt;th</span><span class="attr-key"> class=</span><span class="attr-value">"first"</span><span class="tag">&gt;</span>first header<span class="tag">&lt;/th&gt;</span><br class="">      <span class="tag">&lt;th</span><span class="tag">&gt;</span>header<span class="tag">&lt;/th&gt;</span><br class="">      <span class="tag">&lt;th</span><span class="tag">&gt;</span>header<span class="tag">&lt;/th&gt;</span><br class="">      <span class="tag">&lt;th</span><span class="tag">&gt;</span>header<span class="tag">&lt;/th&gt;</span><br class="">    <span class="tag">&lt;/tr&gt;</span><br class="">    <span class="tag">&lt;tr</span><span class="tag">&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Builders Club Stipend<span class="tag">&lt;/td&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Standard Table Row<span class="tag">&lt;/td&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Standard Table Row<span class="tag">&lt;/td&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Standard Table Row<span class="tag">&lt;/td&gt;</span><br class="">    <span class="tag">&lt;/tr&gt;</span><br class="">    <span class="tag">&lt;tr</span><span class="tag">&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Builders Club Stipend Bonus<span class="tag">&lt;/td&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Standard Table Row<span class="tag">&lt;/td&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Standard Table Row<span class="tag">&lt;/td&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Standard Table Row<span class="tag">&lt;/td&gt;</span><br class="">    <span class="tag">&lt;/tr&gt;</span><br class="">    <span class="tag">&lt;tr</span><span class="tag">&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Sale of Goods<span class="tag">&lt;/td&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Standard Table Row<span class="tag">&lt;/td&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Standard Table Row<span class="tag">&lt;/td&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Standard Table Row<span class="tag">&lt;/td&gt;</span><br class="">    <span class="tag">&lt;/tr&gt;</span><br class="">    <span class="tag">&lt;tr</span><span class="tag">&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Currency Purchase<span class="tag">&lt;/td&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Standard Table Row<span class="tag">&lt;/td&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Standard Table Row<span class="tag">&lt;/td&gt;</span><br class="">      <span class="tag">&lt;td</span><span class="tag">&gt;</span>Standard Table Row<span class="tag">&lt;/td&gt;</span><br class="">    <span class="tag">&lt;/tr&gt;</span><br class="">  <span class="tag">&lt;/tbody&gt;</span><br class=""><span class="tag">&lt;/table&gt;</span><br class=""></code></pre></div>
+        </div>
+                
+
+        <h3 class="doc-heading">Dividers</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <div class="divider-top" style="margin:15px;">Divider Top</div>
+                <div class="divider-right" style="margin:15px;">Divider Right</div>
+                <div class="divider-bottom" style="margin:15px;">Divider Bottom</div>
+                <div class="divider-left" style="margin:15px;">Divider Left</div>
+                <div class="blank-box" style="margin:15px;">Blank Box</div>
+                <div class="dark-box" style="margin:15px;">Dark Box</div>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"divider-top"</span><span class="attr-key"> style=</span><span class="attr-value">"margin:15px;"</span><span class="tag">&gt;</span>Divider Top<span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"divider-right"</span><span class="attr-key"> style=</span><span class="attr-value">"margin:15px;"</span><span class="tag">&gt;</span>Divider Right<span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"divider-bottom"</span><span class="attr-key"> style=</span><span class="attr-value">"margin:15px;"</span><span class="tag">&gt;</span>Divider Bottom<span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"divider-left"</span><span class="attr-key"> style=</span><span class="attr-value">"margin:15px;"</span><span class="tag">&gt;</span>Divider Left<span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"blank-box"</span><span class="attr-key"> style=</span><span class="attr-value">"margin:15px;"</span><span class="tag">&gt;</span>Blank Box<span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"dark-box"</span><span class="attr-key"> style=</span><span class="attr-value">"margin:15px;"</span><span class="tag">&gt;</span>Dark Box<span class="tag">&lt;/div&gt;</span><br class=""></code></pre></div>
+        </div>
+
+        <h3 class="doc-heading">Tabs</h3><br>
+        <div class="doc-section">                
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <div class="tab-container">
+                    <div>Tab A</div>
+                    <div class="tab-active">Tab B</div>
+                    <div>Tab C</div>
+                </div>
+                <div>
+                    <div>Tab A</div>
+                    <div class="tab-active">Tab B</div>
+                    <div>Tab C</div>
+                </div>
+                
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"tab-container"</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="tag">&gt;</span>Tab A<span class="tag">&lt;/div&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"tab-active"</span><span class="tag">&gt;</span>Tab B<span class="tag">&lt;/div&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="tag">&gt;</span>Tab C<span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;div</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="tag">&gt;</span>Tab A<span class="tag">&lt;/div&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"tab-active"</span><span class="tag">&gt;</span>Tab B<span class="tag">&lt;/div&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="tag">&gt;</span>Tab C<span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;script</span><span class="attr-key"> type=</span><span class="attr-value">"text/javascript"</span><span class="attr-key"> src=</span><span class="attr-value">"https://roblox.com/js/widgets/tabs.js"</span><span class="attr-key"> data-readme=</span><span class="attr-value">"Can go at end of file."</span><span class="tag">&gt;</span><span class="tag">&lt;/script&gt;</span><br class=""></code></pre></div>
+        </div>
+
+        <h3 class="doc-heading">Vertical Tabs</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <div style="width:300px;">
+                    <div class="verticaltab">
+                        <a href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide#">vertical tab 1</a>
+                    </div>
+                    <div class="verticaltab selected">
+                        <a href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide#">vertical tab 2</a>
+                    </div>
+                    <div class="verticaltab">
+                        <a href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide#">vertical tab 3</a>
+                    </div>
+                </div>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;div</span><span class="attr-key"> style=</span><span class="attr-value">"width:300px;"</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"verticaltab"</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;a</span><span class="attr-key"> href=</span><span class="attr-value">"#"</span><span class="tag">&gt;</span>vertical tab 1<span class="tag">&lt;/a&gt;</span><br class="">  <span class="tag">&lt;/div&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"verticaltab selected"</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;a</span><span class="attr-key"> href=</span><span class="attr-value">"#"</span><span class="tag">&gt;</span>vertical tab 2<span class="tag">&lt;/a&gt;</span><br class="">  <span class="tag">&lt;/div&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"verticaltab"</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;a</span><span class="attr-key"> href=</span><span class="attr-value">"#"</span><span class="tag">&gt;</span>vertical tab 3<span class="tag">&lt;/a&gt;</span><br class="">  <span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;/div&gt;</span><br class=""></code></pre></div>
+        </div>
+
+        <!-- Dropdowns -->
+        <h2 class="doc-heading">Navigation Widgets</h2><br>
+        <h3 class="doc-heading">Dropdown Containers</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <div id="text-dropdown" class="dropdown">
+                    <div class="button init active">Text Label</div>
+                    <ul class="dropdown-list" style="min-width: 81px; display: block;">
+                        <li>
+                            <a>Widgets Page</a>
+                        </li>
+                        <li>
+                            <a>Reference Page</a>
+                        </li>
+                    </ul>
+                </div>
+                <br>
+                <br>
+                <div id="gear-dropdown" class="dropdown">
+                    <div class="button gear init"></div>
+                    <ul class="dropdown-list" style="min-width: 40px; display: none;">
+                        <li>
+                            <a>Widgets Page</a>
+                        </li>
+                        <li>
+                            <a>Buttons Reference Page</a>
+                        </li>
+                    </ul>
+                </div> 
+                <br>
+                <br>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;div</span><span class="attr-key"> id=</span><span class="attr-value">"text-dropdown"</span><span class="attr-key"> class=</span><span class="attr-value">"dropdown"</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"button"</span><span class="tag">&gt;</span>Text Label<span class="tag">&lt;/div&gt;</span><br class="">  <span class="tag">&lt;ul</span><span class="attr-key"> class=</span><span class="attr-value">"dropdown-list"</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;li</span><span class="tag">&gt;</span><br class="">      <span class="tag">&lt;a</span><span class="tag">&gt;</span>Widgets Page<span class="tag">&lt;/a&gt;</span><br class="">    <span class="tag">&lt;/li&gt;</span><br class="">    <span class="tag">&lt;li</span><span class="tag">&gt;</span><br class="">      <span class="tag">&lt;a</span><span class="tag">&gt;</span>Reference Page<span class="tag">&lt;/a&gt;</span><br class="">    <span class="tag">&lt;/li&gt;</span><br class="">  <span class="tag">&lt;/ul&gt;</span><br class=""><span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;br</span><span class="tag"> /&gt;</span><br class=""><span class="tag">&lt;br</span><span class="tag"> /&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> id=</span><span class="attr-value">"gear-dropdown"</span><span class="attr-key"> class=</span><span class="attr-value">"dropdown"</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"button gear"</span><span class="tag">&gt;</span><span class="tag">&lt;/div&gt;</span><br class="">  <span class="tag">&lt;ul</span><span class="attr-key"> class=</span><span class="attr-value">"dropdown-list"</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;li</span><span class="tag">&gt;</span><br class="">      <span class="tag">&lt;a</span><span class="tag">&gt;</span>Widgets Page<span class="tag">&lt;/a&gt;</span><br class="">    <span class="tag">&lt;/li&gt;</span><br class="">    <span class="tag">&lt;li</span><span class="tag">&gt;</span><br class="">      <span class="tag">&lt;a</span><span class="tag">&gt;</span>Buttons Reference Page<span class="tag">&lt;/a&gt;</span><br class="">    <span class="tag">&lt;/li&gt;</span><br class="">  <span class="tag">&lt;/ul&gt;</span><br class=""><span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;br</span><span class="tag"> /&gt;</span><br class=""><span class="tag">&lt;br</span><span class="tag"> /&gt;</span><br class=""></code></pre></div>
+            
+        </div>
+
+
+        <div style="clear:both"></div>
+                
+                
+        <h3 class="doc-heading">Pillboxes</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <ul class="nav nav-pills">
+                    <li class="active"><a href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide">Item 1</a></li>
+                    <li><a href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide">Item 2</a></li>
+                    <li><a href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide">Item 3</a></li>
+                    <li><a href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide">Item 4</a></li>
+                    <li><a href="https://web.archive.org/web/20140516222548/https://roblox.com/reference/styleguide">Item 5</a></li>
+                </ul>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;ul</span><span class="attr-key"> class=</span><span class="attr-value">"nav nav-pills"</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;li</span><span class="attr-key"> class=</span><span class="attr-value">"active"</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;a</span><span class="attr-key"> href=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Item 1<span class="tag">&lt;/a&gt;</span><br class="">  <span class="tag">&lt;/li&gt;</span><br class="">  <span class="tag">&lt;li</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;a</span><span class="attr-key"> href=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Item 2<span class="tag">&lt;/a&gt;</span><br class="">  <span class="tag">&lt;/li&gt;</span><br class="">  <span class="tag">&lt;li</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;a</span><span class="attr-key"> href=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Item 3<span class="tag">&lt;/a&gt;</span><br class="">  <span class="tag">&lt;/li&gt;</span><br class="">  <span class="tag">&lt;li</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;a</span><span class="attr-key"> href=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Item 4<span class="tag">&lt;/a&gt;</span><br class="">  <span class="tag">&lt;/li&gt;</span><br class="">  <span class="tag">&lt;li</span><span class="tag">&gt;</span><br class="">    <span class="tag">&lt;a</span><span class="attr-key"> href=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Item 5<span class="tag">&lt;/a&gt;</span><br class="">  <span class="tag">&lt;/li&gt;</span><br class=""><span class="tag">&lt;/ul&gt;</span><br class=""></code></pre></div>
+            
+        </div>
+
+
+        <h2 class="doc-heading">Buttons</h2><br>
+        <h3 class="doc-heading">Control Buttons</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <p>
+                    <span class="btn-control btn-control-small">Small Active Control</span>
+                    <span class="btn-control btn-control-small disabled" disabled="">Small Disabled Control</span>
+                </p>
+                <p>
+                    <span class="btn-control btn-control-medium">Medium Active Control</span>
+                    <span class="btn-control btn-control-medium disabled" disabled="">Medium Disabled Control</span> 
+                </p>
+                <p>
+                    <span class="btn-control btn-control-large">Large Active Control</span>
+                    <span class="btn-control btn-control-large disabled" disabled="">Large Disabled Control</span>
+                </p>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;p</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"btn-control btn-control-small"</span><span class="tag">&gt;</span>Small Active Control<span class="tag">&lt;/span&gt;</span><br class="">  <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"btn-control btn-control-small disabled"</span><span class="attr-key"> disabled=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Small Disabled Control<span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;/p&gt;</span><br class=""><span class="tag">&lt;p</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"btn-control btn-control-medium"</span><span class="tag">&gt;</span>Medium Active Control<span class="tag">&lt;/span&gt;</span><br class="">  <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"btn-control btn-control-medium disabled"</span><span class="attr-key"> disabled=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Medium Disabled Control<span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;/p&gt;</span><br class=""><span class="tag">&lt;p</span><span class="tag">&gt;</span><br class="">  <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"btn-control btn-control-large"</span><span class="tag">&gt;</span>Large Active Control<span class="tag">&lt;/span&gt;</span><br class="">  <span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"btn-control btn-control-large disabled"</span><span class="attr-key"> disabled=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Large Disabled Control<span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;/p&gt;</span><br class=""></code></pre></div>
+        </div>
+        <h3 class="doc-heading">Small Buttons</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <a class="btn-small btn-primary">Primary</a>
+                <a class="btn-small btn-disabled-primary" disabled="">Disabled</a>
+
+                <a class="btn-small btn-neutral">Neutral</a>
+                <a class="btn-small btn-disabled-neutral" disabled="">Disabled</a>
+                    
+                <a class="btn-small btn-negative">Negative</a>
+                <a class="btn-small btn-disabled-negative" disabled="">Disabled</a>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-small btn-primary"</span><span class="tag">&gt;</span>Primary<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-small btn-disabled-primary"</span><span class="attr-key"> disabled=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Disabled<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-small btn-neutral"</span><span class="tag">&gt;</span>Neutral<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-small btn-disabled-neutral"</span><span class="attr-key"> disabled=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Disabled<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-small btn-negative"</span><span class="tag">&gt;</span>Negative<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-small btn-disabled-negative"</span><span class="attr-key"> disabled=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Disabled<span class="tag">&lt;/a&gt;</span><br class=""></code></pre></div>
+        </div>
+        
+        <h3 class="doc-heading">Medium Buttons</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <a class="btn-medium btn-primary">Primary</a>
+                <a class="btn-medium btn-disabled-primary" disabled="">Disabled</a>
+
+                <a class="btn-medium btn-neutral">Neutral</a>
+                <a class="btn-medium btn-disabled-neutral" disabled="">Disabled</a>
+
+                <a class="btn-medium btn-negative">Negative</a>
+                <a class="btn-medium btn-disabled-negative" disabled="">Disabled</a>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-medium btn-primary"</span><span class="tag">&gt;</span>Primary<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-medium btn-disabled-primary"</span><span class="attr-key"> disabled=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Disabled<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-medium btn-neutral"</span><span class="tag">&gt;</span>Neutral<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-medium btn-disabled-neutral"</span><span class="attr-key"> disabled=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Disabled<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-medium btn-negative"</span><span class="tag">&gt;</span>Negative<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-medium btn-disabled-negative"</span><span class="attr-key"> disabled=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Disabled<span class="tag">&lt;/a&gt;</span><br class=""></code></pre></div>
+        </div>
+        
+        <h3 class="doc-heading">Large Buttons</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <a class="btn-large btn-primary">Primary</a>
+                <a class="btn-large btn-disabled-primary" disabled="">Disabled</a>
+
+                <a class="btn-large btn-neutral">Neutral</a>
+                <a class="btn-large btn-disabled-neutral" disabled="">Disabled</a>
+
+                <a class="btn-large btn-negative">Negative</a>
+                <a class="btn-large btn-disabled-negative" disabled="">Disabled</a>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-large btn-primary"</span><span class="tag">&gt;</span>Primary<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-large btn-disabled-primary"</span><span class="attr-key"> disabled=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Disabled<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-large btn-neutral"</span><span class="tag">&gt;</span>Neutral<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-large btn-disabled-neutral"</span><span class="attr-key"> disabled=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Disabled<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-large btn-negative"</span><span class="tag">&gt;</span>Negative<span class="tag">&lt;/a&gt;</span><br class=""><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-large btn-disabled-negative"</span><span class="attr-key"> disabled=</span><span class="attr-value">""</span><span class="tag">&gt;</span>Disabled<span class="tag">&lt;/a&gt;</span><br class=""></code></pre></div>
+        </div>
+        
+        <h3 class="doc-heading">Specialty Buttons</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <a class="btn-large btn-large-green-play" id="Play">Play</a>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;a</span><span class="attr-key"> class=</span><span class="attr-value">"btn-large btn-large-green-play"</span><span class="attr-key"> id=</span><span class="attr-value">"Play"</span><span class="tag">&gt;</span>Play<span class="tag">&lt;/a&gt;</span><br class=""></code></pre></div>
+        </div>
+
+        <h3 class="doc-heading">Paging</h3><br>
+        <div class="doc-section">
+            <div class="hint-text">Example</div><hr>
+            <div class="roblox-reference-block">
+                <div class="pager first"></div>
+                <span class="pager previous"></span>
+                <span class="pager previous disabled"></span>
+                <span class="page text">Page Num</span> 
+                <span class="pager next disabled"></span>
+                <span class="pager next"></span>
+                <div class="pager last"></div> 
+                <br>
+                <div class="arrow left"></div>
+                <span class="arrow left disabled"></span>
+                <span class="arrow right disabled"></span>
+                <div class="arrow right"></div>
+            <hr class=""><div class="hint-text">Code</div><pre class=""><code class="html"><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"pager first"</span><span class="tag">&gt;</span><span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"pager previous"</span><span class="tag">&gt;</span><span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"pager previous disabled"</span><span class="tag">&gt;</span><span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"page text"</span><span class="tag">&gt;</span>Page Num<span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"pager next disabled"</span><span class="tag">&gt;</span><span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"pager next"</span><span class="tag">&gt;</span><span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"pager last"</span><span class="tag">&gt;</span><span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;br</span><span class="tag"> /&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"arrow left"</span><span class="tag">&gt;</span><span class="tag">&lt;/div&gt;</span><br class=""><span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"arrow left disabled"</span><span class="tag">&gt;</span><span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;span</span><span class="attr-key"> class=</span><span class="attr-value">"arrow right disabled"</span><span class="tag">&gt;</span><span class="tag">&lt;/span&gt;</span><br class=""><span class="tag">&lt;div</span><span class="attr-key"> class=</span><span class="attr-value">"arrow right"</span><span class="tag">&gt;</span><span class="tag">&lt;/div&gt;</span><br class=""></code></pre></div>
+        </div>
+    
+
+</body></html><!--
+     FILE ARCHIVED ON 22:25:48 May 16, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:54:24 Aug 21, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+--><!--
+playback timings (ms):
+  captures_list: 0.559
+  exclusion.robots: 0.05
+  exclusion.robots.policy: 0.038
+  esindex: 0.01
+  cdx.remote: 8.435
+  LoadShardBlock: 60.405 (3)
+  PetaboxLoader3.datanode: 106.141 (4)
+  load_resource: 153.63
+  PetaboxLoader3.resolve: 104.822
+  nav: 0.312 (6)
+-->
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222548im_/https://roblox.com/images/UI/img-tail-left.png
+
+‰PNG
+
+   IHDR   
+   
+   2Ï½   tEXtSoftware Adobe ImageReadyqÉe<  "iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c061 64.140949, 2010/12/07-10:57:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS5.1 Windows" xmpMM:InstanceID="xmp.iid:30857F121A2D11E2AC8DED044F13C86A" xmpMM:DocumentID="xmp.did:30857F131A2D11E2AC8DED044F13C86A"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:30857F101A2D11E2AC8DED044F13C86A" stRef:documentID="xmp.did:30857F111A2D11E2AC8DED044F13C86A"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>6ƒ)   yIDATxÚbüÿÿ?>pöìY? UÇ‚G7j0e`Á¢À¤€ŸŸß¤ HƒÅY¸‚ğññY‚ MB1€¨À	H·àR L@ÌÌ@`„ùæ6 ÉfØLfD¨† 'Œ‘=Ãˆ+Ñƒ‡‘Ø 0 ü•1Œ6öì    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/gif
+Content-Transfer-Encoding: binary
+Content-Location: https://web-static.archive.org/_static/images/loading.gif
+
+GIF89a  ã    333LLLfff€€€™™™²²²ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ!ÿNETSCAPE2.0   !ù
+  ,       SÉI«½ ÌµæSHŞ†Ç%Š¤‰¢Ö:VoÏî” ğÃÄçƒâs&—F'7`
+…KµjÁb-[+‚@x³`1™lFƒÖåé„-—G  !ù
+  ,       SğÉI«½/Ìµæ“ HŞö À%Š¤‰¢Ö:VoÏîÔ0ğ‡ÃÄçƒâs&—F'G `†KµjÁb-[ë£Px³`1™lFƒÖåé„-—G  !ù
+  ,       SğÉI«½OÌµæÓ0HŞöÁ%Š¤‰¢Ö:VoÏîAğ ÀÄçƒâs&—F'W(`‡KµjÁb-[ëÃ`x³`1™lFƒÖåé„-—G  !ù
+  ,       SğÉI«½oÌµæAHŞöÂ%Š¤‰¢Ö:VoÏîTQğÀÄçƒâs&—F'g0` €KµjÁb-[ëãpx³`1™lFƒÖåé„-—G  !ù
+  ,       SğÉI«½ÌµæSQHŞöÃ%Š¤‰¢Ö:VoÏî”ağÁÄçƒâs&—F'w8`KµjÁb-[ë x³`1™lFƒÖåé„-—G  !ù
+  ,       SğÉI«½¯Ìµæ“aHŞöÄ%Š¤‰¢Ö:VoÏîÔqğƒÁÄçƒâs&—F' `‚KµjÁb-[ë#x³`1™lFƒÖåé„-—G  !ù
+  ,       SğÉI«½ÏÌµæÓqHŞöÅ%Š¤‰¢Ö:VoÏî ğÂÄçƒâs&—F'`ƒKµjÁb-[ëC x³`1™lFƒÖåé„-—G  !ù
+  ,       SğÉI«½ïÌµæ HŞöÆ%Š¤‰¢Ö:VoÏîTğ…ÂÄçƒâs&—F''`„KµjÁb-[ëc0x³`1™lFƒÖåé„-—G  ;
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png
+
+‰PNG
+
+   IHDR   È   G   B¾“   sBIT|dˆ   	pHYs  #  #æZ²™   tEXtSoftware www.inkscape.org›î<  ÉIDATxœí{x\U¹ğïÚ“¤-åÒrim3;3i¸H¡+(‡¢ÈS‘KåpDí9zğ> à'
+ç¨(`ZD9çˆòô|\´)AªIffOZ
+¥ôB›döz¿?&Iç>“kÌïyöóÌ^ë}×Z{ïy÷ºìµŞ%¡Pè(T¯ÕCP}Òøş:7lˆ3@]]]•ßß9ªÿÕã;âñÎÁø°ë¶à8ß‰D"ëH¡¦¦&lTŸ^Dd?T€>DªˆFwÊ‡ª«Š1W' 1ào@°0¡º oÈHÿ8£z5ğT=…v1f&ğçH,và§ÊÏš5k¯½ªª¾¢°ğû­ıPww÷úÁøÚ`ğÆÚK:Ö¯ïNÕ‡Ã5øş¿  o©êjQàh¹ª+{(U~ë6ZÕß
+´Z‘Y‡ÏŠªQ¨Äã5Œ‚p0xÆÜŒêÁjLc4’Ÿ5kÖ^S«ª.‘¯ º˜
+üİŠÜ‹Å"EótİOßŞÕ„Š„~Ùåy7ä’¯›;·Úwœ+ÓQ}8_1Wëº7YÕºh<~N¾üêfÏ>Ğ¯ªú&ªg×wyŞÓYå
+‡kH$®Dä|ïò¼SãkƒÁËÔ‰Äbwä¹®æëªX­ğğ`gÄóN0Ñhtµ±ö) QT™j ½‘XìVDÚ_ä©ñ¢:İ÷}'3sU*"WF<ïL3ÔÚïF<ïSÀMÆ˜ªTùhw÷JU½s@î_#×ñ¼Oßu§23ıX,öœˆü˜!Æ\Ç?ëX{9ª×‡\÷Û™ò===;n`"ÆÜ”V^‘½mU•ÉÔ‹D"±wz{¯f(ü&Ÿñ¼%VätUİ+SŞ&Ã¾ØŸ-ğ`†±viW<~*ÉóQ‰ÇŸBõu`_ñıÏ“ïééÙõ¼›TõuTÿ2x_Eõ £úø"Ò¯uİ+ü:ây§tÅã§‘/«È?äÓéX¿¾»Æó¾Ì!ù’B¡VDêåÙ±qã&¹¨Ux"—q@òÙDâñË¨Š|>3^E>×ïû¿Ë—OÄóZP}ØoêŞ{/¸7'(¬”Iş!ŒéĞŠŠ¾|‰	ìBõ[Àé¡êêÅ….Àó¼un,Ö’+î]»îêêêÚ–îÓ "v0¬ßÚûößÿõ™² ªÚ?ğc+À@Í¶Nà#Š¶øWàü‡_”êêê> Qª•b±Øk•S§>œ)[?‰Çÿœ+ÊiÓn.%¿B¸®;8 ø"–ª'Ğl8µ*òG ìÕÖÎ)¤§ğ`W ²òîÁ°ÎXì	_Ò[	’÷zD$‰> 3øŒ—ñç¨R;VÎ¶¥¶rêŠôÚŞŞ>ôß¯š:u¨fÌzcÂŠ¬şCŒ¹­¾¾>ë­¿"y“²èééÙØ\q©Ì;wÿ
+ÇùBkkkÑ›‡gu/’s¬],ÓdÍ–Uû•€	ƒW¯[·.ËÈW$¯9çµå’vÆªç*´X‘{ƒÃÕÕaRÇ¯»]]
+J‰†êÚŞÔà®Xì×#ÌwÌ	ôõ= ô«ÈçÃ|cÎ§ˆç"ìºKz{{çË@ œ¾¾«Y;¶m[:\İRQ‘¯…]÷î
+ÇY)ª•‡¥a×½O}ÿqD~´+‘ø·b:&‘¸8¤6¼¤ä‚‰œvİ»Ã®û¿ˆœT²Ş""çaÌƒ±XìO@‘JVVm»îOC®ûp€Y¼"ÏK,Eg&"ÛGQàÅa×m<€8­<tlÜ¸	x‘ó+ P=}ÚÎY5|¾R<×û€ÿDbèå?léØ¸q“Â5ßƒ«ç‘"ª·G<ïÒ@eåÙQL^UïHM pû†Ş)¦Ó¹aCÕTäú¹sçî_RÁTÿ'ây—F<ï)Ig™W]]Lq¬;Ïuş‘Ïı)Š!ò#òs‹êã±X¬`M€ê›3G\hÕ?´í›#×<?â´
+f£¿BõÀ·Şxã555G¯µoÚTªaëÀs½ øBjÄ° êyw 	ˆÜX\zätttlÄbEÛíFd»TT|Píï¿®Ôôªª[€Í•@É:h—ç]3LQ£Æ\ ¬öádNVèößüúëŸ,1‰şÎXìYTÿSE¾SÒ‹A$¦pØ¡‡º÷hÊ>î8Îï€·­µŸ5ªç	Ü7’d"·<Òİİ6xf ª*%¦ãÛäpéçTdşH
+R*®ëÎ˜çº…:İ tvv¾È÷.WW7”’vGGG/ªW z)PWTÁ˜´ûSëº§—’Ï!
+gô[»4êy7×Ï«™˜ÊÊ«Så8ß)š©Èo€i½;w~!3j8y—Áÿ¢fÜó|D£Ñ]*ò[98±ËóiŞ555ŸdÀ6L}}}¥ªÎ0ª(±V‰ÅbOËHå)"rVØu›Â®ÛdToQ‘Ù¥èM›>ıv c~PTx€H<şˆ$‡úŠæ!ªÇ‡]·9ìºM!×½
+øx©ùŒ–p0x°ª»»{gj¸&;¢§‡B¡ıJM«³³óu….«;÷B²]±ØˆÜ)ps­ëş°¶¦æ!×ınØuÙ•gªÔÚµµµû–¢ç$ïÅ4d|+‚	¹î¥a×mªÏ3ÖŞÀÀ@K`ÇxxZU™7gÎÜÌo! 7‹HúG%Çù*¾¿¼²²²;S>•>ß_YaLs"ùñ/?À+ô÷7kj¾"ìóıÜíVÇiÃ÷›ÕqÖ´··÷¹®{¦õsæÌ™–«/¢Ö^_ÕÛÛ“V>Õ/Vˆ¿k×®7reÓÚÚê‡]7½\QÇùS¡ËñáÏ4OéíİXH®¬1›Œ1ÿ'3¼jêÔûûvîÜL)’ÄUCÆ¨¬¼Íïëë2S¬ÿ¢‘XìËóª«¨³PUGäéıı·+³ªş³#’ùÌ
+Ì(¤…¦k·
+|BDH$s·‹å×‹­»n“/RrÿĞXû€óò`5¥"	 ë>—)S¦L™2eÊ”)S¦L™2eÊ”)S¦L™w%ãú5´L6-õÇÍÄô.É7"k–´µ®Üe*“Ÿ‚‹eÊŒ=Fz«UäîÌpn†e ¡`ğ\¹ø É™ ÅfAlAdªwF<ï—ÃÉëıJà¡†Æ~æ,+›Ø§rÛ{?˜­¡}S|Lo8+Îö®knoùÔè²¬¡ñ2EÏÊ+}F´+OÛùö£§f¬kx·vİ»Ò§ê'ÙÕ…ÀÂZ×­ïò¼oŒCÑ
+o!eş¹¡3{b¢ËQ*Ï‹Hút£wëö¾;$¹@*Ip¹5}o‰Hö‚™öàÙÁÓ'-
+lÚ¼ıTNAmL%hÂË	xğüWVöd¥199_¼ª€pù;ÓöıkËüc.h^³ê…±ÈwOÏ Û8Şzid,sÍ…Â¡Pèh4ºzŠ˜Y 0´–Fá?'2ÿá2¢éî¥ĞÒpÌ¡olŞ¶ZĞß£úe3@
+ÜVaÑåó¿4^ùçBáQıÃÃGUòÄ¾ÉˆÀ?¥¨Şñ¼}"7Õ_eÄı8âyâTVN‘Ô	†F¬=üK;6ÔÖÖî[ëºXJ;aŒK¤¥¾~ºAÿG¡ĞÅLQå'-Ç¼ÑÜ¶jyRïØÙaZªHïö3gnŞüæ73­ÛöÚğùèŠá®{Ş?a%À=ÃÔ›4X‘CÒÚÄ"+(2{µ£££7ìºO ŸI	Î¹, ººz®ã8‡Õ€-V¤£ï'ãEuuõ\M$^òElØu??Q}¨q1	Lù¼jAãØ-‹~X ½ËÂ§Ó%nŞ¼óJ+¶3SwŸ½ß>øy’N r¢?Ò]í¨œHiijrš—-Î”éQóÀÑGÏ	XóÕ¬+Ï5­]õûÁSÉxnnˆŠ#¢hšhÚË¨¶ºú`5æNàc¨µ.Œ*!×}Vç²H$²&3ÙPuõ‰³H`ÀNQqœ‡#‘H¬¤r!±ö Áâ¼{ËI97ƒ®91#üà–†…›Û^ë7”mZ»êÑ–†ÆvÉ0›)ÜrôÑŠo.ÎjX×uÀ²†Æw€õ¸çœ¶Ö—Æ¸Œi88µÙgÃÀï³5Æysæ­1Ï9W
+ï?
+…F£¯„B¡ıÄÚå¤¬‹Q¾øş­!×ı÷¨ç]=\”ººº}ÇÑLçÑhôùP0xˆœ®ğ·i;wŞ
+0oŞ¼ƒúûû§§ˆ¾åyŞ[¡P($Ö)ªÓEõÅÎîî\—TSS³Ø¨^Ô)ì'°ÕÕ¨ştpUá¸ˆŠì/Ù÷ä¿ó}A_ËŒpŒ LX.HÚòÑ–ùŸåÀ¬ÑiÀÁš<.YÖ°àú¦¶—²BüjáÂ}ªvúg¢Z'Ff)v*1•Äï›×¬)èvf² À·H1õVõO"²˜İ‹â¦‹µÿœ€ïßHê¢±> "©øf¸¦f}$ûqŞ|U!×½FàR¿¯ï>vİ§ß?/Õ‰_4H[¤¥‰ÄíNj“Qäa×bí9€QTÄ×Ô|#‹İš¢jÂ®ûsT‡Vb¼Ïç!òD¾rİ¯G=ïöqë¤g"Ğo­ö ±h©?v¶(“m™8 ×.;rAšƒ²e—UíLüôßQÕKP¹
+¸C4[vä‚»Z;nê¸]À¡ğ±´sÕó£ñøE>|"Côcô~("ç¦„?óNoïL±öPà­”„¾^$ë®%éÑpZÇIkBÕÖÖî;xäu9¥z9ĞDúà“ƒêóæÌ	„]÷b’2‡4Ùí3Àøa8<aÂ¤4Gµ3Şˆ£_!éˆ­D¹îÚĞÒpÌEÀd´åSp¹Tvô½>Ê¥ÕªNUÕJ Ïó^%İ5Ğ¾ ıUUGâSLayOOÏ®îî¿©ß5BÎîò‘sÉ¶Â¢êêê™lzi"±eğØ±m[–ÅòùjØ@`QÊyæù…ÏÛ‘«RÂDaé¤2=ƒæ^W.ú,Éo™TğÈÆú–úúJA¿Wb&K–uÌ¢pĞÑÑ‘ÏYŸ ˆµ•©i-…L7³é©É&D¾OÒ¿AZLE)4RQõPı´ˆ,Òú1š^C™ò»·Æó ´rÊ”»Ò‹&Ç•r:¦ˆ=ì‡–De6©G‘£Y¦È‘Ë°l¾/ıïoÄÚk"±Ø·"÷ ­ªÀğşŸÆÜ‰ÇéŠÅR‘L¯Š©ÃF©}ï¾=}úôÌOû”$Ï„Í-[öÛEŠ“ƒ4GÉíñ1a/*Ù3P‚9ÄË3èŒÁŠHÖ ÎpMéãªÚQ “Ê@ÄN|d¤Hb‚Íº5å™ÓE±Ù÷mO3©¤L™ÉFÙ@Ê”)Àä2R§L”)3AL.)Sf’Q62e
+P62e
+0©Ds–)³'Ÿõ ªÛ”	k€jÎieÊLjÆÅ@šÖ¶æÜXæÁ#'t¹d™2£eR5±„ò0o™ÉÅ¤22e&ãî8î¡#­õñg R]âêË2ïb—ô—ïpkLÆÍ@Z9ôçûaš§W6I‹È÷Tu¯”?¬¨çİÜ6úBíyÆÅ@~}ä‘3}ÈrÕSA'Â†»eğ·ƒœ‘P›µ ']ÑWßĞ8¢ô+{§~j{åÖ´{[áÛ|Š£äÜ;q,)´nüıÌ¸H%•—0\ã'1™/Cydğ÷Ùm«^É§›{µTq>½î™mÅ¥JFúHq±2ãÁ¸tÒU¤è¾æÁıG,œº %Èù~ûšÖ;öX¡
+¡š¹¦Z®owCeò3^}ûZë#ªz£ˆy6;n ‹á²¢Ê
+“Ø@ÊK@à¯¢rïµ{`O*”K½4-LäÎ%kVMè–Ä®ëÖ LÊJK}o“1aÛˆ˜"²UuBÿ›i5¤Âá*ö™‡œÓÚú÷Ô¸hœç8œÕ&é7K”8¬í/XõËË«hkıâxg^WWWå÷õİ4•‡Rvó~Üd¶MèR`ÈƒaËüc.Õ»Q¦"2Ôe™$”‹—Ío\Ö´¦õ±ñÌ$Ñ×·T’>¥FM¨ºz±3ÔxŞOÇ"İqbzØu7lŞ´)+òıh `¥~ğçoëï«ŞC~ŸJ“ ]Œ«hÎx!ÄQıˆø
+W2Œşªs9pÚÀ©“Ù@Èë·kR}I/Ù	s©é)×‘Ë3‰0äéĞ7òU&qüEU_ÌiÍ¸o×á7
+¬==_Ùåyßd2öÙ&ˆ÷tb«½NÖuœWHä˜±Î·¥¡ñkF$mw.µöù¦µ/åİ,F…‡äa­c]‘ğN–7ı÷(Ûı<Ÿ$Œ1ú6 …D‘!˜½söÛÀì
+“¸	¸p¸yŠrª¢§¤ÊŠì¦äcÅ¾o_Ö{
+õ<ï­|‘“ª‰5™ØV•Ø¼§ËPfÏ3>¦Ğ,ÃSÕ“Q¦QO®(|ß¹—™„ŒW+#¬ÑÚÂjåõ ïAŞ5Ï´±±±bó¦MiËKKD7"½œ7S²ô/m™Êì1&İ0E˜‘zÆ¡MóÊš—–“{Ë°¾#oç;ä‡#-‹ä˜¼¢Lìçü÷"jLúsTİ'å,uØ<§ğw’¹)d@UŒFr˜ ı ×‚}ræŞKŞØ¼m)pğUbıoª˜+Utfªo5¹»Ğ6–²y­óKš²i}
+¹±Ì00Æ¼Šïûn¢#òO¡Pè!cí
+©“UÿºG
+8F^HñŠÂçŒğñ\ÿU¹6gó~CÿßONZ±"Ü2p¤r.yèóW˜ÄdOvÜı †Šä^ã ’Âd‰ëì²’]Œº@0Ç½+TsN:¦Nz °£¶¶v_M$²î}$é	»îıìŞÊ¬N¬ıKë¾o\:Î$ç²‡*…PÈµªòØY«WoÉ/ó_YÙãøöD…?±ûÕ|i4éfĞC€{SÎsŞìíS¦Pà»Ho9ö&ô…Ã3Ãò®;™$lO=ÕŸÔÔÔ|R‰‘§îTV^®ğ‡¼)ªŞñ¼É¹´`7…^¼ÖìÒşÿ¬UÊV+F•Æ g·¿¼¦¹­u±îU¹_ïÔÀ¾Mm­óyj,ÒºÕ˜ÅÍ­­©M¬œmä¾ª]j»³ÛÚ^Gåóİ‚cïF9'iOP]lTÿ üc>­QÏ;k
+\ênCä
+ˆÄã3ÓT:::¶9}}ó‹Q&™úÌ§ÕÔÔ„Şêé9,CîÀ?¶µíøía:)Q™¸[³şÈV«cíEg·¿<ªİ –5,X*b’oßwú™,kh|Q¡ (t“ŠÆÛ¨lPìSØŞû›ÛÚÓŞ”(¯"šC¯èü§€“øJÂ:!à£
+·UEÏk~ùåì©¢“µöˆœFrçİˆ´¡ºô~E‘îî€Æ³x7åı{øÔà‰Q}<ìºÏjÊ~ï ¢Ú 8ûµŞ–´ÌŸ?*>&ª³Ğ"m~áMUV6¯m]í“‚Âi¨œºEj¦¶Ö\}‘ŸÁÈö<kõê-O.ZtÒ››·}V•óE8\a6É$»Mÿ®óV¯¬lG$ª6<‘‹ª5ù¢\¹s×®[§VU],Ğ ï‰‹Fõj+r0} (<p¤Òçs}ÚèÕÀ¦÷{°S%YYAæçå’¶õ{ÓÚU.kh¼ÈµŸw7P]H`0âGQ¬ö¾æè´,“¾Ø[·“#.H_ã.ò3Ñİ{$Ú”æ‘ó(ªCN,<7gíDnÚ]¦&Û¯²÷W„Û‹]×»‰Îxü•P(t‚Xûcr×Œ/«µÿëî~nRMVa-Ê©©aÉ¯^“CÜ:¦·c,òmjk½bÙ‘Ç<…èWQGd½ªı™ã˜v«úµ¬rú#ß ²¹½½è* R(€H,vk^åXì!à¡œqñø‹@î)õÇ_¡o&Ö÷‡æ¼©1Ï’²§I$Ş,”UHJÓZaÃàoWIõ»¡šÖˆF£«ÖÖÖº$+ÌxK‰u6ÄSÒ™<<xDã<Ç°v¯×È‹°¬iMkóø—ªÌû™I5›÷3¯´v¢\H®}ÆÓYÙgû.-"S¦Ì¨™T5È Ë:ê`µÎ%À)À’k66‚¾Š²ì€ı÷¹o í_¦Ì¸òÿÔ!§lÄÖQn    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/GamesPage/arrow_right.png
+
+‰PNG
+
+   IHDR      ˜   Òê   tEXtSoftware Adobe ImageReadyqÉe<  $iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS6 (Macintosh)" xmpMM:InstanceID="xmp.iid:7A01AB0B7D2611E29C189A9209306AF0" xmpMM:DocumentID="xmp.did:7A01AB0C7D2611E29C189A9209306AF0"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:7A01AB097D2611E29C189A9209306AF0" stRef:documentID="xmp.did:7A01AB0A7D2611E29C189A9209306AF0"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>sÙhÒ  ÃIDATxÚì—?(„qÇ¯;QW”™˜œ‰nb”ÍŠH:¹‹””n!”½åt)f›ŒLoll6“ÉrƒáŠ®ëõ}ô×Mo¿ïèyê³~†÷÷şş|‚l6;ëœ»uÄ´2èc%½ ÂJdfÀ+‘9ı¬¤\‚€‘ÈL<+‘9ƒ¬$n@Š‘ÈL€V"³†YI'¸iF"3vX‰SÉ(+i×Õê`$2#`—•Èl‚qV’ÒÕÊ0™!pÈJdÖÀ$+	ôÈèb$2à„•È,‚iV"szX‰\5eVò÷¡YÉ'Xe%Ë ÊH®À=³:Íg°$Öä‹‘œGfï¼ƒmf7À<¨1’cğÌœlo Äœ±u0~É>xeîpÀÜ€ßºuFRÒêı*xj>C}$5}6É–şŞŞo¶pÎ¼ek/éV÷–¬ëaãı¢¾Óßûm_+leäõè÷¿xâ8vì…BÊ·0-ß,ß,ß,ß,ß,ß’ä[±X´|kÉ7\£–o–o–o–o–o–oI'E•o¹\ÎòÍòÍòÍòÍòÍò-I¾áÊ±|kÉ7\£–o–o–o–o–oÿ"ß~ ém¸¿éö˜,    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/GamesPage/arrow_left.png
+
+‰PNG
+
+   IHDR      ˜   Òê   tEXtSoftware Adobe ImageReadyqÉe<  $iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS6 (Macintosh)" xmpMM:InstanceID="xmp.iid:7A01AB0F7D2611E29C189A9209306AF0" xmpMM:DocumentID="xmp.did:7A01AB107D2611E29C189A9209306AF0"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:7A01AB0D7D2611E29C189A9209306AF0" stRef:documentID="xmp.did:7A01AB0E7D2611E29C189A9209306AF0"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>‚ÆŞ  ÀIDATxÚì—±+„qÇ¯;QW”™˜œ‰‘Q6+"é¤7RRº…P,NRAF¦‹Íf2Y†+º®×÷©ç­ëºã}ßoÊğ<õ©»÷½>ÃûŞûÜ}¼l6ëÈ™n!= ÀJÎ@7#™Sò"©¤‡o’H<p:ILÔˆ+éõãHRà
+dÉkt"ªdì4;E’— ‘l‘Ÿ>ğ›dX%.©¤MïF+#ÙCQ®z3É(XzïI2z7RŒdÄyê%ã`%îY+éĞGÜc$G /É†
+%“`>éI8g¶µH
+ºú)‰çÈÉ2xc%ï`‘•ÈÜ€"+	wè++ùĞïJÀHdîÀ	+‘Ù/¬¤fA•‘È<€CV"“Ï¬äÌ€
+#‘y»¬Df<²’ŠŞ­OFâôçYI¸ƒïYIUÿv–‰ÓÇaƒ•Èœ‚[V"«bAWGb‰ÓåµÊJœşs¸f%2K²èY‰üÔä¼ ;iß÷-ß,ß,ß,ß,ß,ß,ß,ß,ß,ß,ß,ß,ßş¾•J%Ë7Ë7Ë7Ë7Ë7Ë7Ë7Ë7Ë7Ë7Ë7Ë7Ë·¿Ì·o qŒ®WOTY    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/Buttons/questionmark-12x12.png
+
+‰PNG
+
+   IHDR         ª÷p   xPLTESSSÿÿÿİİİuuuôôôííícccèèè€€€ÈÈÈñññ¾¾¾ŠŠŠóóó˜˜˜®®®”””]]]ÑÑÑ„„„¶¶¶ggg–––åååWWW___÷÷÷YYY¸¸¸¯¯¯’’’ùùù[[[ººº{{{¤¤¤ıııÆÆÆÀÀÀşÈ4c   fIDAT×=ÊEQÀĞ¤ÿ¸á.ƒsÿ²  »WTU4·p\7Š› V¹<ïğÒH,¤…³{¢„šî;E	S@Ê"AE0Ï :ü›ï€È€¢Çö‡Zôt˜½µYÃ­W?D±ñM	Y    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/Tickets.png
+
+‰PNG
+
+   IHDR         (-S   PLTE   yD/ gÿÿ ÿÿÿ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 XòÜ­   tRNSÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ S÷%   [IDATÓMA !±üÿ—]ÁÔõRC¤ˆèº¸<°|¤`Ù¤`øø¡‚y77z0ï¬ôà±éK9ÔÏmzóJM'¤¡rh”—”;CE/¥9jÊrà·×½¹êĞ¨n®S¹Sl    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/Icons/img-robux.png
+
+‰PNG
+
+   IHDR         oí¼   TIDAT(Ïc`h`` ÿâ<1zôŸ &B²š<œI‘/ÆfnWãQ„Í Š½–‡c„î%¤†…`D`ñš>1’¼Æ€Ç0lŞÁˆµÁ•²­Å«–sÍë    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/BuildPage/btn-gear_sprite_27px.png
+
+‰PNG
+
+   IHDR   (   Q   /±s3  RIDATxÚíYSZGÎ¯Õ1X+jPŒQ0µ¾MMµN4Äk0Šïø¶0ˆ˜€à¨€øÂQë#±‰ÛOw¡Î}Ij²v¦~ó9sîrÎıöìİ{İİs/ó–pçÜÁ„¿pşÌLø/î`ÂgÜÁ„?qşxÖ××ÃÂÂÂÇo&|"ƒH$B›Í–ĞÕÕE/···On&|,…ŒŒŒšššƒƒ‹Åá†††£££—/_¦¤¤ø|¾ã€	ÿ)¤¥×ë¡—––#999//:
+…ş	R˜˜˜ßœ	Ê SI@§Ó©T*IIIHWÒ_«Õ
+Tóóó%=™ğ¾kkksss###©©©H6ı~?œ!ÜÛÛ;33Qf³Y <66¶/&¡ªª*\ZZkojjŠµãAˆ³²²”(˜ğ“““˜JåååÈsÚ^XX˜˜˜XTTT__?<<,loo	cÀödÀ„wä¡Ñhhß[[[‘:l<é••…š4B|˜ğ–ecc£äD-++Ã$Ø’A[[|†††¶äÁ„ÃRğz½ˆÇ¬šš¢=€ÓéÌÍÍ…g–GeeeXLxCV«ÕãñÀ@÷!f4ac2â#ºq0áõë0;;›““Cõ¾	˜ğ*w0áw0áî`ÂAî`Âî`Â~î`Â·¶“¸Å-áÌèNâáÌèNâ3áÌè‚şŒp&>ıD83º®>%œ]ŞeVwê7¸½şk=ãdty{D$Ş=¡Æäô,ıôr=|('£ËÛC"fpõCzÆƒªßj·#g½ıVê{çMÆW))?¾ŸJFÅÉè*sŸˆ¹ºy¬Ó?†6;G–~¹…ùáQîÅ¦Zì
+ü_›ßH®­cñÍ£‹½‘d`íH­N§ñ¹ºÇ*Uòåæ¾Ë’ôÏÌÊ¨êôÒl±·K\ÚœË–!{jª‰ÂF£gËl-–øİÃ“vßüÒ® êÕkaÒV‡øæ`tÍµMüå×ÚXpQÉ“X»¡¡5Ö§+^MZÒ¹±H˜88ö®îÅïÅeO1°4Ú¥Õ3ÚşÓÏ¥	‰‰…åµ†–¾»8°ÅôOÒıC±%^Ş rÌĞh/pASKwaI%ìû*•{éH!D“™MC|˜ğâ‘ây]½Ir¢–<õÏd¢ˆ±õ"é·9	ûBDLÛ»Ä§ª3ŞyŸ½0Q½Q[ğá£‹wÌ22/EYöä™Â¯ ö‰$»\S®'Ä7šaÏ.œšßÌ¸çrQñ	¿÷eØÖ´õæ~çµq’	Ï-ÎdÂÎEÂ™LØ±@8“	Û}„3™ğó„3™ğ´‡pæÿvó;î„ï„o]xyy¹¶¶Çåœ„777©ºÂÅ¦£ƒ^âèö;
+ã4*==½ººÇË}}}[ƒ‡ëÍÍÍ¨Â¸İîï%Œ3V@UzfŒáÈHàñ\~õPã˜U­V‹«08K–ô¿Zˆ•%¾.c°º\.œWÓ*l:Åh¦§§ÇápÄ“´dºJÂ‚*L¬]P…QNZ.]%áééi”***hU7ÚN«0ÅÅÅ¨Ñ È"¼š´\ºq½Çø•öİd2¡&A«0xö
+!±*Ì¿œÕxsP„œ¨¨GÅÆ@.i…t¯ÆT¢UÌ#ÚŒ<^_úÙív…ûbŠÜèË…äaŒC5/ú9CÅãÁã[>¿û·x'|'ü_ş;ƒ#0À    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/buttons/bg-drop_down_btn.png
+
+‰PNG
+
+   IHDR  ,   M   +|©   tEXtSoftware Adobe ImageReadyqÉe<  fiTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c061 64.140949, 2010/12/07-10:57:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:BCFC67988E9BE111AA4588DFB9D2429C" xmpMM:DocumentID="xmp.did:8F5AEC31B58A11E18F1FE01A53874F84" xmpMM:InstanceID="xmp.iid:8F5AEC30B58A11E18F1FE01A53874F84" xmp:CreatorTool="Adobe Photoshop CS5.1 Windows"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:BCD71F5DEB9DE1118E71937ABF25314F" stRef:documentID="xmp.did:BCFC67988E9BE111AA4588DFB9D2429C"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>(7YL   ùPLTEüıÿûüÿÌÙÿîòÿåååúúúùúÿùùù÷ùÿÓŞÿğôÿÑÜÿÊØÿÎÛÿüüüøøøıııûûûöööõõõõ÷ÿÈÖÿæææòöÿÇÕÿşşşÕàÿßßßàààãããâââŞŞŞáááşşÿØâÿèèèëëëİæÿÛäÿéééãêÿàèÿíííîîîğğğæìÿòòòèîÿóóóëğÿfffxxxÁÁÁ¯¯¯wxzÂÂÂ¤©¸¬¬¬€…®®®ÀÀÀ§«¸­°¸¿ÂÌvwzÄÄÄ·½Ì»¿ÌŒ™yyy½½½´ºÌ‘‘‘±±±~€…‚‚‚ª­¸°°°”””€…ÿÿÿïïïÚ?Ğ¤  LIDATxÚìÙµnÄ`Eáffff¯ffzÿ‡ÉÆk;Õşºi¢ç«fÚ£‘mÉMİ°©6õÀ¦ØÔ›º`S/lêƒMÛ¨î1ª¸¬¬ÚDÀmÚê9Û´€×4Ö~¶i!¥r«8_´Šãr¬“|Ñ<‚JQ\ÌZBĞatWÌšCØÃÏ¨AØT›&`Ó$lš†Mã°i6MÁ¦Ø4›ğ5°©65Ã¦~Ø4›ZaSlÚAugÙéóÊª-ì¥­Ş³MxIc]g›–ò}ZGù¢„œ–c]å‹t=³tİ³fvó3j6µÀ¦6ØÔ›jaS;l€MÃ°é6b‹XÄ"±@,bëïíf?YbJi«˜ËòO+!–}Z1Ï,ÿ´bÙ§ó6ôO+!–íï,>J‰E,bÄ"±ş‘/ «“¼¹İGÎ    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/Buttons/Arrows/btn-silver-right-27.png
+
+‰PNG
+
+   IHDR      Q   É-m   tEXtSoftware Adobe ImageReadyqÉe<  "iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c061 64.140949, 2010/12/07-10:57:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS5.1 Windows" xmpMM:InstanceID="xmp.iid:31895E37301B11E29BD5E7D89E70CD97" xmpMM:DocumentID="xmp.did:31895E38301B11E29BD5E7D89E70CD97"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:31895E35301B11E29BD5E7D89E70CD97" stRef:documentID="xmp.did:31895E36301B11E29BD5E7D89E70CD97"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>-K¤¦  \PLTEùùùáááåååôôôàààşşÿßßßÿÿÿõ÷ÿùúÿ÷ùÿÈÖÿÊØÿÇÕÿûüÿÓŞÿüıÿâââÑÜÿòöÿÌÙÿÎÛÿŞŞŞãããæææğôÿÕàÿèèèØâÿîòÿÛäÿ÷÷÷éééëğÿíííëëëİæÿèîÿæìÿğğğàèÿîîîãêÿïïïËËËØØØäääßâìÃÌåÔÔÔ”””«««‚„}}}xxy¿ÃÏ ¢¥ÙÙÙÊÊÊ‚‚‚yzzÛÛÛ›¤ÅÅÅ|||’š¨ª¯ ¤¯zzzÚÚÚ|}}æêù¿¿¿ììì«¯¼°³º¢¢¢ÍÍÍµ¹ÇâéıÌÌÌ||}ßçıˆˆˆ€€€¹½ÇØáù™§¦¦¦ŸŸŸ²²²äèôİİİÑÑÑ‡ˆŠxxx¼¼¼ÏÏÏÊÓìåëüÔÜõ´´´üüüøøøúúúöööòòòûûûõõõşşşóóóıııÉÉÉwwwp¡  ÄIDATxÚ¤ÔYSSA†á‹ ¢ ¸‘Å}eSÜ@@AWP$ÆxúÿWùÕ©9s ¾p‘ç²ß»®éåDÿ2hÿ´_Úí7ƒ&Ú!ƒvdÇÒĞÊF¿Ş/–ChƒE<üY¨$ĞJ&^ÓÆ›‘’ˆ[âú3?6~Å·6-+“ßŞºhÑÄåùN¶è¢}eîS¦/–3ªÛc¹ZÖÜûœMC«cĞ®1h—´ƒÖÀ aĞ®2hUŞuÄIÔÄ Ñ{8¥Ñ[©¡ÑCs'5_ìÆ‚E{ùãÍ1š9î/İ¢h¥NÂæNÑ–ø=ç¹Sô+sƒíıx>iy—Ñ†rŞ$r'Œ21]	n:Õ¤îÍ÷İB9-h' Õ3h¦†VbNiUŞuÕ¾‘AkcĞ.2hg´sZ3ƒÖÁ uš'·:ÓĞzŒ>z±ÛBë7XÄ«…×ı	´A¯éÃÇıA?½nl‰_ûèMãW<³lÑÆÊƒ¥570qY}·9à¢½eêåAo­Û¨nıè¡u™Ù;]ih­Z;ƒv…A»Ì µ0hç´LÕş¿  ¦~K;qã(á    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/Buttons/Arrows/btn-silver-left-27.png
+
+‰PNG
+
+   IHDR      Q   É-m   tEXtSoftware Adobe ImageReadyqÉe<  "iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c061 64.140949, 2010/12/07-10:57:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS5.1 Windows" xmpMM:InstanceID="xmp.iid:14336028301B11E2A998D914272930C5" xmpMM:DocumentID="xmp.did:14336029301B11E2A998D914272930C5"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:14336026301B11E2A998D914272930C5" stRef:documentID="xmp.did:14336027301B11E2A998D914272930C5"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>²å  VPLTEùùùáááåååôôôàààÇÕÿ÷ùÿşşÿÓŞÿûüÿùúÿÊØÿÈÖÿüıÿãããõ÷ÿÿÿÿßßßÑÜÿòöÿÌÙÿÎÛÿâââŞŞŞæææÕàÿğôÿèèèØâÿîòÿÛäÿéééëğÿ÷÷÷ëëëíííİæÿèîÿæìÿğğğàèÿîîîãêÿzzzËËËÊÊÊØØØïïïäääµ¹Ç¿¿¿äèôÙÙÙyzz¨ª¯¹½Çßâì ¢¥ÚÚÚ€€€¿ÃÏ‡ˆŠ™§ÜÜÜ¡¥±ÃÌåæêùåëüßçı«««ÔÔÔ|}}Øáù‚‚‚¼¼¼ÊÓìÔÜõÑÑÑ›¤²²²ÅÅÅ¢¢¢ŸŸŸ«¯¼ÏÏÏâéı||}§§§’š‚„ÌÌÌ|||°³º}}}”””ˆˆˆÍÍÍìììİİİ´´´üüüøøøúúúöööòòòûûûõõõşşşóóóıııÉÉÉwww·£äÈ  ©IDATxÚ¤ÔEWÃ@†áŠ»»”à¥¸»»»»Jişÿ†ï„¹É¤œ/]ğ®æÎ³»'ÃâÖöÍ‚½²`Ÿ,Ø;f°`o,XÔ[ÿ‘œ`1½–•°s‹»™/wX‡L°©opÊ^•Ì°ÕáƒZ£\ÀºìÌ-gÅ]*˜ùÛÓö¦2uaÂZ¤êƒÛd†5¹.Â0™`uz½Ç–s«ö¶w/'XVÈ‚U²`,È‚•°`U,˜Ïwà‰bŒ¾‡FßÊ?Œ¾1XÒËJŸ”S²…#	Í´÷èÁ:dÒÍH»¶W¥™<ÅºSY£
+¦^b¯³by›®…úÿZHŠ{l“¦½çø\&“×¢Ñ¾aÅ¼™«rúkn°t,Îú‡}°R˜ÏwíûŸÏbÁ
+X°,—ËdÁŠX°2¬ÖÛø„œ`zC£açÖì¶x»†uÈk“–Æ6ìUÉkWMÏ¨5Ê¬ÛîlßYq·
+ÖùÛòÀ•2uÑ	k•ÖOÎm“Öè¶;?“	V¯·3k9°o—r‚e³`¥,XVÎ‚å±`ù,XË÷?ÿ#À ¿@A–øµB    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/Buttons/StyleGuide/bg-lg-green-play.png
+
+‰PNG
+
+   IHDR  ,   `   N¿ä   tEXtSoftware Adobe ImageReadyqÉe<  fiTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c061 64.140949, 2010/12/07-10:57:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:F76C609A4720681188C6D55EE4E94461" xmpMM:DocumentID="xmp.did:96905521277811E2B63B9A6BA5192CC3" xmpMM:InstanceID="xmp.iid:96905520277811E2B63B9A6BA5192CC3" xmp:CreatorTool="Adobe Photoshop CS5.1 Windows"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:67A285A438EEE11197209B1C7731D08C" stRef:documentID="xmp.did:F76C609A4720681188C6D55EE4E94461"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>®jê   PLTE½‘…°îôî ¤ ¦İ¦Ú § ›¬› ¢ Ê”²Ìk r p º¨¸¨a•`
+¥
+Ïµ®JÆJ›¶ÖñÖÇØz›ª™Â
+£
+}ÅÀÂˆƒ²~€ÖĞ	tÂÄ•EéEÒ©@e@˜¬U­¬
+¢
+x‹¬®v	 	Ó¯Ô¯ÕÖ¯Ó–Ä–°«Ö­Ñ¾c	Š	ÕŒ	¡
+tÅt°
+¢	vÄw¬	¢
+¿¬
+ 
+‚—ª¿Ñ&M&vª~y¬ĞĞ˜
+ 	°±.Å.	¢	xvš{ŠAÖÌÚÌrµUÍTª˜²®¦¿{sÚtx¸’ŒsØÃª0›0¨©~Ğ¤ sr
+
+		A\AÎo
+	…uu
+œ
+
+—
+ÌÆ·{		r‡uràáßÜŞİİİàßİŞàÛŞßŞÜ³á‹ßáÜ«‹à«u	¤
+
+¤	²ØË©´ÉÍÉ	¤	‰á
+š
+©¦§¬ymp  q »Î±Ê§
+Ê§	½		‡	SÒSw‰‰ÿÿÿè©  ÅIDATxÚì[kXUç•ŞJIŒ¢€Ø-‚Á ¢Œ-Æ ŒJ 8ˆÊxGPkã-Ú'‰ÕÆ$“ÁKí…F[jC&iDŒÇÃı.*^cH	^Æié4€T§u’qÖåûöşö;ö™aÿIÖÙûûÖz×û¾ky%‚öÍ¯â¡CüU<thƒ]èÆÓÅÅET\3¨L©<&ûNÅi<F!#UGuGsffå6¢..ü=¹È\OEÉ¹,\PÒ÷`«NÎ™ËßÄœûƒåäÁƒ$ƒ-ŞFsù*:´‘.øŠ/DDM)ÆHµoºDbXITºœ€‘&&ç..†Ou1ä.ÂVÆrdëbÍ6ÚÓ"FÂçé‘#ŸÖòµïİ[·nÛ{G*`R91Ìd'Õ#›§{‘òéìÛçÛhO¥<5>|ÁÀ¬ß–>#bFzÇÑ¯so–à¥0°YOÍ2Ô³(™%\JIÁzU))DH™….ìEz¡j63ªY¼Í‘Ë	Æ,Æ%ÜçÛhÏ¥ä¤ää¤<—“‚oD
+ÖGÓÓ;>ØxïŞÑ£‹î­ûlwúŒ7î<r)Å+9)¤¢‹]RK1Q ÎAbNäÑ$4{-SÔ!á9–ÂäÚ–_!ÎsÂÆ‚m´œoç|›"'‡^ª¢:Òw¯[äöû_­]›±ví±÷úİ{#=ı(’Ä«DN°Ş9
+Sm‹AŠ\ÈU”£›™ùÆp³aŸn£}]Ä]årKïX×ï÷k‡ßeğnKÔ‰÷}¾ñëNqW¹ù½Û»
+_ÁQs÷n/œŞ5<@ŠïŞ5-`Á6|#2†çódúî{QÃ¡d ±1ÇnLßÅ%£Ã‡³à.İÃY.âÃÃ…‡ g‰‰û®ô’\ÃÌ4Sz	?Úr¸EÛhÃ{ÄÑôÏúEŞb†×&­ëè °…ñú8EKK‹’´Êt¾“²E?œíz;Ÿ•iÅ6Ú˜Š1"ZZ"à»:©Õü|<¦%jkÒ:÷Z l¡-ã+hÂ¤eŒÌ?–ÒzŒdü]j_13e÷cé©[µ(m¹ŠÛh«á³,cYÔê¨¨ŒŒ­é=–±cÇê˜ï¥ûœÁ„Ğù•Ûºô£Q«¡^½c–­^–še;¢@Èj¤C±##jÇ2€ @!ÀÁ	H¬Œ]…OÚè£s0ÚÁcĞF®FÓÕ;vÀ@àGápB/Ãšm´˜˜˜Œ˜Œ­[ñŠ‰YóYÇÉ( î?örÇ”0ÙŠ-èë÷Yú¿"IÄZìl1b­ÑÙÖi¬„ ·ª(Ôb‰øO°Èˆ½Õ l·Ş[«ïëm´˜)Sà®ˆônÇ9qÿş×¾ñòº)ŒÇĞ±¨ccŒ ‹;SÈ`Š M‘)g(Ïf#é#ÄbÑw’Öl£àğ;qâŞßß}4âC÷!~ğë‹¦
+À~nÓıD[ÊŒÛ.?ÁÕ»~¢â‹H&İ\_â„Ÿß‰ŞÃÏHüÜí«m4?sÀ_,™Ş§xì{3ÜŒvÄÉ“zqÂ¤<á÷÷Ä±¿_ò¿„Ûh~OÂù$~0à»ƒ’ªû"{9›ˆÎül·hàI?£–ğ“º#÷Œ~Õ”Räç'~½˜3d¢î–l£E$Á'bË–ˆ¤-p}ÿû¹I[ ˆØ!¿,üÑõFDDÒŞ@è·.›{# kË–½["Pl<¡LBnEìİ² ó½Iàt™Ãö.ØiÄ9ò¶ì¥toêAYt÷bJâ2ç½`£½{©gÍ6Ú‚Iğ[””ÔñâÌ"’îñƒ_¿üEXRpÜNº÷K’”a …'ŒL €mG‡&	ÄTQ’ä%‰WáˆZôÃhfX’âÜ÷Ûhnnanağéï'K·ûjÀ®™Ô	ìèïfD˜Ó-ğr†Ç›%úÖ;9Ì”‡õÄûz­_¿~nô`âæ¾î›ã±—İ±ur÷F$’ÆÍ™:Àˆé~Â•Iw˜Á’kH!ûèCúSt_7ƒÚçÛhıLá4SÏ¾¬û_û&Y/öû²†veæLxD\q_gÎ_Ö#ÿ±Pø²®E¬‚=«+ê”™½Q™áÔ3(Wzolİ6Znvî³¹ğ|úiî•Ü\÷ğ%ÙÙW²s³3U?øÉK@ÍÎí¿» ;÷
+´s¡ Eö8ŸÍ¥Ş³”å~ú,·¯à™«æ Cjö³”dË.4²%OĞ_Éı4[j¯à~WxE\+;;Wş,€æ^±hmÉ¥%øà{îÜ¹â[K(9wi‰úU}ë›' à şKÎAvéÒ%ĞœƒDğ/Ã{É%2»„¨¡'êÎ-¡¾X ´G”bÜÈŠœ/‘–Æ,‘q“ı/Y³öÒ­— è€(ú<Š[·n½¤ü´ú§{'B^àFwbPqKêHÁ	ßdÀ¶·ô	„
+‘H¯[&Ÿ[ŠÄä#¦È9/ı·îØ÷Ûh¦øÍ© =W~X½sò¤ û~iCëoŠ ÷B8é#¿ªŸLG Hx÷^B(^5Õ,Pø‰Jb®V:-0Ğl¨xé"Å,Ğªmœ¾¬şEŸÉ”X}ã€©_àŞÿKZÆô ŸÈ‚~X-ú"Hğß=|LÿÛ½é%Ÿş›óÿ¹>=<|:¼p`„»¿[D ü¼·±`z8~‚Â‘^ì^õtfèªé|CDb,‚X‰`8WĞ"Ùt9%‚BÁ¢„ÍˆEƒ¸Æ5HdÍ6Z!Æ$ŠBøL‚¯êÂÂéo<ò“±F‡º…cOM*$Z!c…â–jÃgÒ$CÊ“Y¦÷¤³¡TòB)4|&IïBiW¨·û|­  `âÄ‰xáQPøËSÅ”LÜøâØ‰…z¿ë>.À`ÓIZH<¢N,Š‰,1E!Qu¼Ä™ˆ2¶˜(™¥¨eZÈ3¸9Ñšm´±ÅÅÅc)Ä5¶èTŞX)«4?w—ƒ/ÅÅ=5cäJèÎª)6¹›yÅºA1O+¶j­¿¬b†Ÿp/Š–ˆÒ,Î»êş®5:$,î%Æ>°PlL^Nä¦ú+øf¡%ÛhO`ä=¡¦îE$–Ç	¼Ñ¿tß§2uFä± /Ojód•÷`]^¯‡Şí9R'FX³–ŸoŞÎüh8£ó££óò¢‹Ü±.HóóñÉÛ¹2¤È}åÎ¼yùy;£‘µ¸yù;¡µhÆA€9Vl†eşÎhò¢&pqP4`;GU4a´E¾œÇ‚ c»<bæ“
+–FKÈ¬ÙF[¹2z%DşÊ•;Wâî^²A©¹w2ƒ˜$H~ôJÙ‰Î—¬hEŸO¾QôBÍ6rI^iÙ6Ú†9Wç`lX~uÃœ9W¯.Ÿ3g9$ËKÜİİ»J†„,é,‚|år¢ÍdWç,_NÏUTXöæÌ¡ô*š\l¯‚+š.Ç›´t"¸ÍğŞ°aùòzÊ$;¸!´ÉdHFØnEÛh!ÀÃ—®ÊBÖé.¢è`ò1øD		áDw`“qIˆ…è}°T˜$\…\Uˆ!¦ÙúºWC,ÚFƒ¿:!øÂ‚ÈBä…¨¤BåÁƒB$tâÒá á«zÃÅp
+‘N
+ÿô=èÆn£y<èQâQBä’’x¡<èAÜ	€X „dƒĞ(¡¥Ì(á.6ˆãA~„•½H„M¼y6Áâ ¾ÛÒ¸®¥– ±u	YZ³ÖUÒURÒÕåÑÕ‹ÁÑ…'”tQx`èÁ×éÁD:KD«‹„%ÒËƒ‘îA¦è\\8BîAò4.¡qèBc=äFìÎ/¹”ğDœ†ëÆŠm´®.Ï.~ùèòìô”u'%:ƒïNÙ¤Û³«Sö°ÀÊÓS²àÄÂ³³ùD¤ºKò:©ê”ÆÜ¦™Dîìä<=™Å}OjÍ6Z'Q:Å‡B\2ï4A’Ó)[†Î$t˜|:={ÎÒ±ÎÎÎŞ]ô1&­±CŸo£ıÃWñĞ¡>{öìéÓçOÃÁq^ÜgOŸµÓ%*¶Ÿ¶cŞ×ÉvûÙóTKİy|ì,È~Qe’ÈÎÚ	;V…™Ÿ?o §ÕÔ~Şªm´óvüÃÛíUpÕáe·_®ƒ¤®®
+‹³!›uuugë}Ş^WE_¢—‘‚B,ëD^E® ªª#w _®#˜Sg?[WUe§º¾~T ­Æ]¶³ˆêp„ëìçëÎJ¸Š7FI/kÁ6šÃÑPå°;ÍÍÍf”;.ÃYí¨ªsØ¡Ùl¯´
+ËÕêæê†ºj‡½ºÚ^çh°;šª«IF[Pİàh¸LVUºê:U;ša‚-ÕUöj;u—›ap2«š/ã¤ªæ†ªj˜cGIø544Û›PÓ ´:ĞWc
+;Î´ƒ?N†%ÛheµµeeµÕÍ8õeõµeõõõeeGY}CYsYY}m½£¬±6­.+k(«Eô›áj¬ot ¹¶¬¬±±ºZĞ®­®SPÔ\][_[ıÚFøc —£¾ÖQÛˆ(êÁ ;‡DØ-k€ 5Ô’
+ëAjcY³£º¬¡¡±¾†À°æjX²VYSQ^QÓXÓX^VYSßXueEMMeMYtê+k+Ë+Êk€TSIeYyyec=ÔåååµpV”ÕWVVÖ€¦¢xååØ„ŒÊËà®­¨,«ØAÈ*++PQÄšz˜ØÌÊŠz ÁU^_^QQQS	F5õ•Ø……`ÁrHVQYkÂlØº¦²±²±Ñšm´ŠÒÒÊRˆ¦¦Ò¦Ò¥¥M¥p•_€ò·™¯ıå/¯ÿÕèÀ(‡Ï…òÒ¦Ø/­¨¸ ×Ô4!¹´²¢´	ˆ5M¥•M•¥åå¥¥5hªJês…QåM(o~^ğ–Wà¥¥ ª ^àf)Oï\qá€İÔdÍ6Ú‡¥6}Ø[ø{¿x*º (hRño~ñæöàØ[0Ú¤¥½0JUêx¥
+±—¸ğáCEßn£=Ú{ì+ü<0ëğÏ^Û¾ıµ×^÷~³à”wÜ£_úĞõ}ôQ_|éáÔ÷­—Š÷¿¾'óıÖÖ·ŞºÑú~æ¾?y÷bõI%É=^_É¹|}¹M1Šp_‰ó¾?Ò-x9u®‚‘ÔZ°æ«ÇRáøo‚¯oæÿøú¾÷o<“œ
+Ü]Áq?¿ùZVŞa¢¥ú¦
+A©ë	©¾¿KPº©HOMÕ¹»xVÎ^LçÊ ~ä+M|w¡G*\©8À<°ï·Ñà	æHMMHNHŞ^œµ=ô­Ä¹&§î
+^¼şú¾ÃAo'IÁ A#!êTNƒñÂO´L0Ê’¥RpÍÙ¼‹¢DÂ.`í"	TpîÜ`$îJ¥=Swí"/Z68ABK¶ÑâæÎ]¼xñÜ¹qqsã;7îx±÷¾ëëãâ/ÆwnÜ\8Ç%ş6óg_À"0Dç¢p.åq˜  
+´!!¸AGæ\ÆaAà"	ÙpÒì¶˜Æ‘)·ærÄ-&{âÑ]“M°b-1ñ8ã‰Ã"´Ğ{ßi€i€%R;Äi7üèÅ3%Æ_(‰–H¤D$C#ñáËtnÅ1˜È]¨ã…I4?NhÈî8°ùï‡@H¬8Z3+¶ÑÒÒ¦a¬‡²õiİAYÇÿóq¨â¾÷ÄõiÓDZii7ü_:N44–é¥°šf8JTtÒ¦)Òiiëá£*ä)M-©§¥É²·`-m2ÅæÍë'cúü‘Ûßï&èşc/ïÇìyÄÓğiÕ¦LïN›¼sÖ¥=ÏéæÉÏc	Çæ´Í“¹ Ñzâ¬g(íçi“E!La0]“Ùì„uZš ¤F´q1ÖëíÍÖl£=ÑŸnÌ|¦¿yƒü¥}:Şò9óöaâÀw·Bè~\­E·[VİzÕ-õªKw·<Õè:17LMı¾ŞF»Ñ}C\İŞa£|†pNÿC÷wÒ‡‰&B­ş‡ß¢ÔR¥WİF}C n…}£7mw·áŒÕpP¢2”°`mHëŒVúi}ç/ş Ö*i'Ú"ôyÿÌÛ±DÆ i«x°.­CÔLµÂ=IÕ¡V!iU€VÉ¦®\@Ò*§²Ä’m´;ƒî@‚sœÛßÜ>nĞ A„¿´óö;‚ä£Ùßz‡¹ôB´’Å ü´22ˆ¸œ©ÕBİ*KvŒ;ºÃAú”;­ƒŒòN«˜CÈ±¸%Ûh7}|ğ¹y/oï}pRy]ù}Ã‡oìssü¾À6iX(ø7¯A£¡›ßdşõ›ÒLò\†o^ÏjamXúXµæcŠı‡ê¹ú»(ßIÿ3ƒ¡ÛŒ÷ù²†6nÜ8Ÿq"|Æøñx™sú}Ã_hÈİ³»èû¨JİÂG¯|Œ¾ŞUøÄ3Ë ú˜‡ôH”ÜŠm´C¡‡VÂ=4ÿÀkãW„B½âPèŠ¿o˜uhşüĞãY?=Ä}Ì‡wèàB‹èŸP®WĞ:BWà½ItšÏÈVÌ?4?”+Všæ¨›O^ fHCí|ò9¤Ïµhmª¿€ÿTÿ©oÆÇ4 €¿oøÃ€©S{z€` R6™
+]ò * Zğ†JšF À.÷q¼?²ü‰6•SRaÊî¤×Ÿ†²%okÉ6ÚxSÇ?şíØLY÷ø²ùçq€Ã—5•ş ñª é¡dä€ˆ€ü•¼—0® $NÕ;şÖøK¡¿EÛh™¿K‘ù]ÈîÿÓBH¾»ÒLóWõ­Ï\¸0sOÖ€½"“e¤_ˆJ3%Îšr+“ÊÌ…lOºLA„Ğ˜…¢%r1†#“‰°#=X²fı?¾­ç¦¯ê¿à¯ ¡Îú³öåÛ·oãK×PïÃÃ´ÛŒ)_Ö×şå¯’3tÓş¡ò0ÓÅ¬"µn+¬Œ\œúPÍHoßVÉ:H©fâ.’iÍ6ÚĞ¡Ã†Õãˆ÷=7~XıUcˆÇÿ˜5T	!E‹a²æL0í‰14Ìlü1Ìºm´a¦8³Óq™Ë¯ê…ÛCÂµ#GD6”‡¡<”ÅĞ¡ÃzÙÀ’m´QÇqœ#ëğªàÃ?¬~¸ï6UÌeËZzKA¥Ìàš–(L½)n}(+F)b"oÂD‘ØQ1¶`mÄˆ={FñGïÙ×ğŞ3bı°Ú7bÄ¨=X¸gÂá,ÎÅk„¨%¬WÜ7¼h@£0e°G0qQlGÕ‰¸g±Ö‹¶ÑÎP\ƒçœ×®eÀåüaµaÄ™sæbÖ&¢_
+ê]/sÿÚ5Ù>£÷¸ÒášÉI×Î?=ä™H‰à\»fÍ6Ú„W'¨ñj[ÖhJ–î{ä…O/Æì#ŞÌtÓç'&Ø(^}µ§ßOt²´xUdŸô0Òãgük¶Ñ&,Å˜°tBòÒ¥ÉK·MH>rdtü6D¶o>ÉÉÜLİ5{$ĞœL¢m Á
+Û’!§6"Û@¶Äà…ğ6Ğ£ •dœ	l/p&lƒéÄ‡ÀúHß¶™D]JG2sğ!Ô‚m´y±±ñKcçÅÆÇÏƒˆONí}ä£ÙÛæyø`†M[{V[ü¼¥@•Œ
+ñnƒ:v:Ä/OtlÌK†#İ?>ìÇÆ‚*6vi|<‹GÍRx„8×š‡›Íc3´E—¥49UÛ ‰§Á–l£ÍÆ°ÍÖÃ6Û–ud´Í&08m\Ø>jÏrµ)LfPÓ&˜œÚf3Í&¤6›ÓÙ•³Ù&#&Û”Õ\³ÙTmŸn£EÚ"#áµE®Ye[µ*›·÷OW­±ÙÖ@IıM‘‘ÛfµÛV¹
+Ê"×°|:lÜ¶8p®Á#r•"IeÛ„UÌ_EBhoZƒVC¿M62§.îBRì¬Z…yDb
+ëÚV­YÉ+Z²ö‘9.Âç£dô­#£Û½³ÚDuQÁåÕÃ†Ş‹&BäøÿvÙkû¢Ó’m´Ñ£ÛFS´µáÛÆµk–·k{›hµyy¹›£Û˜5š3ü @èG6gººMŠÄ-a¨kÛt¹^¶9ëD©Y²æ<|éò¢ŒÎŞYŞº¶··»<’•å=P/¢zy	ñ½DŠ‘6aâe0¤ËEGã½$A¨„RÙfx¶µfÍËk€¾ğ¡à‹Yğ­¹zy1ˆmÊÅiŒ”oIÖAJ½L<ÃE2½ßà±——2@ÒÔ…­ÙFkç ^5¨Èj€ÈÓs®tÚ Õ`@».0(9	¨Ğnğš1R7¹5Ûh®íğO<é«~QêÊmÑÅNr5—`•«äP©'"¶ªQ»´wm¹J¯vÓ0cİƒĞgÛh®J´»>¨jwBÄê—j÷â÷àhW¾Õş!„&“¾ŞFsı*:4WøO¼]á/ô2*ÚõWJ–è·	(‡°¨ÏÁqår<Ñ„İ@ic4tsÃ§·ù …z
+7bõ    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/Buttons/StyleGuide/bg-btn-gray.png
+
+‰PNG
+
+   IHDR      ú   æÉ~   tEXtSoftware Adobe ImageReadyqÉe<  "iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c061 64.140949, 2010/12/07-10:57:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS5.1 Windows" xmpMM:InstanceID="xmp.iid:EB1F343F279911E2B019FC2B15775B23" xmpMM:DocumentID="xmp.did:EB1F3440279911E2B019FC2B15775B23"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:EB1F343D279911E2B019FC2B15775B23" stRef:documentID="xmp.did:EB1F343E279911E2B019FC2B15775B23"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>­“Âñ  „IDATxÚìUmnAµ£=V“«¦há:üa%RrŠ]ÛÏ)‘j¨Ò* X<öøã½7??¥áµ¬ë:ÙD:Ù:™nëÅ_ßÍ¦ãoµåÎùõïÿïò{}ÿMñ¼Ûí&ÿù|~ç~>¶-ò¾ú¹Ì'w­}ÿ½ó},ûÖû÷ñéKí`{/ëqe¶$ö±/õ|*fˆ­°>¾?¼âû°úO¶Hø=Ÿb9ñ–pgıp1vŞB”;8â=€Y±«üÊ‘¾÷o¬'Å§‚?ëøà“ádÔï÷øİKØâ½ƒ!ô¢Õ]äk¤Xµã©ù&ú5ò¹xT9÷Ã3?1¦XzyÍúÉÂæ´=ÏB+9CÌc©X¶úØ®Q€y¿ßO|¿¾Q
+-$ß>€ç´8/‘šO—Kb‘ıJbÏÛùBoè/ÂoM>šå3S/$ßmæ»ó––xçÒ¢(|[èc<ïC¼–>¢]gØóQ@ÁÉ Ñ-Ó _†^«>kâü*4‹y{E›¿a°^|ç|ß’RˆGö“Œrñ%zK©ôóSôÑòôôX½x‚å¸K­8¿RZÆùğîç§º7ÎïH,ŞJÃ•kó6M_áßíÀ»µßîcÑº<èmÿvpåÀÂÛñ¸b8õ†H ½jÑí|6
+y¦~úízN=¤ä™wß¿i‚ù_^~Pï÷.Ï­ß®`è&¼}kè«ÎçÖ)Pc^,uÃWûÒ%Mtø0ÿÏŠö¹wÓÀŸù™üsŞ—2ù‹¯T”ÅÛY&Ü¹u^xû“º´S¯¥ Ãá0õ{:Fûæ×§ıiÿOö/ <ÍS’õ¡e    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/Buttons/StyleGuide/bg-btn-green.png
+
+‰PNG
+
+   IHDR      ú   æÉ~   tEXtSoftware Adobe ImageReadyqÉe<  "iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c061 64.140949, 2010/12/07-10:57:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS5.1 Windows" xmpMM:InstanceID="xmp.iid:3E2E5277279A11E2AC86D5B8A19DC1D9" xmpMM:DocumentID="xmp.did:3E2E5278279A11E2AC86D5B8A19DC1D9"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:3E2E5275279A11E2AC86D5B8A19DC1D9" stRef:documentID="xmp.did:3E2E5276279A11E2AC86D5B8A19DC1D9"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>„Í\¼  áIDATxÚìW;n1%'‚{‡4¹GRØ°á«¦	Òø9F>aw9ÀH´ø)iw¸<6fW#E>>>qõşÇ½à25ÑÃ÷ƒªŠ™õgªELü«ú‚~ó±ø3Ğ—‰Ë8Q¤aèÓş_bÎüI¿Š5ì…åİàæS-4‰÷--øaÚë­hó/î@™bŞ­+<îş´pïÓŸN3ìïñ¨Ğ&öéşX8‹âKÊy†ÿ"TÄP2²…úşîÑ\×ó†ø•øIâÉ%~Õ¦÷Œ¡¥?Ú˜ø„	£ıÛ×"^&$ñFFİçÍı3`Ù!÷üõï-½—¯±@^pPÏ¯,ñs£0çşé´.°—şr=ÌY’lğ‹L6:gpÖç|û-¯3ÿ‘ÅJ½y¾‘åÒË?ItñûRVtxÇø2yÌëÁñğbÑä¯;5ø1‹¦d%	?¦HÑÈ³ßÆ<‚×à—ÎŠ+«Å2Øç–ü³Qœ‹ÿğ—KOñ‹ ø¨¹ñDeĞi¬ßéO‹ù¬¶ìÁKğê£¤oç;É£ŸµI&‹ü;Yá!?,¨˜Dı@J8KD˜l®-ù•0ÿA¸Ä¬L¾§÷Ğs¤Æ†ı}N%"_i‘ö‰ú2ª¢ÙFYÌzÓJf‰'?5Ò-ØÿŒï‰¦Ø¦CßX/Ÿ?~9â¿|]‡İŸšd©CÏ½N=hC¿¹Râ¾ğ÷ˆÏºòO¦Ùsñ‡±Ÿ¬öê‘Çö_×“xš¼rŞŒGÇï·7í½½ÿî›ÆÓM¶üÎıc¤u}_WüG½Úº>ßÚVğÏæåd¾ŠŞ>İJ*Šß®~^Ù¢Ø¡¿£ º^£nòi¿gñ§ó<¤˜¦§"z¾«â7Ù»Q¯RléìŸùg¯s¾X•å|A<’º­ºèS?ïyş¦¼’ÿc]l6±•?6%{êGÖ£­úóşM>Ù"ĞÈ[!„‘xÁßşuóø¥[öDA©Â^†ú~÷é.›?¨ÄáÛa²aös!oÄ/°ã*¡©pÅö“|îĞíàˆ2–ı‹åz#sŒ#)}¼ }06‰GµĞKûÍ~AKÛ³u
+½İmNŠ~ËB‘¡Ï­³§á|¨‰¿FçIğ[+O;Æãúù:ùÊ~â×¥,1Ï/Ç¯-|²£ügÓÆxpbjô·2pYğÃ9äøºaa>=¾]æé/¿S>g<³^¢Û‡~~Ê€Æùc¬•Ù,øEşZ¶V©÷ØYgÿÉ`ˆúğô°ş>)Ïôò}ü>şOÇ/ :'¬¾öˆ    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/StyleGuide/btn-control-large-tile.png
+
+‰PNG
+
+   IHDR      K   7_Ú®   tEXtSoftware Adobe ImageReadyqÉe<  "iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c061 64.140949, 2010/12/07-10:57:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS5.1 Windows" xmpMM:InstanceID="xmp.iid:D4BBC9775E9B11E295C0D803104C16A6" xmpMM:DocumentID="xmp.did:D4BBC9785E9B11E295C0D803104C16A6"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:D4BBC9755E9B11E295C0D803104C16A6" stRef:documentID="xmp.did:D4BBC9765E9B11E295C0D803104C16A6"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>u$]ô   VIDATxÚÜÁ
+À0CµøÿÜ¸kÛ¡Ä]–›ä4™¶(¾H<Û¿õÕ{šûñc¶+ˆÏøóÿ–Çöı·óH«}Ô<ó'j~BãÛóÄÿI¿  I(¨&•ÏÍ¤    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/StyleGuide/btn-control-medium-tile.png
+
+‰PNG
+
+   IHDR      ?   §ì•y   tEXtSoftware Adobe ImageReadyqÉe<  "iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c061 64.140949, 2010/12/07-10:57:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS5.1 Windows" xmpMM:InstanceID="xmp.iid:5698FE7D5E9A11E2902DA8C887193AC9" xmpMM:DocumentID="xmp.did:5698FE7E5E9A11E2902DA8C887193AC9"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:5698FE7B5E9A11E2902DA8C887193AC9" stRef:documentID="xmp.did:5698FE7C5E9A11E2902DA8C887193AC9"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>†ï÷   KIDATxÚÌĞA
+  DÑïcÇ¶i2ÈİãWTâîce µ¿v÷ı“%y8ÚÜ+ÿ¾¿êr×#Ñ®Ó¶ËNš}_úŸ%À Jë“şİp“    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/StyleGuide/btn-control-small-tile.png
+
+‰PNG
+
+   IHDR      6   €ãÄ±   tEXtSoftware Adobe ImageReadyqÉe<  "iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c061 64.140949, 2010/12/07-10:57:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS5.1 Windows" xmpMM:InstanceID="xmp.iid:952B160E5E9911E2A4A8D32B218A29D1" xmpMM:DocumentID="xmp.did:952B160F5E9911E2A4A8D32B218A29D1"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:952B160C5E9911E2A4A8D32B218A29D1" stRef:documentID="xmp.did:952B160D5E9911E2A4A8D32B218A29D1"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>r
+b8   €IDATxÚ”Ñ;À ĞVêı¯Ú!~!t­‚íÉˆ¹Ç×oİîî½ƒ[kàR
+8çVU°ˆüıĞ}Ç¦÷M9Í·=ûØy×ÛÌ–}ÖZúe§”–ıÇÁ!„•§şv}tG7C—ŠÖŒE¿2è¿/°9™òi?ç~–³}íO€ @ù”Ïœ¾¨    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222354im_/http://www.roblox.com/images/UI/img-check.png
+
+‰PNG
+
+   IHDR         v4A   tEXtSoftware Adobe ImageReadyqÉe<  "iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c061 64.140949, 2010/12/07-10:57:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS5.1 Windows" xmpMM:InstanceID="xmp.iid:B2C1B5A7AAAE11E18F4EA74B3EF3A93A" xmpMM:DocumentID="xmp.did:B2C1B5A8AAAE11E18F4EA74B3EF3A93A"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:B2C1B5A5AAAE11E18F4EA74B3EF3A93A" stRef:documentID="xmp.did:B2C1B5A6AAAE11E18F4EA74B3EF3A93A"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>t¦U3  dIDATxÚ”’O(aÆŸww[MÑ¸lF£-²‰°Grâº—-'”‹œÜäª”›”Úâ²$YµYÉaZ”ìÁë™Ï®ldÇ÷õÖ|ÏÌóşùÍ'ª
+¿K&$ˆ6ìA‘Gã!ügµb6†ğÂç œ€ïªË2FLâ‡{ÆJâ§mY”$š°…wcÎqÄƒ5Í2'ıp‘†ÀÂ…m·èÖ-Ê ,¶µÉÛ«Œ3<7cAr(Ò:âaÆö–Î3ŠÊ’ã¬Ø¬˜B<R¸F‰Œz¬g_ÉÇ0)¦ã)bÒ•¸§Y-‰É©]2²˜Ò]«êÌ›Yâ2†(Ö™ ‡j]ùí3ãŠqMëÂ`ÒÇv]ÎC=ç<9o më¾&~…ù¶ôH§åöhÜ|ş=Õ×šf#t‰ƒìpfOè­õe6b‡XDéjFsİ ¼?vè­€7û    IEND®B`‚
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20140516222548cs_/https://roblox.com/CSS/Base/CSS/StyleGuide.css
+
+@charset "utf-8";
+
+body { background-color: rgb(255, 255, 255); margin: 0px; }
+
+body, .text, pre { font-family: "Source Sans Pro", Arial, Helvetica, sans-serif; color: rgb(52, 52, 52); font-size: 14px; line-height: 1.428; }
+
+::-webkit-input-placeholder { font-family: "Source Sans Pro", Arial, Helvetica, sans-serif; }
+
+.text { font-weight: normal; }
+
+strong { font-weight: bold; }
+
+em { font-style: italic; }
+
+del { text-decoration: line-through; }
+
+textarea { resize: none; }
+
+h1, h2, h3, h4, h5, h6 { display: inline-block; margin: 0px; padding: 0px; zoom: 1; }
+
+h1, h1 a, h1 a:visited, h1 a:active, h1 a:link { font-size: 32px; font-weight: bold; margin: 12px; color: rgb(52, 52, 52); letter-spacing: -1px; }
+
+h1 a, h1 a:visited, h1 a:active, h1 a:link { margin: 0px; }
+
+h1 a:hover { text-decoration: none; }
+
+h2, h2 a:link, h2 a:visited, h2 a:active, h2 .text { font-size: 30px; font-weight: normal; color: rgb(52, 52, 52); letter-spacing: -1px; text-decoration: none; }
+
+h2.title { margin-top: 20px; margin-bottom: 20px; }
+
+h2.light { font-size: 16px; font-weight: normal; color: rgb(0, 0, 0); }
+
+h3, h3 a { font-size: 15px; font-weight: bold; color: rgb(52, 52, 52); }
+
+.divider-top { border-top: 1px solid rgb(204, 204, 204); }
+
+.divider-bottom { border-bottom: 1px solid rgb(204, 204, 204); }
+
+.divider-left { border-left: 1px solid rgb(204, 204, 204); }
+
+.divider-right { border-right: 1px solid rgb(204, 204, 204); }
+
+.blank-box { border: 1px solid rgb(204, 204, 204); }
+
+.dark-box { border: 1px solid rgb(188, 188, 188); background: rgb(225, 225, 225); padding: 5px; }
+
+.sub-divider-bottom { border-bottom: 1px solid rgb(237, 237, 237); }
+
+a.text-link { font-weight: normal; text-decoration: none; color: rgb(0, 85, 179); }
+
+a.text-link:hover { text-decoration: underline; }
+
+.table td, .table th { padding: 5px; border-top: 1px solid rgb(204, 204, 204); margin: 0px; text-align: left; }
+
+table.table { border-top: 1px solid rgb(158, 158, 158); }
+
+.table-header th { border-left: 1px solid rgb(204, 204, 204); font-weight: 600; background-color: rgb(241, 241, 241); border-top: none; }
+
+.table-header .first { border-left: 1px solid rgb(241, 241, 241); }
+
+.tip-text { padding-top: 2px; color: rgb(102, 102, 102); display: block; font-size: 11px; }
+
+.tool-tip { border: 1px solid rgb(204, 204, 204); font-weight: normal; font-size: 12px; margin-left: 20px; position: relative; width: 120px; padding: 5px; }
+
+.tool-tip span { color: rgb(170, 0, 0); }
+
+.tool-tip .right { position: absolute; left: -10px; top: 50%; margin-top: -5px; }
+
+.tool-tip .bottom { position: absolute; top: -10px; left: 5px; }
+
+.validator-checkmark { width: 15px; height: 13px; background: url("/web/20140516222354im_/http://www.roblox.com/images/UI/img-check.png") no-repeat; margin-left: 5px; display: none; }
+
+.text-box { border: 1px solid rgb(167, 167, 167); padding: 0px 3px; font-weight: normal; }
+
+.text-box.text-box-small { height: 18px; font-size: 11px; line-height: 18px; border: 1px solid rgb(167, 167, 167); }
+
+.text-box.text-box-medium { height: 21px; font-size: 12px; line-height: 19px; }
+
+.text-box.text-box-large { height: 25px; line-height: 24px; font-size: 13px; }
+
+.text-box.text-area-medium { line-height: 19px; }
+
+.btn-control, .btn-control:active, .btn-control:link, .btn-control:visited, .btn-control:hover { border: 1px solid rgb(119, 119, 119); padding: 0px 6px; color: rgb(0, 0, 0); text-decoration: none; background-color: rgb(204, 204, 204); text-align: center; font-weight: normal; cursor: pointer; background-position: center top; display: inline-block; }
+
+.btn-control:hover { background-position: center bottom; border-color: rgb(136, 136, 136); text-decoration: none; }
+
+.btn-control.disabled { border: 1px solid rgb(204, 204, 204); cursor: default; color: rgb(167, 167, 167); background-position: center center; }
+
+.btn-control.btn-control-small { height: 18px; line-height: 18px; font-size: 11px; background-image: url("/web/20140516222354im_/http://www.roblox.com/images/StyleGuide/btn-control-small-tile.png"); }
+
+.btn-control.btn-control-medium { height: 21px; line-height: 21px; font-size: 12px; background-image: url("/web/20140516222354im_/http://www.roblox.com/images/StyleGuide/btn-control-medium-tile.png"); }
+
+.btn-control.btn-control-large { height: 25px; line-height: 24px; font-size: 13px; padding: 0px 7px; background-image: url("/web/20140516222354im_/http://www.roblox.com/images/StyleGuide/btn-control-large-tile.png"); }
+
+a.btn-control.top-level { font-weight: bold; }
+
+.btn-large, .btn-medium, .btn-small { margin: 0px; display: inline-block; zoom: 1; text-align: center; font-weight: normal; text-decoration: none; border-width: 1px; border-style: solid; cursor: pointer; }
+
+.PurchaseModal .btn-large, .PurchaseModal .btn-medium, .PurchaseModal .btn-small { }
+
+.btn-large { padding: 9px 13px 0px; height: 39px; min-width: 70px; font-size: 23px; line-height: 27px; background-position: left 0px; }
+
+input.btn-large { padding: 9px 13px; height: 50px; }
+
+.btn-large:hover, .btn-medium:hover, .btn-small:hover { text-decoration: none; }
+
+.btn-large:hover { background-position: left -48px; }
+
+.btn-medium { padding: 1px 13px 3px; height: 28px; min-width: 62px; font-size: 20px; background-position: left -96px; }
+
+.btn-medium:hover { background-position: left -128px; }
+
+.btn-small { padding: 1px 7px 0px; height: 20px; min-width: 40px; font-size: 14px; line-height: 18px; background-position: left -160px; }
+
+.btn-small:hover { background-position: left -181px; }
+
+.btn-primary, .btn-primary:link, .btn-primary:active, .btn-primary:visited { border-color: rgb(0, 112, 1); background-color: rgb(0, 112, 1); background-image: url("/web/20140516222354im_/http://www.roblox.com/images/Buttons/StyleGuide/bg-btn-green.png"); color: white; }
+
+.btn-neutral, .btn-neutral:link, .btn-neutral:active, .btn-neutral:visited { border-color: rgb(8, 82, 183); background-color: rgb(8, 82, 183); background-image: url("/web/20140516222354im_/http://www.roblox.com/images/Buttons/StyleGuide/bg-btn-blue.png"); color: white; }
+
+.btn-negative, .btn-negative:link, .btn-negative:active, .btn-negative:visited { border-color: rgb(86, 86, 86); background-color: rgb(86, 86, 86); background-image: url("/web/20140516222354im_/http://www.roblox.com/images/Buttons/StyleGuide/bg-btn-gray.png"); color: white; }
+
+.btn-disabled-primary, .btn-disabled-primary:hover, .btn-disabled-neutral, .btn-disabled-neutral:hover, .btn-disabled-negative, .btn-disabled-negative:hover { cursor: default; background-position: left -202px; }
+
+.btn-disabled-primary, .btn-disabled-primary:link, .btn-disabled-primary:active, .btn-disabled-primary:visited { background-color: rgb(153, 198, 153); background-image: url("/web/20140516222354im_/http://www.roblox.com/images/Buttons/StyleGuide/bg-btn-green.png"); border-color: rgb(153, 198, 153); color: white; }
+
+.btn-disabled-neutral, .btn-disabled-neutral:link, .btn-disabled-neutral:active, .btn-disabled-neutral:visited { background-color: rgb(156, 186, 226); background-image: url("/web/20140516222354im_/http://www.roblox.com/images/Buttons/StyleGuide/bg-btn-blue.png"); border-color: rgb(156, 186, 226); color: white; }
+
+.btn-none { display: none; }
+
+.btn-disabled-negative, .btn-disabled-negative:link, .btn-disabled-negative:active, .btn-disabled-negative:visited { background-color: rgb(187, 188, 187); background-image: url("/web/20140516222354im_/http://www.roblox.com/images/Buttons/StyleGuide/bg-btn-gray.png"); border-color: rgb(187, 188, 187); color: white; }
+
+.btn-text { display: none; margin: 0px; position: relative; color: rgb(255, 255, 255); }
+
+.btn-text:hover { text-decoration: none; }
+
+.btn-large .btn-text { bottom: 26px; }
+
+.btn-medium .btn-text { bottom: 22px; }
+
+.btn-small .btn-text { bottom: 17px; }
+
+.btn-large-green-play, .btn-play, .btn-play:active, .btn-play:visited, .btn-play:link { padding-left: 60px; border-color: rgb(0, 112, 1); background: url("/web/20140516222354im_/http://www.roblox.com/images/Buttons/StyleGuide/bg-lg-green-play.png") left top no-repeat; color: white; min-width: 26px; }
+
+.blue-arrow { background: url("/web/20140516222354im_/http://www.roblox.com/images/Buttons/StyleGuide/bg-btn-blue-arrow-md.png") right top; border-color: rgb(8, 82, 183); color: white; padding-right: 36px; min-width: 41px; }
+
+.gray-arrow { background: url("/web/20140516222354im_/http://www.roblox.com/images/Buttons/StyleGuide/bg-btn-gray-arrow-md.png") right top; border-color: rgb(86, 86, 86); color: rgb(34, 34, 34); padding-right: 36px; min-width: 41px; }
+
+.gray-arrow:hover, .blue-arrow:hover { background-position: right -64px; }
+
+.disabled-blue-arrow, .disabled-blue-arrow:hover { background: url("/web/20140516222354im_/http://www.roblox.com/images/Buttons/StyleGuide/bg-btn-blue-arrow-md.png") right -32px; border-color: rgb(156, 186, 226); color: rgb(153, 167, 177); padding-right: 36px; cursor: default; min-width: 41px; }
+
+.disabled-gray-arrow, .disabled-gray-arrow:hover { background: url("/web/20140516222354im_/http://www.roblox.com/images/Buttons/StyleGuide/bg-btn-gray-arrow-md.png") right -32px; border-color: rgb(187, 188, 187); color: rgb(165, 165, 165); padding-right: 36px; cursor: default; min-width: 41px; }
+
+.pager.first, .pager.last { display: none; }
+
+.pager.previous { display: inline-block; background: url("/web/20140516222354im_/http://www.roblox.com/images/Buttons/Arrows/btn-silver-left-27.png") left top no-repeat; width: 27px; height: 27px; }
+
+.pager.next { display: inline-block; background: url("/web/20140516222354im_/http://www.roblox.com/images/Buttons/Arrows/btn-silver-right-27.png") left top no-repeat; width: 27px; height: 27px; }
+
+.page.text { position: relative; top: -8px; padding: 5px; }
+
+.pager.previous:hover, .pager.next:hover { background-position: left bottom; cursor: pointer; }
+
+.pager.disabled, .pager.disabled:hover { background-position: 0px -27px; cursor: default; }
+
+.dropdown { position: relative; text-align: left; display: block; float: left; }
+
+.dropdown .button { background: url("/web/20140516222354im_/http://www.roblox.com/images/buttons/bg-drop_down_btn.png") right top no-repeat; font-size: 13px; color: rgb(0, 0, 0); text-align: center; display: block; position: relative; z-index: 2; height: 21px; padding: 4px 17px 0px 8px; border: 1px solid rgb(119, 119, 119); bottom: -1px; }
+
+.dropdown .button:hover { background-position: right center; border-color: rgb(136, 136, 136); text-decoration: none; }
+
+.dropdown .button.active { background-position: right bottom; border-bottom: none; }
+
+.dropdown .button.gear { background-image: url("/web/20140516222354im_/http://www.roblox.com/images/BuildPage/btn-gear_sprite_27px.png"); height: 27px; border: none; bottom: 0px; width: 40px; padding: 0px; }
+
+.dropdown .dropdown-list { background-color: rgb(239, 239, 239); border: 1px solid rgb(119, 119, 119); position: absolute; top: 26px; z-index: 1; font-size: 12px; font-weight: normal; display: none; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; padding-left: 0px; white-space: nowrap; }
+
+.dropdown .dropdown-list li { display: block; text-decoration: none; color: rgb(0, 0, 0); padding: 4px 8px; margin: 0px; cursor: pointer; }
+
+.dropdown .dropdown-list li:hover { background-color: rgb(0, 85, 179); color: rgb(255, 255, 255); }
+
+.dropdown .dropdown-list li a { display: block; color: inherit; text-decoration: none; }
+
+span.robux, div.robux { background: url("/web/20140516222354im_/http://www.roblox.com/images/Icons/img-robux.png") 0px 1px no-repeat; color: rgb(0, 102, 0); font-weight: bold; padding: 0px 0px 2px 20px; font-size: 12px; }
+
+span.tickets, div.tickets { background: url("/web/20140516222354im_/http://www.roblox.com/images/Tickets.png") 0px 1px no-repeat; color: rgb(170, 102, 17); padding: 0px 0px 2px 20px; font-weight: bold; font-size: 12px; }
+
+.robux-text { color: rgb(0, 102, 0); font-weight: bold; }
+
+.form-outer { overflow: hidden; width: 100%; clear: both; }
+
+.form-inner.label-column { float: left; margin-right: 5px; }
+
+.form-label { font-size: 14px; color: rgb(52, 52, 52); font-weight: 600; }
+
+.form-inner.input-column { overflow: hidden; text-align: left; }
+
+.form-select { margin: 0px 5px; height: 21px; }
+
+.error-message { color: black; background-color: rgb(250, 229, 229); border: 1px solid rgb(204, 0, 0); margin-bottom: 10px; text-align: left; padding: 3px 10px; }
+
+.footnote { color: rgb(102, 102, 102); }
+
+.urgent-text { color: rgb(204, 0, 0); font-weight: bold; }
+
+.warning-text { color: rgb(204, 0, 0); }
+
+.search-match { background-color: rgb(255, 255, 170); }
+
+a[disabled="disabled"], a[disabled="disabled"]:hover, a[disabled], a[disabled]:hover { text-decoration: none; cursor: default; }
+
+.stat-label { font-size: 12px; color: rgb(153, 153, 153); line-height: 1.5em; }
+
+.stat { font-size: 12px; color: rgb(0, 0, 0); line-height: 1.5em; }
+
+.hint-text { font-style: italic; color: rgb(204, 204, 204); }
+
+.invisible { display: none; }
+
+.selected-text { font-weight: bold; }
+
+.status-confirm { background-color: rgb(229, 239, 250); border: 1px solid rgb(0, 102, 204); padding: 5px 10px; }
+
+.status-error { background-color: rgb(250, 229, 229); border: 1px solid rgb(204, 0, 0); padding: 5px 10px; }
+
+.info-tool-tip { background: url("/web/20140516222354im_/http://www.roblox.com/images/Buttons/questionmark-12x12.png") no-repeat; padding-left: 13px; }
+
+.tab-container { overflow: hidden; padding-left: 5px; }
+
+.redesign .tab_white_31h_container .ajax__tab_inner, .tab, .tab-container > div { float: left; background-color: rgb(214, 214, 214); padding: 7px; border-width: 1px 1px 0px; border-style: solid; border-color: rgb(158, 158, 158); border-image: initial; font-weight: bold; font-size: 15px; margin: 4px 2px 0px 1px; position: relative; top: -1px; }
+
+.redesign .tab_white_31h_container .ajax__tab_hover .ajax__tab_inner, .tab:hover, .tab-container > div:hover { background-color: rgb(233, 233, 233); cursor: pointer; }
+
+.redesign .tab_white_31h_container .ajax__tab_inner h3, .tab a { color: rgb(52, 52, 52); font-size: 15px; font-weight: bold; }
+
+.redesign .tab_white_31h_container .ajax__tab_active .ajax__tab_inner, .tab.active, .tab-container > .tab-active, .tab-container > .tab-active:hover { background-color: rgb(255, 255, 255); padding: 9px 7px; border-bottom: 0px rgb(204, 204, 204); position: relative; border-top-color: rgb(204, 204, 204); border-right-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); z-index: 1; margin: 0px 1px 0px 0px; top: 1px; user-select: none; }
+
+.redesign .tab_white_31h_container .ajax__tab_panel { top: -1px; position: relative; background-color: rgb(255, 255, 255); border-top: 1px solid rgb(204, 204, 204); }
+
+.tab-content, .tab-container + div > div { top: -1px; position: relative; background-color: rgb(255, 255, 255); border-top: 1px solid rgb(204, 204, 204); display: none; }
+
+.tab-container + div > div { padding: 21px 15px; }
+
+.tab-container + div > .tab-active { display: block; }
+
+.arrow { cursor: pointer; background-repeat: no-repeat; width: 17px; height: 50px; display: inline-block; }
+
+.arrow:hover { background-position: 0px -51px; }
+
+.arrow.disabled { cursor: default; background-position: 0px -102px; width: 17px; height: 50px; }
+
+.arrow.left { background-image: url("/web/20140516222354im_/http://www.roblox.com/images/GamesPage/arrow_left.png"); }
+
+.arrow.right { background-image: url("/web/20140516222354im_/http://www.roblox.com/images/GamesPage/arrow_right.png"); }
+
+.online-player { font-size: 12px; color: rgb(51, 153, 51); }
+
+.verticaltab { text-decoration: none; }
+
+.verticaltab:hover { background: rgb(239, 239, 239); }
+
+.verticaltab.disabled:hover { background: none; border: none; text-decoration: none; cursor: default; }
+
+.verticaltab.selected { background: rgb(239, 239, 239); border-top: 1px solid rgb(204, 204, 204); border-bottom: 1px solid rgb(204, 204, 204); border-left: 1px solid rgb(204, 204, 204); border-image: initial; font-weight: bold; border-right: none; text-align: left; }
+
+.verticaltab a { inset: 0px; font-size: 14px; color: rgb(54, 54, 54); position: relative; display: block; z-index: 2; height: 35px; line-height: 35px; text-decoration: none; padding-left: 15px; }
+
+.verticaltab a:hover, .verticaltab a:active { text-decoration: none; }
+
+.verticaltab.disabled a:hover { cursor: default; }
+
+.validation-summary-errors { background-color: rgb(250, 229, 229); border: 1px solid rgb(204, 0, 0); padding: 5px 0px 5px 5px; font-size: 12px; font-weight: normal; text-align: left; margin-bottom: 10px; }
+
+.validation-summary-errors ul { padding: 0px; margin: 0px; list-style-type: none; }
+
+.nav { margin-bottom: 20px; margin-left: 0px; list-style: none; }
+
+.nav li { display: inline; }
+
+.nav > li > a:hover, .nav > li > a:focus { text-decoration: none; background-color: rgb(238, 238, 238); }
+
+.nav-pills > li > a { padding: 4px 12px; margin: 2px 2px 2px 0px; border-radius: 5px; line-height: 14px; text-decoration: none; color: rgb(9, 95, 181); font-size: 13px; }
+
+.nav-pills > .active > a, .nav-pills > .active > a:hover, .nav-pills > .active > a:focus { color: rgb(255, 255, 255); background-color: rgb(51, 102, 204); }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weight: 300; src: local("Source Sans Pro Light"), local("SourceSansPro-Light"), url("https://web.archive.org/web/20140516222354im_/http://themes.googleusercontent.com/static/fonts/sourcesanspro/v7/toadOcfmlt9b38dHJxOBGNbE_oMaV8t2eFeISPpzbdE.woff") format("woff"); }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weight: 400; src: local("Source Sans Pro"), local("SourceSansPro-Regular"), url("//web.archive.org/web/20140516222354im_/http://themes.googleusercontent.com/static/fonts/sourcesanspro/v5/ODelI1aHBYDBqgeIAH2zlBM0YzuT7MdOe03otPbuUS0.woff") format("woff"); }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weight: 600; src: local("Source Sans Pro Semibold"), local("SourceSansPro-Semibold"), url("//web.archive.org/web/20140516222354im_/http://themes.googleusercontent.com/static/fonts/sourcesanspro/v5/toadOcfmlt9b38dHJxOBGJ6-ys_j0H4QL65VLqzI3wI.woff") format("woff"); }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weight: 700; src: local("Source Sans Pro Bold"), local("SourceSansPro-Bold"), url("//web.archive.org/web/20140516222354im_/http://themes.googleusercontent.com/static/fonts/sourcesanspro/v5/toadOcfmlt9b38dHJxOBGFkQc6VGVFSmCnC_l7QZG60.woff") format("woff"); }
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv
+
+@charset "utf-8";
+
+@font-face { font-family: Iconochive-Regular; src: url("../fonts/Iconochive-Regular.woff") format("woff"), url("../fonts/Iconochive-Regular.ttf") format("truetype"); font-weight: normal; font-style: normal; }
+
+[class^="iconochive-"], [class*=" iconochive-"] { speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; -webkit-font-smoothing: antialiased; font-family: Iconochive-Regular !important; }
+
+.iconochive-Uplevel::before { content: "â†µ"; }
+
+.iconochive-exit::before { content: "ğŸš£"; }
+
+.iconochive-beta::before { content: "Î²"; }
+
+.iconochive-logo::before { content: "ğŸ›"; }
+
+.iconochive-audio::before { content: "ğŸ•¨"; }
+
+.iconochive-movies::before { content: "ğŸ"; }
+
+.iconochive-software::before { content: "ğŸ’¾"; }
+
+.iconochive-texts::before { content: "ğŸ•®"; }
+
+.iconochive-etree::before { content: "ğŸ¤"; }
+
+.iconochive-image::before { content: "ğŸ–¼"; }
+
+.iconochive-web::before { content: "ğŸ—”"; }
+
+.iconochive-collection::before { content: "âˆ‘"; }
+
+.iconochive-folder::before { content: "ğŸ“‚"; }
+
+.iconochive-data::before { content: "ğŸ—ƒ"; }
+
+.iconochive-tv::before { content: "ğŸ“º"; }
+
+.iconochive-article::before { content: "ğŸ—"; }
+
+.iconochive-question::before { content: "â°"; }
+
+.iconochive-question-dark::before { content: "?"; }
+
+.iconochive-info::before { content: "i"; }
+
+.iconochive-info-small::before { content: "â“˜"; }
+
+.iconochive-comment::before { content: "ğŸ—©"; }
+
+.iconochive-comments::before { content: "ğŸ—ª"; }
+
+.iconochive-person::before { content: "ğŸ‘¤"; }
+
+.iconochive-people::before { content: "ğŸ‘¥"; }
+
+.iconochive-eye::before { content: "ğŸ‘"; }
+
+.iconochive-rss::before { content: "âˆ"; }
+
+.iconochive-time::before { content: "ğŸ•‘"; }
+
+.iconochive-quote::before { content: "â"; }
+
+.iconochive-disc::before { content: "ğŸ’¿"; }
+
+.iconochive-tv-commercial::before { content: "ğŸ’°"; }
+
+.iconochive-search::before { content: "ğŸ”"; }
+
+.iconochive-search-star::before { content: "âœ½"; }
+
+.iconochive-tiles::before { content: "âŠ"; }
+
+.iconochive-list::before { content: "â‡¶"; }
+
+.iconochive-list-bulleted::before { content: "âŒ—"; }
+
+.iconochive-latest::before { content: "âˆˆ"; }
+
+.iconochive-left::before { content: "Ë‚"; }
+
+.iconochive-right::before { content: "Ëƒ"; }
+
+.iconochive-left-solid::before { content: "â—‚"; }
+
+.iconochive-right-solid::before { content: "â–¸"; }
+
+.iconochive-up-solid::before { content: "â–´"; }
+
+.iconochive-down-solid::before { content: "â–¾"; }
+
+.iconochive-dot::before { content: "â¤"; }
+
+.iconochive-dots::before { content: "â–¦"; }
+
+.iconochive-columns::before { content: "â–¯"; }
+
+.iconochive-sort::before { content: "â‡•"; }
+
+.iconochive-atoz::before { content: "ğŸ”¤"; }
+
+.iconochive-ztoa::before { content: "ğŸ”¥"; }
+
+.iconochive-upload::before { content: "ğŸ“¤"; }
+
+.iconochive-download::before { content: "ğŸ“¥"; }
+
+.iconochive-favorite::before { content: "â˜…"; }
+
+.iconochive-heart::before { content: "â™¥"; }
+
+.iconochive-play::before { content: "â–¶"; }
+
+.iconochive-play-framed::before { content: "ğŸ¬"; }
+
+.iconochive-fullscreen::before { content: "â›¶"; }
+
+.iconochive-mute::before { content: "ğŸ”‡"; }
+
+.iconochive-unmute::before { content: "ğŸ”Š"; }
+
+.iconochive-share::before { content: "ğŸ"; }
+
+.iconochive-edit::before { content: "âœ"; }
+
+.iconochive-reedit::before { content: "âœ"; }
+
+.iconochive-gear::before { content: "âš™"; }
+
+.iconochive-remove-circle::before { content: "â"; }
+
+.iconochive-plus-circle::before { content: "ğŸ—–"; }
+
+.iconochive-minus-circle::before { content: "ğŸ—•"; }
+
+.iconochive-x::before { content: "ğŸ—™"; }
+
+.iconochive-fork::before { content: "â‹”"; }
+
+.iconochive-trash::before { content: "ğŸ—‘"; }
+
+.iconochive-warning::before { content: "âš "; }
+
+.iconochive-flash::before { content: "ğŸ—²"; }
+
+.iconochive-world::before { content: "ğŸ—º"; }
+
+.iconochive-lock::before { content: "ğŸ”’"; }
+
+.iconochive-unlock::before { content: "ğŸ”“"; }
+
+.iconochive-twitter::before { content: "ğŸ¦"; }
+
+.iconochive-facebook::before { content: "f"; }
+
+.iconochive-googleplus::before { content: "g"; }
+
+.iconochive-reddit::before { content: "ğŸ‘½"; }
+
+.iconochive-tumblr::before { content: "T"; }
+
+.iconochive-pinterest::before { content: "ğ“Ÿ"; }
+
+.iconochive-popcorn::before { content: "ğŸ’¥"; }
+
+.iconochive-email::before { content: "ğŸ“§"; }
+
+.iconochive-embed::before { content: "ğŸ”—"; }
+
+.iconochive-gamepad::before { content: "ğŸ•¹"; }
+
+.iconochive-Zoom_In::before { content: "+"; }
+
+.iconochive-Zoom_Out::before { content: "-"; }
+
+.iconochive-RSS::before { content: "ğŸ“¨"; }
+
+.iconochive-Light_Bulb::before { content: "ğŸ’¡"; }
+
+.iconochive-Add::before { content: "âŠ•"; }
+
+.iconochive-Tab_Activity::before { content: "âŒ˜"; }
+
+.iconochive-Forward::before { content: "â©"; }
+
+.iconochive-Backward::before { content: "âª"; }
+
+.iconochive-No_Audio::before { content: "ğŸ”ˆ"; }
+
+.iconochive-Pause::before { content: "â¸"; }
+
+.iconochive-No_Favorite::before { content: "â˜†"; }
+
+.iconochive-Unike::before { content: "â™¡"; }
+
+.iconochive-Song::before { content: "â™«"; }
+
+.iconochive-No_Flag::before { content: "âš"; }
+
+.iconochive-Flag::before { content: "âš‘"; }
+
+.iconochive-Done::before { content: "âœ“"; }
+
+.iconochive-Check::before { content: "âœ”"; }
+
+.iconochive-Refresh::before { content: "âŸ³"; }
+
+.iconochive-Headphones::before { content: "ğŸ§"; }
+
+.iconochive-Chart::before { content: "ğŸ“ˆ"; }
+
+.iconochive-Bookmark::before { content: "ğŸ“‘"; }
+
+.iconochive-Documents::before { content: "ğŸ“š"; }
+
+.iconochive-Newspaper::before { content: "ğŸ“°"; }
+
+.iconochive-Podcast::before { content: "ğŸ“¶"; }
+
+.iconochive-Radio::before { content: "ğŸ“»"; }
+
+.iconochive-Cassette::before { content: "ğŸ“¼"; }
+
+.iconochive-Shuffle::before { content: "ğŸ”€"; }
+
+.iconochive-Loop::before { content: "ğŸ”"; }
+
+.iconochive-Low_Audio::before { content: "ğŸ”‰"; }
+
+.iconochive-First::before { content: "ğŸ–"; }
+
+.iconochive-Invisible::before { content: "ğŸ•¶"; }
+
+.iconochive-Computer::before { content: "ğŸ–³"; }
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://web-static.archive.org/_static/images/web-screenshot.svg
+
+<svg height="20" viewBox="0 0 24 20" width="24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="m0 0h24v20h-24z" fill="#fff"/><path d="m18.5721525 15.8731314h-2.213751v-2.1610043h2.213751zm-3.2647703 0h-2.2149026v-2.1610043h2.2149026zm3.1265692-11.56996429v5.82540599 1.5252793h-16.86629045v-1.5252793-5.82540599zm-6.4790971 11.56996429h-10.35448576v-2.1160889h10.35448576zm-11.9548543-13.0731314v6.74421283 7.72244617h20v-7.72244617-6.74421283z" fill="#333" fill-rule="nonzero" transform="matrix(1 0 0 -1 0 18.067)"/><rect fill="#333" height="10" rx="1" stroke="#333" width="14.906" x="8" y="9"/><circle cx="15.453" cy="14" fill="#fff" r="3.491"/><circle cx="15.453" cy="14" fill="#333" r="1.604"/></g></svg>
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3
+
+@charset "utf-8";
+
+:root { --wm-toolbar-height: 65px; }
+
+#wm-ipp-base { height: 65px; padding: 0px; margin: 0px; border: none; background: none transparent; }
+
+#wm-ipp { z-index: 2147483647; }
+
+#wm-ipp, #wm-ipp * { font-family: "Lucida Grande", Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.2; letter-spacing: 0px; width: auto; height: auto; max-width: none; max-height: none; min-height: 0px; outline: none; float: none; text-align: left; border: none; color: rgb(0, 0, 0); text-indent: 0px; position: initial; background: none; min-width: 0px !important; }
+
+#wm-ipp div, #wm-ipp canvas { display: block; }
+
+#wm-ipp div, #wm-ipp tr, #wm-ipp td, #wm-ipp a, #wm-ipp form { padding: 0px; margin: 0px; border: none; border-radius: 0px; background-color: transparent; background-image: none; height: auto; }
+
+#wm-ipp table { border: none; border-collapse: collapse; margin: 0px; padding: 0px; width: auto; font-size: inherit; }
+
+#wm-ipp form input { height: auto; display: inline; margin: 0px; color: rgb(0, 0, 0); background: none rgb(255, 255, 255); border: 1px solid rgb(102, 102, 102); padding: 1px !important; }
+
+#wm-ipp form input[type="submit"] { padding: 0px 8px !important; margin: 1px 0px 1px 5px !important; width: auto !important; border: 1px solid rgb(0, 0, 0) !important; background: rgb(255, 255, 255) !important; color: rgb(0, 0, 0) !important; }
+
+#wm-ipp form input[type="submit"]:hover { background: rgb(238, 238, 238) !important; cursor: pointer !important; }
+
+#wm-ipp form input[type="submit"]:active { transform: translateY(1px); }
+
+#wm-ipp a { display: inline; }
+
+#wm-ipp a:hover { text-decoration: underline; }
+
+#wm-ipp a.wm-btn:hover { text-decoration: none; color: rgb(255, 255, 0) !important; }
+
+#wm-ipp a.wm-btn:hover span { color: rgb(255, 255, 0) !important; }
+
+#wm-ipp #wm-ipp-inside { margin: 0px 6px; border-right: 5px solid rgb(0, 0, 0); border-bottom: 5px solid rgb(0, 0, 0); border-left: 5px solid rgb(0, 0, 0); border-image: initial; border-top: none; background-color: rgba(255, 255, 255, 0.9); box-shadow: rgb(51, 51, 51) 1px 1px 4px; border-radius: 0px 0px 8px 8px; }
+
+#wm-ipp #wm-logo { padding: 0px 10px; vertical-align: middle; min-width: 100px; flex: 0 0 100px; }
+
+#wm-ipp .c { padding-left: 4px; }
+
+#wm-ipp .c .u { margin-top: 4px !important; }
+
+#wm-ipp .n { vertical-align: bottom; padding: 0px 0px 0px 5px !important; }
+
+#wm-ipp .n a { text-decoration: none; color: rgb(51, 51, 255); font-weight: bold; }
+
+#wm-ipp .n .b { overflow: visible; white-space: nowrap; color: rgb(153, 153, 170); vertical-align: middle; padding: 0px 6px 0px 0px !important; text-align: right !important; }
+
+#wm-ipp .n .y .b { padding: 0px 6px 2px 0px !important; }
+
+#wm-ipp .n .c { background: rgb(0, 0, 0); color: rgb(255, 255, 0); font-weight: bold; text-align: center; padding: 0px !important; }
+
+#wm-ipp .n .d span.ta { display: inline-block; width: 0px; height: 0px; border-color: transparent rgb(153, 153, 170); border-style: solid; }
+
+#wm-ipp .n .d .b span.ta { border-width: 8px 14px 8px 0px; }
+
+#wm-ipp .n .d .f span.ta { border-width: 8px 0px 8px 14px; }
+
+#wm-ipp .n .d a span.ta { border-color: transparent rgb(51, 51, 255); }
+
+#wm-ipp .n .d a span.ta:hover { border-color: transparent rgb(119, 119, 255); }
+
+#wm-ipp.hi .n td.c { color: rgb(236, 0, 140); }
+
+#wm-ipp .n td.f { overflow: visible; white-space: nowrap; color: rgb(153, 153, 170); vertical-align: middle; padding: 0px 0px 0px 6px !important; text-align: left !important; }
+
+#wm-ipp .n tr.m td { text-transform: uppercase; white-space: nowrap; padding: 2px 0px; }
+
+#wm-ipp .c .s { vertical-align: bottom; padding: 0px 5px 0px 0px !important; }
+
+#wm-ipp #wm-nav-captures { white-space: nowrap; }
+
+#wm-ipp .c .s a.t { color: rgb(51, 51, 255); font-weight: bold; line-height: 1.8; }
+
+#wm-ipp .c .s div.r { color: rgb(102, 102, 102); font-size: 9px; white-space: nowrap; }
+
+#wm-ipp .c .k { padding-bottom: 1px; }
+
+#wm-ipp .c .s { padding: 0px 5px 2px 0px !important; }
+
+#wm-ipp td#displayMonthEl { padding: 2px 0px !important; }
+
+#wm-ipp td#displayYearEl { padding: 0px 0px 2px !important; }
+
+div#wm-ipp-sparkline { position: relative; white-space: nowrap; background-color: rgb(255, 255, 255); cursor: pointer; line-height: 0.9; }
+
+#sparklineImgId, #wm-sparkline-canvas { position: relative; z-index: 9012; max-width: none; }
+
+#wm-ipp-sparkline div.yt { position: absolute; top: 0px; z-index: 9010 !important; background-color: rgb(255, 255, 0) !important; }
+
+#wm-ipp-sparkline div.mt { position: absolute; top: 0px; z-index: 9013 !important; background-color: rgb(236, 0, 140) !important; }
+
+#wm-ipp .r { margin-left: 4px; }
+
+#wm-ipp .r a { color: rgb(51, 51, 255); border: none; position: relative; background-color: transparent; text-decoration: none; background-repeat: no-repeat !important; background-position: 100% 100% !important; }
+
+#wm-ipp #wm-capinfo { border-radius: 0px 0px 4px 4px; }
+
+#wm-ipp #wm-capinfo .c-logo { display: block; float: left; margin-right: 3px; width: 90px; min-height: 90px; max-height: 290px; border-radius: 45px; overflow: hidden; background-position: 50% center; background-size: auto 90px; box-shadow: rgb(208, 208, 208) 0px 0px 2px 2px inset; }
+
+#wm-ipp #wm-capinfo .c-logo span { display: inline-block; }
+
+#wm-ipp #wm-capinfo .c-logo img { height: 90px; position: relative; left: -50%; }
+
+#wm-ipp #wm-capinfo .wm-title { font-size: 130%; }
+
+#wm-ipp #wm-capinfo a.wm-selector { display: inline-block; color: rgb(170, 170, 170); padding: 2px 8px; text-decoration: none !important; }
+
+#wm-ipp #wm-capinfo a.wm-selector.selected { background-color: rgb(102, 102, 102); }
+
+#wm-ipp #wm-capinfo a.wm-selector:hover { color: rgb(255, 255, 255); }
+
+#wm-ipp #wm-capinfo.notice-only #wm-capinfo-collected-by, #wm-ipp #wm-capinfo.notice-only #wm-capinfo-timestamps { display: none; }
+
+#wm-ipp #wm-capinfo #wm-capinfo-notice .wm-capinfo-content { background-color: rgb(255, 255, 0); padding: 5px; font-size: 14px; text-align: center; }
+
+#wm-ipp #wm-capinfo #wm-capinfo-notice .wm-capinfo-content * { font-size: 14px; text-align: center; }
+
+#wm-ipp #wm-expand { right: 1px; bottom: -1px; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102) !important; padding: 0px 5px 0px 3px !important; border-radius: 3px 3px 0px 0px !important; }
+
+#wm-ipp #wm-expand span { color: rgb(255, 255, 255); }
+
+#wm-ipp #wm-expand #wm-expand-icon { display: inline-block; transition: transform 0.5s; transform-origin: 50% 45%; }
+
+#wm-ipp #wm-expand.wm-open #wm-expand-icon { transform: rotate(180deg); }
+
+#wm-ipp #wmtb { text-align: right; }
+
+#wm-ipp #wmtb #wmtbURL { width: calc(100% - 45px); }
+
+#wm-ipp #wm-graph-anchor { border-right: 1px solid rgb(204, 204, 204); }
+
+html.wb-highlight { box-shadow: rgb(165, 14, 58) 0px 0px 0px 3px inset !important; }
+
+.wb-highlight { outline: rgb(165, 14, 58) solid 3px !important; }
+
+#wm-ipp-print { display: none !important; }
+
+@media print {
+  #wm-ipp-base { display: none !important; }
+  #wm-ipp-print { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block !important; }
+}
+
+@media (max-width: 414px) {
+  #wm-ipp .xxs { display: none !important; }
+}
+
+@media (min-width: 1055px) {
+  #wm-ipp #wm-graph-anchor { display: block !important; }
+}
+
+@media (max-width: 1054px) {
+  #wm-ipp #wm-graph-anchor { display: none !important; }
+}
+
+@media (max-width: 1163px) {
+  #wm-logo { display: none !important; }
+}
+
+#wm-btns { white-space: nowrap; margin-top: -2px; }
+
+#wm-btns #wm-save-snapshot-open { margin-right: 7px; top: -6px; }
+
+#wm-btns #wm-sign-in { box-sizing: content-box; display: none; margin-right: 7px; top: -8px; border: 2px solid rgb(0, 0, 0); border-radius: 14px; padding-right: 2px; padding-bottom: 2px; width: 11px; height: 11px; }
+
+#wm-btns #wm-sign-in > .iconochive-person { font-size: 12.5px; }
+
+#wm-save-snapshot-open > .iconochive-web { color: rgb(0, 0, 0); font-size: 160%; }
+
+#wm-ipp #wm-share { display: flex; align-items: flex-end; justify-content: space-between; }
+
+#wm-share > #wm-screenshot { display: inline-block; margin-right: 3px; visibility: hidden; }
+
+#wm-screenshot > .iconochive-image { color: rgb(0, 0, 0); font-size: 160%; }
+
+#wm-share > #wm-video { display: inline-block; margin-right: 3px; visibility: hidden; }
+
+#wm-video > .iconochive-movies { color: rgb(0, 0, 0); display: inline-block; font-size: 150%; margin-bottom: 2px; }
+
+#wm-btns #wm-save-snapshot-in-progress { display: none; font-size: 160%; opacity: 0.5; position: relative; margin-right: 7px; top: -5px; }
+
+#wm-btns #wm-save-snapshot-success { display: none; color: green; position: relative; top: -7px; }
+
+#wm-btns #wm-save-snapshot-fail { display: none; color: red; position: relative; top: -7px; }
+
+.wm-icon-screen-shot { display: inline-block; background: url("../images/web-screenshot.svg") 0% 0% / contain no-repeat !important; width: 22px !important; height: 19px !important; }
+
+#donato { height: 0px; margin: 0px; padding: 0px; border-bottom: 1px solid rgb(153, 153, 153) !important; }
+
+body.wm-modal { height: auto !important; overflow: hidden !important; }
+
+#donato #donato-base { width: 100%; height: 100%; margin: 0px; padding: 0px; position: absolute; z-index: 2147483639; }
+
+body.wm-modal #donato #donato-base { position: fixed; inset: 0px; z-index: 2147483640; }
+
+.wb-autocomplete-suggestions { font-family: "Lucida Grande", Helvetica, Arial, sans-serif; font-size: 12px; text-align: left; cursor: default; border-width: 0px 1px 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-right-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; border-top-style: initial; border-top-color: initial; background: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.1) -1px 1px 3px; position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden auto; box-sizing: border-box; }
+
+.wb-autocomplete-suggestion { position: relative; padding: 0px 0.6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: rgb(51, 51, 51); }
+
+.wb-autocomplete-suggestion b { font-weight: bold; }
+
+.wb-autocomplete-suggestion.selected { background: rgb(240, 240, 240); }
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-932d31c4-28dc-474c-9420-d4454a974536@mhtml.blink
+
+@charset "utf-8";
+
+body { margin: 0px auto; position: relative; width: 970px; }
+
+pre, code { font-family: Consolas, "Courier New", monospace; background-color: rgb(238, 238, 238); }
+
+code.html .tag { color: rgb(47, 111, 159); }
+
+code.html .attr-key { color: rgb(79, 159, 207); }
+
+code.html .attr-value { color: rgb(212, 73, 80); }
+
+#undocumented-rules-container { display: none; position: absolute; right: -300px; width: 250px; }
+
+#table-of-contents { background-color: rgb(238, 238, 238); border-radius: 5px; list-style: none; padding: 20px; position: fixed; }
+
+#table-of-contents a { color: rgb(52, 52, 52); }
+
+.table-of-contents-heading { font-weight: 600; }
+
+#table-of-contents a:hover { color: rgb(170, 170, 170); }
+
+#table-of-contents ul { list-style: none; padding-left: 20px; }
+
+#table-of-contents-container { left: -250px; position: absolute; width: 250px; }
+
+.roblox-reference-block { }
+
+.doc-section { border: 1px solid rgb(153, 153, 153); padding: 10px; border-radius: 5px; }
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1----
+Content-Type: text/html
+Content-ID: <frame-7F5590151DF1D53616286F4FB288C012@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20140516222548/https%3A//roblox.com/reference/styleguide
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body></body></html>
+------MultipartBoundary--F9hwNJy86ukUYUHFxVN0OluNtp4e4m2SSxoDy0Hkp1------
